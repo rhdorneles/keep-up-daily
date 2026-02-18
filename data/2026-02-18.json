@@ -1,12 +1,12 @@
 {
   "date": "2026-02-18",
-  "generated_at": "2026-02-18T07:55:24.896363+00:00",
+  "generated_at": "2026-02-18T08:14:47.682716+00:00",
   "digest": [
     {
-      "title_en": "alibaba/zvec",
-      "title_pt": "alibaba/zvec",
-      "body_en": "A lightweight, lightning-fast, in-process vector database\n\nTags: `c++`\n\nCommunity buzz: **1,473** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "A lightweight, lightning-fast, in-process vector database\n\nTags: `c++`\n\nRepercussão: **1,473** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "title_en": "Exploring Alibaba's ZVec: A Lightweight Vector Database",
+      "title_pt": "Explorando o ZVec da Alibaba: Um Banco de Dados Vetorial Leve",
+      "body_en": "In the realm of **AI** and data management, Alibaba's `zvec` stands out as a **lightweight**, **lightning-fast** in-process vector database. This tool is designed to handle high-dimensional data efficiently, making it ideal for machine learning applications that require fast retrieval of vector representations. Unlike traditional databases, `zvec` operates in-memory, which significantly boosts performance for tasks like similarity searches and clustering. The trade-off, however, is its reliance on available RAM, which can limit scalability for extremely large datasets. When should you consider using `zvec`? If your application demands real-time processing of vector data, such as recommendation systems or natural language processing, this tool could be a game-changer. In summary, `zvec` offers a compelling solution for developers looking to optimize AI workloads with speed and efficiency.",
+      "body_pt": "No reino da **IA** e gerenciamento de dados, o `zvec` da Alibaba se destaca como um banco de dados vetorial **leve** e **extremamente rápido**. Esta ferramenta é projetada para lidar com dados de alta dimensão de forma eficiente, tornando-a ideal para aplicações de aprendizado de máquina que exigem recuperação rápida de representações vetoriais. Ao contrário dos bancos de dados tradicionais, o `zvec` opera na memória, o que aumenta significativamente o desempenho para tarefas como buscas por similaridade e agrupamento. No entanto, a desvantagem é a dependência da RAM disponível, que pode limitar a escalabilidade para conjuntos de dados extremamente grandes. Quando você deve considerar usar o `zvec`? Se sua aplicação exige processamento em tempo real de dados vetoriais, como sistemas de recomendação ou processamento de linguagem natural, essa ferramenta pode ser um divisor de águas. Em resumo, o `zvec` oferece uma solução atraente para desenvolvedores que buscam otimizar cargas de trabalho de IA com velocidade e eficiência.",
       "category": "ai",
       "emoji": "🤖",
       "sources": [
@@ -18,355 +18,10 @@
       ]
     },
     {
-      "title_en": "Claude Sonnet 4.6",
-      "title_pt": "Claude Sonnet 4.6",
-      "body_en": "**Claude Sonnet 4.6** caught attention in the ai & machine learning space today.\n\nAuthor: **adocomplete**\n\nCommunity buzz: **1,051** points, **923** comments, via **Hackernews**. Check the original source below for the full story.",
-      "body_pt": "**Claude Sonnet 4.6** chamou atenção no mundo de ia & machine learning hoje.\n\nAutor: **adocomplete**\n\nRepercussão: **1,051** pontos, **923** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "ai",
-      "emoji": "🤖",
-      "sources": [
-        {
-          "title": "Claude Sonnet 4.6",
-          "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-          "source": "hackernews"
-        }
-      ]
-    },
-    {
-      "title_en": "gsd-build/get-shit-done",
-      "title_pt": "gsd-build/get-shit-done",
-      "body_en": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.\n\nTags: `javascript`\n\nCommunity buzz: **479** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.\n\nTags: `javascript`\n\nRepercussão: **479** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "ai",
-      "emoji": "🤖",
-      "sources": [
-        {
-          "title": "gsd-build/get-shit-done",
-          "url": "https://github.com/gsd-build/get-shit-done",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "harvard-edge/cs249r_book",
-      "title_pt": "harvard-edge/cs249r_book",
-      "body_en": "Introduction to Machine Learning Systems\n\nTags: `javascript`\n\nCommunity buzz: **374** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "Introduction to Machine Learning Systems\n\nTags: `javascript`\n\nRepercussão: **374** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "ai",
-      "emoji": "🤖",
-      "sources": [
-        {
-          "title": "harvard-edge/cs249r_book",
-          "url": "https://github.com/harvard-edge/cs249r_book",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "openclaw/openclaw",
-      "title_pt": "openclaw/openclaw",
-      "body_en": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞\n\nTags: `typescript`\n\nCommunity buzz: **4,201** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞\n\nTags: `typescript`\n\nRepercussão: **4,201** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "web",
-      "emoji": "🌐",
-      "sources": [
-        {
-          "title": "openclaw/openclaw",
-          "url": "https://github.com/openclaw/openclaw",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "rowboatlabs/rowboat",
-      "title_pt": "rowboatlabs/rowboat",
-      "body_en": "Open-source AI coworker, with memory\n\nTags: `typescript`\n\nCommunity buzz: **348** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "Open-source AI coworker, with memory\n\nTags: `typescript`\n\nRepercussão: **348** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "web",
-      "emoji": "🌐",
-      "sources": [
-        {
-          "title": "rowboatlabs/rowboat",
-          "url": "https://github.com/rowboatlabs/rowboat",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "seerr-team/seerr",
-      "title_pt": "seerr-team/seerr",
-      "body_en": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.\n\nTags: `typescript`\n\nCommunity buzz: **282** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.\n\nTags: `typescript`\n\nRepercussão: **282** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "web",
-      "emoji": "🌐",
-      "sources": [
-        {
-          "title": "seerr-team/seerr",
-          "url": "https://github.com/seerr-team/seerr",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "tobi/qmd",
-      "title_pt": "tobi/qmd",
-      "body_en": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local\n\nTags: `typescript`\n\nCommunity buzz: **258** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local\n\nTags: `typescript`\n\nRepercussão: **258** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "web",
-      "emoji": "🌐",
-      "sources": [
-        {
-          "title": "tobi/qmd",
-          "url": "https://github.com/tobi/qmd",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "How My Team Aligns on Prompting for Production",
-      "title_pt": "How My Team Aligns on Prompting for Production",
-      "body_en": "My team at Google is automating sample code generation and maintenance. Part of that is using...\n\nTags: `ai`, `devops`, `productivity`, `softwareengineering` · Author: **grayside**\n\nCommunity buzz: **9** points, **2** comments, via **Devto**. Check the original source below for the full story.",
-      "body_pt": "My team at Google is automating sample code generation and maintenance. Part of that is using...\n\nTags: `ai`, `devops`, `productivity`, `softwareengineering` · Autor: **grayside**\n\nRepercussão: **9** pontos, **2** comentários, via **Devto**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "devops",
-      "emoji": "☁️",
-      "sources": [
-        {
-          "title": "How My Team Aligns on Prompting for Production",
-          "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
-          "source": "devto"
-        }
-      ]
-    },
-    {
-      "title_en": "zitadel/zitadel",
-      "title_pt": "zitadel/zitadel",
-      "body_en": "ZITADEL - Identity infrastructure, simplified for you.\n\nTags: `go`\n\nCommunity buzz: **7** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "ZITADEL - Identity infrastructure, simplified for you.\n\nTags: `go`\n\nRepercussão: **7** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "devops",
-      "emoji": "☁️",
-      "sources": [
-        {
-          "title": "zitadel/zitadel",
-          "url": "https://github.com/zitadel/zitadel",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "GoogleCloudPlatform/microservices-demo",
-      "title_pt": "GoogleCloudPlatform/microservices-demo",
-      "body_en": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.\n\nTags: `go`\n\nCommunity buzz: **6** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.\n\nTags: `go`\n\nRepercussão: **6** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "devops",
-      "emoji": "☁️",
-      "sources": [
-        {
-          "title": "GoogleCloudPlatform/microservices-demo",
-          "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "external-secrets/external-secrets",
-      "title_pt": "external-secrets/external-secrets",
-      "body_en": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.\n\nTags: `go`\n\nCommunity buzz: **4** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.\n\nTags: `go`\n\nRepercussão: **4** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "devops",
-      "emoji": "☁️",
-      "sources": [
-        {
-          "title": "external-secrets/external-secrets",
-          "url": "https://github.com/external-secrets/external-secrets",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "p-e-w/heretic",
-      "title_pt": "p-e-w/heretic",
-      "body_en": "Fully automatic censorship removal for language models\n\nTags: `python`\n\nCommunity buzz: **656** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "Fully automatic censorship removal for language models\n\nTags: `python`\n\nRepercussão: **656** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "languages",
-      "emoji": "💻",
-      "sources": [
-        {
-          "title": "p-e-w/heretic",
-          "url": "https://github.com/p-e-w/heretic",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "hummingbot/hummingbot",
-      "title_pt": "hummingbot/hummingbot",
-      "body_en": "Open source software that helps you create and deploy high-frequency crypto trading bots\n\nTags: `python`\n\nCommunity buzz: **568** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "Open source software that helps you create and deploy high-frequency crypto trading bots\n\nTags: `python`\n\nRepercussão: **568** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "languages",
-      "emoji": "💻",
-      "sources": [
-        {
-          "title": "hummingbot/hummingbot",
-          "url": "https://github.com/hummingbot/hummingbot",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
-      "title_pt": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
-      "body_en": "**BarraCUDA Open-source CUDA compiler targeting AMD GPUs** caught attention in the programming languages space today.\n\nAuthor: **rurban**\n\nCommunity buzz: **265** points, **100** comments, via **Hackernews**. Check the original source below for the full story.",
-      "body_pt": "**BarraCUDA Open-source CUDA compiler targeting AMD GPUs** chamou atenção no mundo de linguagens de programação hoje.\n\nAutor: **rurban**\n\nRepercussão: **265** pontos, **100** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "languages",
-      "emoji": "💻",
-      "sources": [
-        {
-          "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
-          "url": "https://github.com/Zaneham/BarraCUDA",
-          "source": "hackernews"
-        }
-      ]
-    },
-    {
-      "title_en": "ruvnet/wifi-densepose",
-      "title_pt": "ruvnet/wifi-densepose",
-      "body_en": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers\n\nTags: `python`\n\nCommunity buzz: **258** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers\n\nTags: `python`\n\nRepercussão: **258** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "languages",
-      "emoji": "💻",
-      "sources": [
-        {
-          "title": "ruvnet/wifi-densepose",
-          "url": "https://github.com/ruvnet/wifi-densepose",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "obra/superpowers",
-      "title_pt": "obra/superpowers",
-      "body_en": "An agentic skills framework & software development methodology that works.\n\nTags: `shell`\n\nCommunity buzz: **569** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "An agentic skills framework & software development methodology that works.\n\nTags: `shell`\n\nRepercussão: **569** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "frameworks",
-      "emoji": "🧩",
-      "sources": [
-        {
-          "title": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "danielmiessler/Fabric",
-      "title_pt": "danielmiessler/Fabric",
-      "body_en": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.\n\nTags: `go`\n\nCommunity buzz: **34** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.\n\nTags: `go`\n\nRepercussão: **34** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "frameworks",
-      "emoji": "🧩",
-      "sources": [
-        {
-          "title": "danielmiessler/Fabric",
-          "url": "https://github.com/danielmiessler/Fabric",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies",
-      "title_pt": "Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies",
-      "body_en": "**Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies** caught attention in the frameworks & tools space today.\n\nTags: `web` · Author: **sylq**\n\nCommunity buzz: **29** points, **2** comments, via **Lobsters**. Check the original source below for the full story.",
-      "body_pt": "**Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies** chamou atenção no mundo de frameworks & ferramentas hoje.\n\nTags: `web` · Autor: **sylq**\n\nRepercussão: **29** pontos, **2** comentários, via **Lobsters**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "frameworks",
-      "emoji": "🧩",
-      "sources": [
-        {
-          "title": "Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies",
-          "url": "https://oat.ink/",
-          "source": "lobsters"
-        }
-      ]
-    },
-    {
-      "title_en": "tursodatabase/turso",
-      "title_pt": "tursodatabase/turso",
-      "body_en": "Turso is an in-process SQL database, compatible with SQLite.\n\nTags: `rust`\n\nCommunity buzz: **16** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "Turso is an in-process SQL database, compatible with SQLite.\n\nTags: `rust`\n\nRepercussão: **16** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "frameworks",
-      "emoji": "🧩",
-      "sources": [
-        {
-          "title": "tursodatabase/turso",
-          "url": "https://github.com/tursodatabase/turso",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "GH05TCREW/pentestagent",
-      "title_pt": "GH05TCREW/pentestagent",
-      "body_en": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.\n\nTags: `python`\n\nCommunity buzz: **18** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.\n\nTags: `python`\n\nRepercussão: **18** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "security",
-      "emoji": "🔒",
-      "sources": [
-        {
-          "title": "GH05TCREW/pentestagent",
-          "url": "https://github.com/GH05TCREW/pentestagent",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "martin-olivier/airgorah",
-      "title_pt": "martin-olivier/airgorah",
-      "body_en": "A WiFi security auditing software mainly based on aircrack-ng tools suite\n\nTags: `rust`\n\nCommunity buzz: **17** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "A WiFi security auditing software mainly based on aircrack-ng tools suite\n\nTags: `rust`\n\nRepercussão: **17** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "security",
-      "emoji": "🔒",
-      "sources": [
-        {
-          "title": "martin-olivier/airgorah",
-          "url": "https://github.com/martin-olivier/airgorah",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "LeBron James Is President – Exploiting LLMs via \"Alignment\" Context Injection",
-      "title_pt": "LeBron James Is President – Exploiting LLMs via \"Alignment\" Context Injection",
-      "body_en": "**LeBron James Is President – Exploiting LLMs via \"Alignment\" Context Injection** caught attention in the security space today.\n\nTags: `ai`, `programming`, `science` · Author: **skavanagh**\n\nCommunity buzz: **7** points, **4** comments, via **Lobsters**. Check the original source below for the full story.",
-      "body_pt": "**LeBron James Is President – Exploiting LLMs via \"Alignment\" Context Injection** chamou atenção no mundo de segurança hoje.\n\nTags: `ai`, `programming`, `science` · Autor: **skavanagh**\n\nRepercussão: **7** pontos, **4** comentários, via **Lobsters**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "security",
-      "emoji": "🔒",
-      "sources": [
-        {
-          "title": "LeBron James Is President – Exploiting LLMs via \"Alignment\" Context Injection",
-          "url": "https://github.com/skavanagh/lebron-james-is-president",
-          "source": "lobsters"
-        }
-      ]
-    },
-    {
-      "title_en": "How We Added Per-Video Download Controls",
-      "title_pt": "How We Added Per-Video Download Controls",
-      "body_en": "When you share a screen recording with a client, you might not want them downloading the file. We...\n\nTags: `go`, `webdev`, `opensource`, `security` · Author: **alexneamtu**\n\nCommunity buzz: **1** points, via **Devto**. Check the original source below for the full story.",
-      "body_pt": "When you share a screen recording with a client, you might not want them downloading the file. We...\n\nTags: `go`, `webdev`, `opensource`, `security` · Autor: **alexneamtu**\n\nRepercussão: **1** pontos, via **Devto**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "security",
-      "emoji": "🔒",
-      "sources": [
-        {
-          "title": "How We Added Per-Video Download Controls",
-          "url": "https://dev.to/alexneamtu/how-we-added-per-video-download-controls-41a9",
-          "source": "devto"
-        }
-      ]
-    },
-    {
-      "title_en": "ashishps1/awesome-system-design-resources",
-      "title_pt": "ashishps1/awesome-system-design-resources",
-      "body_en": "Learn System Design concepts and prepare for interviews using free resources.\n\nTags: `java`\n\nCommunity buzz: **510** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "Learn System Design concepts and prepare for interviews using free resources.\n\nTags: `java`\n\nRepercussão: **510** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "title_en": "Building Your Career with System Design Resources",
+      "title_pt": "Construindo Sua Carreira com Recursos de Design de Sistemas",
+      "body_en": "As software systems grow in complexity, understanding **system design** becomes crucial for developers aiming to advance their careers. A curated list of resources, such as `awesome-system-design-resources`, offers free materials for mastering the concepts needed for interviews and real-world applications. This repository includes links to books, online courses, and practical examples that cover various design patterns and architectural styles. The trade-off here is the vast amount of information available; without a structured approach, it can be overwhelming. When should you dive into these resources? If you’re preparing for technical interviews or looking to enhance your design skills for larger projects, these materials will prove invaluable. Ultimately, investing time in system design knowledge can significantly boost your employability and effectiveness as a software engineer.",
+      "body_pt": "À medida que os sistemas de software crescem em complexidade, entender o **design de sistemas** se torna crucial para desenvolvedores que desejam avançar em suas carreiras. Uma lista curada de recursos, como `awesome-system-design-resources`, oferece materiais gratuitos para dominar os conceitos necessários para entrevistas e aplicações do mundo real. Este repositório inclui links para livros, cursos online e exemplos práticos que cobrem vários padrões de design e estilos arquitetônicos. A desvantagem aqui é a vasta quantidade de informações disponíveis; sem uma abordagem estruturada, pode ser esmagador. Quando você deve mergulhar nesses recursos? Se você está se preparando para entrevistas técnicas ou procurando aprimorar suas habilidades de design para projetos maiores, esses materiais serão inestimáveis. Em última análise, investir tempo no conhecimento de design de sistemas pode aumentar significativamente sua empregabilidade e eficácia como engenheiro de software.",
       "category": "career",
       "emoji": "🚀",
       "sources": [
@@ -378,112 +33,82 @@
       ]
     },
     {
-      "title_en": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
-      "title_pt": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
-      "body_en": "**Thousands of CEOs just admitted AI had no impact on employment or productivity** caught attention in the career & community space today.\n\nAuthor: **virgildotcodes**\n\nCommunity buzz: **389** points, **270** comments, via **Hackernews**. Check the original source below for the full story.",
-      "body_pt": "**Thousands of CEOs just admitted AI had no impact on employment or productivity** chamou atenção no mundo de carreira & comunidade hoje.\n\nAutor: **virgildotcodes**\n\nRepercussão: **389** pontos, **270** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "career",
-      "emoji": "🚀",
+      "title_en": "Automating Code Generation and Maintenance in DevOps",
+      "title_pt": "Automatizando Geração e Manutenção de Código em DevOps",
+      "body_en": "In the world of **DevOps**, automating repetitive tasks can lead to substantial productivity gains. A recent discussion from a Google team highlights their approach to automating sample code generation and maintenance, which involves leveraging AI tools to streamline workflows. By integrating AI into their CI/CD pipelines, they can reduce manual coding efforts and minimize errors. However, this approach requires careful planning to ensure that the AI-generated code meets quality standards. When should you implement such automation? If your team is bogged down by repetitive coding tasks or struggling with code consistency, AI-driven automation could be the solution you need. The takeaway here is clear: embracing automation in your development processes can significantly enhance efficiency and allow your team to focus on more strategic tasks.",
+      "body_pt": "No mundo do **DevOps**, automatizar tarefas repetitivas pode levar a ganhos substanciais de produtividade. Uma discussão recente de uma equipe do Google destaca sua abordagem para automatizar a geração e manutenção de código de exemplo, que envolve aproveitar ferramentas de IA para agilizar fluxos de trabalho. Ao integrar IA em seus pipelines de CI/CD, eles podem reduzir os esforços manuais de codificação e minimizar erros. No entanto, essa abordagem requer planejamento cuidadoso para garantir que o código gerado pela IA atenda aos padrões de qualidade. Quando você deve implementar essa automação? Se sua equipe está sobrecarregada com tarefas de codificação repetitivas ou lutando com a consistência do código, a automação impulsionada por IA pode ser a solução de que você precisa. A conclusão aqui é clara: abraçar a automação em seus processos de desenvolvimento pode aumentar significativamente a eficiência e permitir que sua equipe se concentre em tarefas mais estratégicas.",
+      "category": "devops",
+      "emoji": "☁️",
       "sources": [
         {
-          "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
-          "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
-          "source": "hackernews"
-        }
-      ]
-    },
-    {
-      "title_en": "I’ve Seen This Architecture Before. It Ends in Tears.",
-      "title_pt": "I’ve Seen This Architecture Before. It Ends in Tears.",
-      "body_en": "I’ve been writing software long enough to know one eternal truth:  Nothing is more permanent than a...\n\nTags: `career`, `programming`, `software`, `discuss` · Author: **art_light**\n\nCommunity buzz: **62** points, **1** comments, via **Devto**. Check the original source below for the full story.",
-      "body_pt": "I’ve been writing software long enough to know one eternal truth:  Nothing is more permanent than a...\n\nTags: `career`, `programming`, `software`, `discuss` · Autor: **art_light**\n\nRepercussão: **62** pontos, **1** comentários, via **Devto**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "career",
-      "emoji": "🚀",
-      "sources": [
-        {
-          "title": "I’ve Seen This Architecture Before. It Ends in Tears.",
-          "url": "https://dev.to/art_light/ive-seen-this-architecture-before-it-ends-in-tears-3bld",
+          "title": "How My Team Aligns on Prompting for Production",
+          "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
           "source": "devto"
         }
       ]
     },
     {
-      "title_en": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
-      "title_pt": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
-      "body_en": "We are currently living through the greatest inflation of software in history.  With the AI tools we...\n\nTags: `softwareengineering`, `career`, `productivity`, `discuss` · Author: **the_nortern_dev**\n\nCommunity buzz: **42** points, **25** comments, via **Devto**. Check the original source below for the full story.",
-      "body_pt": "We are currently living through the greatest inflation of software in history.  With the AI tools we...\n\nTags: `softwareengineering`, `career`, `productivity`, `discuss` · Autor: **the_nortern_dev**\n\nRepercussão: **42** pontos, **25** comentários, via **Devto**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "career",
-      "emoji": "🚀",
+      "title_en": "Securing Applications with PentestAgent Framework",
+      "title_pt": "Segurando Aplicações com o Framework PentestAgent",
+      "body_en": "As security threats continue to evolve, developers must stay ahead with robust testing frameworks. The `PentestAgent` is an AI-driven framework designed for black-box security testing, supporting bug bounty programs, red-team exercises, and penetration testing. It automates the identification of vulnerabilities in applications, providing a comprehensive approach to security assessments. One of the key benefits of using `PentestAgent` is its ability to simulate real-world attack scenarios, allowing teams to proactively address potential weaknesses. However, reliance on automated tools should not replace manual testing entirely. When should you consider using this framework? If your organization is serious about security and regularly conducts penetration tests, incorporating `PentestAgent` can enhance your security posture. In summary, leveraging AI in security testing can provide deeper insights and improve overall application security.",
+      "body_pt": "À medida que as ameaças de segurança continuam a evoluir, os desenvolvedores devem se manter à frente com frameworks de teste robustos. O `PentestAgent` é um framework impulsionado por IA projetado para testes de segurança de caixa-preta, suportando programas de recompensa por bugs, exercícios de equipe vermelha e testes de penetração. Ele automatiza a identificação de vulnerabilidades em aplicações, fornecendo uma abordagem abrangente para avaliações de segurança. Um dos principais benefícios de usar o `PentestAgent` é sua capacidade de simular cenários de ataque do mundo real, permitindo que as equipes abordem proativamente as fraquezas potenciais. No entanto, a dependência de ferramentas automatizadas não deve substituir completamente os testes manuais. Quando você deve considerar usar este framework? Se sua organização leva a segurança a sério e realiza testes de penetração regularmente, incorporar o `PentestAgent` pode melhorar sua postura de segurança. Em resumo, aproveitar a IA em testes de segurança pode fornecer insights mais profundos e melhorar a segurança geral da aplicação.",
+      "category": "security",
+      "emoji": "🔒",
       "sources": [
         {
-          "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
-          "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
-          "source": "devto"
-        }
-      ]
-    },
-    {
-      "title_en": "Thank HN: You helped save 33k lives",
-      "title_pt": "Thank HN: You helped save 33k lives",
-      "body_en": "**Thank HN: You helped save 33k lives** caught attention in the general tech space today.\n\nAuthor: **chaseadam17**\n\nCommunity buzz: **724** points, **75** comments, via **Hackernews**. Check the original source below for the full story.",
-      "body_pt": "**Thank HN: You helped save 33k lives** chamou atenção no mundo de tecnologia em geral hoje.\n\nAutor: **chaseadam17**\n\nRepercussão: **724** pontos, **75** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "general",
-      "emoji": "📌",
-      "sources": [
-        {
-          "title": "Thank HN: You helped save 33k lives",
-          "url": "https://news.ycombinator.com/item?id=47049824",
-          "source": "hackernews"
-        }
-      ]
-    },
-    {
-      "title_en": "steipete/gogcli",
-      "title_pt": "steipete/gogcli",
-      "body_en": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.\n\nTags: `go`\n\nCommunity buzz: **469** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.\n\nTags: `go`\n\nRepercussão: **469** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "general",
-      "emoji": "📌",
-      "sources": [
-        {
-          "title": "steipete/gogcli",
-          "url": "https://github.com/steipete/gogcli",
+          "title": "GH05TCREW/pentestagent",
+          "url": "https://github.com/GH05TCREW/pentestagent",
           "source": "github_trending"
         }
       ]
     },
     {
-      "title_en": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
-      "title_pt": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
-      "body_en": "**Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)** caught attention in the general tech space today.\n\nAuthor: **walterbell**\n\nCommunity buzz: **361** points, **190** comments, via **Hackernews**. Check the original source below for the full story.",
-      "body_pt": "**Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)** chamou atenção no mundo de tecnologia em geral hoje.\n\nAutor: **walterbell**\n\nRepercussão: **361** pontos, **190** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "general",
-      "emoji": "📌",
+      "title_en": "Creating a Personal AI Assistant with OpenClaw",
+      "title_pt": "Criando um Assistente Pessoal de IA com OpenClaw",
+      "body_en": "The rise of personal AI assistants has transformed how we interact with technology. `OpenClaw` is an open-source project that allows developers to create their own personal AI assistants that can run on any operating system and platform. Built with **TypeScript**, it offers a flexible architecture that can be customized to fit specific user needs. One of the standout features of `OpenClaw` is its ability to integrate with various APIs, enabling it to perform tasks ranging from scheduling to information retrieval. However, developers should be aware of the challenges in maintaining such a system, including ensuring data privacy and managing user interactions. If you're looking to build a personalized AI experience, `OpenClaw` provides a solid foundation. The key takeaway is that creating a tailored AI assistant can enhance productivity and streamline daily tasks.",
+      "body_pt": "A ascensão dos assistentes pessoais de IA transformou a maneira como interagimos com a tecnologia. O `OpenClaw` é um projeto de código aberto que permite aos desenvolvedores criar seus próprios assistentes pessoais de IA que podem ser executados em qualquer sistema operacional e plataforma. Construído com **TypeScript**, oferece uma arquitetura flexível que pode ser personalizada para atender a necessidades específicas dos usuários. Uma das características mais notáveis do `OpenClaw` é sua capacidade de se integrar a várias APIs, permitindo que realize tarefas que vão desde agendamentos até recuperação de informações. No entanto, os desenvolvedores devem estar cientes dos desafios de manter tal sistema, incluindo garantir a privacidade dos dados e gerenciar interações com os usuários. Se você está procurando construir uma experiência de IA personalizada, o `OpenClaw` fornece uma base sólida. A principal conclusão é que criar um assistente de IA sob medida pode aumentar a produtividade e simplificar tarefas diárias.",
+      "category": "web",
+      "emoji": "🌐",
       "sources": [
         {
-          "title": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
-          "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
-          "source": "hackernews"
+          "title": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "source": "github_trending"
         }
       ]
     },
     {
-      "title_en": "nautechsystems/nautilus_trader",
-      "title_pt": "nautechsystems/nautilus_trader",
-      "body_en": "A high-performance algorithmic trading platform and event-driven backtester\n\nTags: `rust`\n\nCommunity buzz: **359** points, via **Github Trending**. Check the original source below for the full story.",
-      "body_pt": "A high-performance algorithmic trading platform and event-driven backtester\n\nTags: `rust`\n\nRepercussão: **359** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "general",
-      "emoji": "📌",
+      "title_en": "Enhancing Human Capabilities with Fabric Framework",
+      "title_pt": "Aprimorando as Capacidades Humanas com o Framework Fabric",
+      "body_en": "As AI technologies advance, frameworks like `Fabric` are emerging to augment human capabilities in software development. This open-source framework provides a modular system that allows developers to integrate AI functionalities into their applications seamlessly. By leveraging AI, `Fabric` helps automate mundane tasks, enabling developers to focus on more complex problem-solving. The trade-off, however, is the learning curve associated with understanding how to effectively implement AI features. When should you consider using `Fabric`? If your projects require intelligent automation or enhanced user interaction, this framework could be a valuable asset. In conclusion, `Fabric` represents a significant step towards merging AI with traditional software development, paving the way for more innovative applications.",
+      "body_pt": "À medida que as tecnologias de IA avançam, frameworks como o `Fabric` estão surgindo para aumentar as capacidades humanas no desenvolvimento de software. Este framework de código aberto fornece um sistema modular que permite aos desenvolvedores integrar funcionalidades de IA em suas aplicações de forma contínua. Ao aproveitar a IA, o `Fabric` ajuda a automatizar tarefas mundanas, permitindo que os desenvolvedores se concentrem em resolver problemas mais complexos. A desvantagem, no entanto, é a curva de aprendizado associada à compreensão de como implementar efetivamente as funcionalidades de IA. Quando você deve considerar usar o `Fabric`? Se seus projetos exigem automação inteligente ou interação aprimorada com o usuário, este framework pode ser um ativo valioso. Em conclusão, o `Fabric` representa um passo significativo em direção à fusão da IA com o desenvolvimento de software tradicional, abrindo caminho para aplicações mais inovadoras.",
+      "category": "frameworks",
+      "emoji": "🧩",
       "sources": [
         {
-          "title": "nautechsystems/nautilus_trader",
-          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "title": "danielmiessler/Fabric",
+          "url": "https://github.com/danielmiessler/Fabric",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "Understanding Microservices with Google Cloud's Sample App",
+      "title_pt": "Entendendo Microserviços com o App de Exemplo do Google Cloud",
+      "body_en": "Microservices architecture has become a popular approach to building scalable applications. The `microservices-demo` from Google Cloud showcases a cloud-first application composed of 10 microservices, demonstrating the power of **Kubernetes**, **Istio**, and **gRPC**. Each microservice operates independently, allowing for easier updates and scaling. However, managing multiple services can introduce complexity, particularly in terms of inter-service communication and data consistency. When should you explore microservices? If your application is expected to grow and requires flexibility, adopting a microservices architecture can be beneficial. The takeaway is that understanding microservices through practical examples like Google's demo can provide valuable insights into building modern applications.",
+      "body_pt": "A arquitetura de microserviços se tornou uma abordagem popular para construir aplicações escaláveis. O `microservices-demo` do Google Cloud apresenta uma aplicação orientada para a nuvem composta por 10 microserviços, demonstrando o poder do **Kubernetes**, **Istio** e **gRPC**. Cada microserviço opera de forma independente, permitindo atualizações e escalonamentos mais fáceis. No entanto, gerenciar vários serviços pode introduzir complexidade, particularmente em termos de comunicação entre serviços e consistência de dados. Quando você deve explorar microserviços? Se sua aplicação deve crescer e exigir flexibilidade, adotar uma arquitetura de microserviços pode ser benéfico. A conclusão é que entender microserviços por meio de exemplos práticos como a demonstração do Google pode fornecer insights valiosos sobre a construção de aplicações modernas.",
+      "category": "devops",
+      "emoji": "☁️",
+      "sources": [
+        {
+          "title": "GoogleCloudPlatform/microservices-demo",
+          "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
           "source": "github_trending"
         }
       ]
     }
   ],
-  "digest_count": 32,
+  "digest_count": 7,
   "raw_article_count": 154,
   "sources": [
     "devto",
@@ -506,7 +131,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:17.649852+00:00",
+      "fetched_at": "2026-02-18T08:14:04.789495+00:00",
       "language": "en"
     },
     {
@@ -523,7 +148,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:17.649208+00:00",
+      "fetched_at": "2026-02-18T08:14:04.788986+00:00",
       "language": "en"
     },
     {
@@ -534,11 +159,11 @@
       "author": "adocomplete",
       "tags": [],
       "category": "ai",
-      "score": 1051,
-      "comments_count": 923,
+      "score": 1056,
+      "comments_count": 927,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:13.585705+00:00",
+      "fetched_at": "2026-02-18T08:13:59.323024+00:00",
       "language": "en"
     },
     {
@@ -549,11 +174,11 @@
       "author": "chaseadam17",
       "tags": [],
       "category": "general",
-      "score": 724,
-      "comments_count": 75,
+      "score": 736,
+      "comments_count": 76,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:13.789610+00:00",
+      "fetched_at": "2026-02-18T08:13:59.632516+00:00",
       "language": "en"
     },
     {
@@ -570,7 +195,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:17.646886+00:00",
+      "fetched_at": "2026-02-18T08:14:04.787117+00:00",
       "language": "en"
     },
     {
@@ -587,7 +212,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:17.648072+00:00",
+      "fetched_at": "2026-02-18T08:14:04.788077+00:00",
       "language": "en"
     },
     {
@@ -604,7 +229,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:17.652104+00:00",
+      "fetched_at": "2026-02-18T08:14:04.791271+00:00",
       "language": "en"
     },
     {
@@ -621,7 +246,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:17.650837+00:00",
+      "fetched_at": "2026-02-18T08:14:04.790285+00:00",
       "language": "en"
     },
     {
@@ -638,7 +263,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:19.724882+00:00",
+      "fetched_at": "2026-02-18T08:14:07.372014+00:00",
       "language": "en"
     },
     {
@@ -655,7 +280,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:17.648698+00:00",
+      "fetched_at": "2026-02-18T08:14:04.788574+00:00",
       "language": "en"
     },
     {
@@ -666,11 +291,26 @@
       "author": "virgildotcodes",
       "tags": [],
       "category": "career",
-      "score": 389,
-      "comments_count": 270,
+      "score": 408,
+      "comments_count": 280,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:14.156081+00:00",
+      "fetched_at": "2026-02-18T08:14:00.205176+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
+      "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+      "source": "hackernews",
+      "description": "",
+      "author": "walterbell",
+      "tags": [],
+      "category": "general",
+      "score": 377,
+      "comments_count": 197,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:13:59.008500+00:00",
       "language": "en"
     },
     {
@@ -687,22 +327,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:19.725401+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
-      "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
-      "source": "hackernews",
-      "description": "",
-      "author": "walterbell",
-      "tags": [],
-      "category": "general",
-      "score": 361,
-      "comments_count": 190,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:55:13.377384+00:00",
+      "fetched_at": "2026-02-18T08:14:07.372436+00:00",
       "language": "en"
     },
     {
@@ -719,7 +344,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:22.093125+00:00",
+      "fetched_at": "2026-02-18T08:14:09.740101+00:00",
       "language": "en"
     },
     {
@@ -730,11 +355,11 @@
       "author": "moWerk",
       "tags": [],
       "category": "general",
-      "score": 348,
-      "comments_count": 38,
+      "score": 357,
+      "comments_count": 40,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:14.053080+00:00",
+      "fetched_at": "2026-02-18T08:14:00.047453+00:00",
       "language": "en"
     },
     {
@@ -751,7 +376,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:20.696093+00:00",
+      "fetched_at": "2026-02-18T08:14:08.465777+00:00",
       "language": "en"
     },
     {
@@ -762,11 +387,11 @@
       "author": "todsacerdoti",
       "tags": [],
       "category": "general",
-      "score": 326,
+      "score": 328,
       "comments_count": 69,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:14.781075+00:00",
+      "fetched_at": "2026-02-18T08:14:01.752080+00:00",
       "language": "en"
     },
     {
@@ -777,11 +402,11 @@
       "author": "todsacerdoti",
       "tags": [],
       "category": "general",
-      "score": 316,
+      "score": 319,
       "comments_count": 110,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:14.365669+00:00",
+      "fetched_at": "2026-02-18T08:14:00.847211+00:00",
       "language": "en"
     },
     {
@@ -792,11 +417,11 @@
       "author": "hentrep",
       "tags": [],
       "category": "general",
-      "score": 295,
-      "comments_count": 147,
+      "score": 296,
+      "comments_count": 148,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:15.936896+00:00",
+      "fetched_at": "2026-02-18T08:14:03.001101+00:00",
       "language": "en"
     },
     {
@@ -813,7 +438,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:17.647424+00:00",
+      "fetched_at": "2026-02-18T08:14:04.787558+00:00",
       "language": "en"
     },
     {
@@ -824,11 +449,26 @@
       "author": "rurban",
       "tags": [],
       "category": "languages",
-      "score": 265,
-      "comments_count": 100,
+      "score": 274,
+      "comments_count": 103,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:13.896799+00:00",
+      "fetched_at": "2026-02-18T08:13:59.787480+00:00",
+      "language": "en"
+    },
+    {
+      "title": "15 years later, Microsoft morged my diagram",
+      "url": "https://nvie.com/posts/15-years-later/",
+      "source": "hackernews",
+      "description": "",
+      "author": "cheeaun",
+      "tags": [],
+      "category": "general",
+      "score": 266,
+      "comments_count": 85,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:13:58.850859+00:00",
       "language": "en"
     },
     {
@@ -845,7 +485,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:18.691760+00:00",
+      "fetched_at": "2026-02-18T08:14:05.953095+00:00",
       "language": "en"
     },
     {
@@ -862,7 +502,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:20.697595+00:00",
+      "fetched_at": "2026-02-18T08:14:08.467060+00:00",
       "language": "en"
     },
     {
@@ -873,26 +513,11 @@
       "author": "kewonit",
       "tags": [],
       "category": "general",
-      "score": 246,
+      "score": 247,
       "comments_count": 48,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:15.831962+00:00",
-      "language": "en"
-    },
-    {
-      "title": "15 years later, Microsoft morged my diagram",
-      "url": "https://nvie.com/posts/15-years-later/",
-      "source": "hackernews",
-      "description": "",
-      "author": "cheeaun",
-      "tags": [],
-      "category": "general",
-      "score": 229,
-      "comments_count": 72,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:55:13.271221+00:00",
+      "fetched_at": "2026-02-18T08:14:02.842094+00:00",
       "language": "en"
     },
     {
@@ -903,11 +528,11 @@
       "author": "crescit_eundo",
       "tags": [],
       "category": "general",
-      "score": 207,
+      "score": 210,
       "comments_count": 84,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:14.887892+00:00",
+      "fetched_at": "2026-02-18T08:14:01.908456+00:00",
       "language": "en"
     },
     {
@@ -918,11 +543,11 @@
       "author": "cdegroot",
       "tags": [],
       "category": "general",
-      "score": 194,
-      "comments_count": 73,
+      "score": 198,
+      "comments_count": 75,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:15.416746+00:00",
+      "fetched_at": "2026-02-18T08:14:02.374566+00:00",
       "language": "en"
     },
     {
@@ -939,7 +564,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:17.650345+00:00",
+      "fetched_at": "2026-02-18T08:14:04.789898+00:00",
       "language": "en"
     },
     {
@@ -956,7 +581,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:22.093619+00:00",
+      "fetched_at": "2026-02-18T08:14:09.740485+00:00",
       "language": "en"
     },
     {
@@ -967,11 +592,26 @@
       "author": "Philpax",
       "tags": [],
       "category": "general",
-      "score": 186,
+      "score": 188,
       "comments_count": 50,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:14.995272+00:00",
+      "fetched_at": "2026-02-18T08:14:02.063741+00:00",
+      "language": "en"
+    },
+    {
+      "title": "I swear the UFO is coming any minute",
+      "url": "https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute",
+      "source": "hackernews",
+      "description": "",
+      "author": "Ariarule",
+      "tags": [],
+      "category": "general",
+      "score": 149,
+      "comments_count": 51,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:14:03.467464+00:00",
       "language": "en"
     },
     {
@@ -988,7 +628,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:17.651470+00:00",
+      "fetched_at": "2026-02-18T08:14:04.790771+00:00",
       "language": "en"
     },
     {
@@ -1005,7 +645,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:18.695399+00:00",
+      "fetched_at": "2026-02-18T08:14:05.955991+00:00",
       "language": "en"
     },
     {
@@ -1022,37 +662,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:17.653098+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Physicists Make Electrons Flow Like Water",
-      "url": "https://www.quantamagazine.org/physicists-make-electrons-flow-like-water-20260211/",
-      "source": "hackernews",
-      "description": "",
-      "author": "rbanffy",
-      "tags": [],
-      "category": "general",
-      "score": 94,
-      "comments_count": 14,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:55:16.247626+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Minimal x86 Kernel Zig",
-      "url": "https://github.com/lopespm/zig-minimal-kernel-x86",
-      "source": "hackernews",
-      "description": "",
-      "author": "lopespm",
-      "tags": [],
-      "category": "languages",
-      "score": 91,
-      "comments_count": 27,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:55:14.468818+00:00",
+      "fetched_at": "2026-02-18T08:14:04.792066+00:00",
       "language": "en"
     },
     {
@@ -1063,11 +673,26 @@
       "author": "NaOH",
       "tags": [],
       "category": "general",
-      "score": 91,
+      "score": 93,
       "comments_count": 34,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:16.144070+00:00",
+      "fetched_at": "2026-02-18T08:14:03.308804+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Minimal x86 Kernel Zig",
+      "url": "https://github.com/lopespm/zig-minimal-kernel-x86",
+      "source": "hackernews",
+      "description": "",
+      "author": "lopespm",
+      "tags": [],
+      "category": "languages",
+      "score": 92,
+      "comments_count": 28,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:14:01.119250+00:00",
       "language": "en"
     },
     {
@@ -1085,7 +710,7 @@
       "comments_count": 19,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249686+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125090+00:00",
       "language": "en"
     },
     {
@@ -1103,7 +728,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249807+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125180+00:00",
       "language": "en"
     },
     {
@@ -1120,7 +745,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:17.652589+00:00",
+      "fetched_at": "2026-02-18T08:14:04.791659+00:00",
       "language": "en"
     },
     {
@@ -1137,7 +762,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:23.302106+00:00",
+      "fetched_at": "2026-02-18T08:14:11.186893+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
+      "url": "https://www.vogons.org/viewtopic.php?t=105451",
+      "source": "hackernews",
+      "description": "",
+      "author": "LowLevelMahn",
+      "tags": [],
+      "category": "general",
+      "score": 75,
+      "comments_count": 14,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:14:01.279133+00:00",
       "language": "en"
     },
     {
@@ -1153,11 +793,11 @@
         "buildmultiagents"
       ],
       "category": "ai",
-      "score": 73,
+      "score": 74,
       "comments_count": 4,
       "reading_time_min": 3,
       "published_at": "2026-02-17T18:27:56Z",
-      "fetched_at": "2026-02-18T07:55:13.135872+00:00",
+      "fetched_at": "2026-02-18T08:13:58.600726+00:00",
       "language": "en"
     },
     {
@@ -1174,22 +814,7 @@
       "comments_count": 10,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249775+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
-      "url": "https://www.vogons.org/viewtopic.php?t=105451",
-      "source": "hackernews",
-      "description": "",
-      "author": "LowLevelMahn",
-      "tags": [],
-      "category": "general",
-      "score": 70,
-      "comments_count": 14,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:55:14.676262+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125156+00:00",
       "language": "en"
     },
     {
@@ -1203,11 +828,11 @@
         "slides"
       ],
       "category": "web",
-      "score": 69,
+      "score": 70,
       "comments_count": 10,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249749+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125135+00:00",
       "language": "en"
     },
     {
@@ -1224,7 +849,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:22.097496+00:00",
+      "fetched_at": "2026-02-18T08:14:09.743524+00:00",
       "language": "en"
     },
     {
@@ -1241,7 +866,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:22.094262+00:00",
+      "fetched_at": "2026-02-18T08:14:09.740983+00:00",
       "language": "en"
     },
     {
@@ -1261,7 +886,7 @@
       "comments_count": 1,
       "reading_time_min": 2,
       "published_at": "2026-02-17T21:56:40Z",
-      "fetched_at": "2026-02-18T07:55:13.135908+00:00",
+      "fetched_at": "2026-02-18T08:13:58.600756+00:00",
       "language": "en"
     },
     {
@@ -1274,11 +899,11 @@
         "vcs"
       ],
       "category": "general",
-      "score": 55,
+      "score": 56,
       "comments_count": 11,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249714+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125112+00:00",
       "language": "en"
     },
     {
@@ -1295,7 +920,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:18.695902+00:00",
+      "fetched_at": "2026-02-18T08:14:05.956376+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Terminals should generate the 256-color palette",
+      "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
+      "source": "hackernews",
+      "description": "",
+      "author": "tosh",
+      "tags": [],
+      "category": "general",
+      "score": 52,
+      "comments_count": 12,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:13:59.164282+00:00",
       "language": "en"
     },
     {
@@ -1307,10 +947,10 @@
       "tags": [],
       "category": "general",
       "score": 52,
-      "comments_count": 11,
+      "comments_count": 12,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:15.100630+00:00",
+      "fetched_at": "2026-02-18T08:14:02.217150+00:00",
       "language": "en"
     },
     {
@@ -1327,7 +967,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:18.693274+00:00",
+      "fetched_at": "2026-02-18T08:14:05.954297+00:00",
       "language": "en"
     },
     {
@@ -1344,22 +984,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:18.694278+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Terminals should generate the 256-color palette",
-      "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
-      "source": "hackernews",
-      "description": "",
-      "author": "tosh",
-      "tags": [],
-      "category": "general",
-      "score": 44,
-      "comments_count": 9,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:55:13.482793+00:00",
+      "fetched_at": "2026-02-18T08:14:05.955101+00:00",
       "language": "en"
     },
     {
@@ -1370,11 +995,11 @@
       "author": "Zaki101Aslam",
       "tags": [],
       "category": "general",
-      "score": 43,
+      "score": 44,
       "comments_count": 10,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:15.625320+00:00",
+      "fetched_at": "2026-02-18T08:14:02.682006+00:00",
       "language": "en"
     },
     {
@@ -1391,10 +1016,10 @@
       ],
       "category": "career",
       "score": 42,
-      "comments_count": 25,
+      "comments_count": 26,
       "reading_time_min": 2,
       "published_at": "2026-02-17T12:42:44Z",
-      "fetched_at": "2026-02-18T07:55:13.135894+00:00",
+      "fetched_at": "2026-02-18T08:13:58.600745+00:00",
       "language": "en"
     },
     {
@@ -1411,7 +1036,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:20.695560+00:00",
+      "fetched_at": "2026-02-18T08:14:08.465350+00:00",
       "language": "en"
     },
     {
@@ -1426,10 +1051,10 @@
       ],
       "category": "web",
       "score": 40,
-      "comments_count": 8,
+      "comments_count": 9,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249737+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125129+00:00",
       "language": "en"
     },
     {
@@ -1442,11 +1067,11 @@
         "clojure"
       ],
       "category": "languages",
-      "score": 37,
+      "score": 38,
       "comments_count": 1,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249724+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125119+00:00",
       "language": "en"
     },
     {
@@ -1463,7 +1088,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:18.696520+00:00",
+      "fetched_at": "2026-02-18T08:14:05.956901+00:00",
       "language": "en"
     },
     {
@@ -1480,7 +1105,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:23.306977+00:00",
+      "fetched_at": "2026-02-18T08:14:11.190705+00:00",
       "language": "en"
     },
     {
@@ -1498,7 +1123,7 @@
       "comments_count": 3,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249779+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125159+00:00",
       "language": "en"
     },
     {
@@ -1516,7 +1141,7 @@
       "comments_count": 13,
       "reading_time_min": 2,
       "published_at": "2026-02-17T18:35:23Z",
-      "fetched_at": "2026-02-18T07:55:13.135903+00:00",
+      "fetched_at": "2026-02-18T08:13:58.600752+00:00",
       "language": "en"
     },
     {
@@ -1533,7 +1158,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:19.728540+00:00",
+      "fetched_at": "2026-02-18T08:14:07.374969+00:00",
       "language": "en"
     },
     {
@@ -1550,7 +1175,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:23.305852+00:00",
+      "fetched_at": "2026-02-18T08:14:11.189813+00:00",
       "language": "en"
     },
     {
@@ -1567,7 +1192,37 @@
       "comments_count": 2,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249745+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125138+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Show HN: Beautiful interactive explainers generated with Claude Code",
+      "url": "https://paraschopra.github.io/explainers/",
+      "source": "hackernews",
+      "description": "",
+      "author": "paraschopra",
+      "tags": [],
+      "category": "ai",
+      "score": 28,
+      "comments_count": 8,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:14:00.524767+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The Economics of a Super Bowl Ad",
+      "url": "https://ro.co/perspectives/super-bowl-economics/",
+      "source": "hackernews",
+      "description": "",
+      "author": "nnmg",
+      "tags": [],
+      "category": "general",
+      "score": 28,
+      "comments_count": 26,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:14:00.692902+00:00",
       "language": "en"
     },
     {
@@ -1584,22 +1239,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:20.696588+00:00",
-      "language": "en"
-    },
-    {
-      "title": "The Economics of a Super Bowl Ad",
-      "url": "https://ro.co/perspectives/super-bowl-economics/",
-      "source": "hackernews",
-      "description": "",
-      "author": "nnmg",
-      "tags": [],
-      "category": "general",
-      "score": 27,
-      "comments_count": 24,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:55:14.260002+00:00",
+      "fetched_at": "2026-02-18T08:14:08.466242+00:00",
       "language": "en"
     },
     {
@@ -1616,7 +1256,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:18.692773+00:00",
+      "fetched_at": "2026-02-18T08:14:05.953908+00:00",
       "language": "en"
     },
     {
@@ -1633,7 +1273,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:18.693742+00:00",
+      "fetched_at": "2026-02-18T08:14:05.954672+00:00",
       "language": "en"
     },
     {
@@ -1650,7 +1290,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:22.096508+00:00",
+      "fetched_at": "2026-02-18T08:14:09.742733+00:00",
       "language": "en"
     },
     {
@@ -1670,7 +1310,7 @@
       "comments_count": 14,
       "reading_time_min": 3,
       "published_at": "2026-02-17T13:16:09Z",
-      "fetched_at": "2026-02-18T07:55:13.135912+00:00",
+      "fetched_at": "2026-02-18T08:13:58.600760+00:00",
       "language": "en"
     },
     {
@@ -1687,7 +1327,7 @@
       "comments_count": 14,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249763+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125150+00:00",
       "language": "en"
     },
     {
@@ -1704,7 +1344,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:22.095379+00:00",
+      "fetched_at": "2026-02-18T08:14:09.741858+00:00",
       "language": "en"
     },
     {
@@ -1721,7 +1361,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:18.694762+00:00",
+      "fetched_at": "2026-02-18T08:14:05.955486+00:00",
       "language": "en"
     },
     {
@@ -1738,7 +1378,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:22.100237+00:00",
+      "fetched_at": "2026-02-18T08:14:09.745655+00:00",
       "language": "en"
     },
     {
@@ -1755,7 +1395,22 @@
       "comments_count": 3,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249719+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125116+00:00",
+      "language": "en"
+    },
+    {
+      "title": "A DuckDB-based metabase alternative",
+      "url": "https://github.com/taleshape-com/shaper",
+      "source": "hackernews",
+      "description": "",
+      "author": "wowi42",
+      "tags": [],
+      "category": "general",
+      "score": 20,
+      "comments_count": 4,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:13:59.480972+00:00",
       "language": "en"
     },
     {
@@ -1772,7 +1427,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:22.098611+00:00",
+      "fetched_at": "2026-02-18T08:14:09.744394+00:00",
       "language": "en"
     },
     {
@@ -1789,22 +1444,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:22.099601+00:00",
+      "fetched_at": "2026-02-18T08:14:09.745174+00:00",
       "language": "en"
     },
     {
-      "title": "Show HN: Beautiful interactive explainers generated with Claude Code",
-      "url": "https://paraschopra.github.io/explainers/",
+      "title": "Quamina and Claude, Case 1",
+      "url": "https://www.tbray.org/ongoing/When/202x/2026/02/06/Q-Plus-C-Ch1",
       "source": "hackernews",
       "description": "",
-      "author": "paraschopra",
+      "author": "zdw",
       "tags": [],
       "category": "ai",
-      "score": 19,
-      "comments_count": 5,
+      "score": 18,
+      "comments_count": 2,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:14.572868+00:00",
+      "fetched_at": "2026-02-18T08:14:02.529114+00:00",
       "language": "en"
     },
     {
@@ -1821,7 +1476,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:18.692277+00:00",
+      "fetched_at": "2026-02-18T08:14:05.953502+00:00",
       "language": "en"
     },
     {
@@ -1838,22 +1493,25 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:23.298019+00:00",
+      "fetched_at": "2026-02-18T08:14:11.183634+00:00",
       "language": "en"
     },
     {
-      "title": "A DuckDB-based metabase alternative",
-      "url": "https://github.com/taleshape-com/shaper",
-      "source": "hackernews",
+      "title": "GPU code can now use Rust's async/await",
+      "url": "https://vectorware.com/blog/async-await-on-gpu/",
+      "source": "lobsters",
       "description": "",
-      "author": "wowi42",
-      "tags": [],
+      "author": "chloe",
+      "tags": [
+        "graphics",
+        "rust"
+      ],
       "category": "general",
-      "score": 17,
-      "comments_count": 2,
+      "score": 18,
+      "comments_count": 1,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:13.688498+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125168+00:00",
       "language": "en"
     },
     {
@@ -1870,7 +1528,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:22.098124+00:00",
+      "fetched_at": "2026-02-18T08:14:09.744014+00:00",
       "language": "en"
     },
     {
@@ -1887,7 +1545,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:23.300965+00:00",
+      "fetched_at": "2026-02-18T08:14:11.185992+00:00",
       "language": "en"
     },
     {
@@ -1905,40 +1563,7 @@
       "comments_count": 9,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249783+00:00",
-      "language": "en"
-    },
-    {
-      "title": "GPU code can now use Rust's async/await",
-      "url": "https://vectorware.com/blog/async-await-on-gpu/",
-      "source": "lobsters",
-      "description": "",
-      "author": "chloe",
-      "tags": [
-        "graphics",
-        "rust"
-      ],
-      "category": "general",
-      "score": 17,
-      "comments_count": 1,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249795+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Quamina and Claude, Case 1",
-      "url": "https://www.tbray.org/ongoing/When/202x/2026/02/06/Q-Plus-C-Ch1",
-      "source": "hackernews",
-      "description": "",
-      "author": "zdw",
-      "tags": [],
-      "category": "ai",
-      "score": 16,
-      "comments_count": 2,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:55:16.038743+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125162+00:00",
       "language": "en"
     },
     {
@@ -1955,7 +1580,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:17.653581+00:00",
+      "fetched_at": "2026-02-18T08:14:04.792448+00:00",
       "language": "en"
     },
     {
@@ -1972,7 +1597,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:22.091941+00:00",
+      "fetched_at": "2026-02-18T08:14:09.739159+00:00",
       "language": "en"
     },
     {
@@ -1991,7 +1616,25 @@
       "comments_count": 8,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249771+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125153+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Cryptographic Issues in Matrix’s Rust Library Vodozemac",
+      "url": "https://soatok.blog/2026/02/17/cryptographic-issues-in-matrixs-rust-library-vodozemac/",
+      "source": "lobsters",
+      "description": "",
+      "author": "dzwdz",
+      "tags": [
+        "cryptography",
+        "rant"
+      ],
+      "category": "frameworks",
+      "score": 16,
+      "comments_count": 35,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:14:12.125171+00:00",
       "language": "en"
     },
     {
@@ -2011,7 +1654,7 @@
       "comments_count": 1,
       "reading_time_min": 3,
       "published_at": "2026-02-17T19:50:49Z",
-      "fetched_at": "2026-02-18T07:55:13.135949+00:00",
+      "fetched_at": "2026-02-18T08:13:58.600792+00:00",
       "language": "en"
     },
     {
@@ -2028,25 +1671,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:19.725907+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Cryptographic Issues in Matrix’s Rust Library Vodozemac",
-      "url": "https://soatok.blog/2026/02/17/cryptographic-issues-in-matrixs-rust-library-vodozemac/",
-      "source": "lobsters",
-      "description": "",
-      "author": "dzwdz",
-      "tags": [
-        "cryptography",
-        "rant"
-      ],
-      "category": "frameworks",
-      "score": 15,
-      "comments_count": 35,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249803+00:00",
+      "fetched_at": "2026-02-18T08:14:07.372830+00:00",
       "language": "en"
     },
     {
@@ -2063,7 +1688,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:20.697094+00:00",
+      "fetched_at": "2026-02-18T08:14:08.466637+00:00",
       "language": "en"
     },
     {
@@ -2080,7 +1705,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:23.303093+00:00",
+      "fetched_at": "2026-02-18T08:14:11.187663+00:00",
       "language": "en"
     },
     {
@@ -2097,7 +1722,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:23.307458+00:00",
+      "fetched_at": "2026-02-18T08:14:11.191105+00:00",
       "language": "en"
     },
     {
@@ -2117,7 +1742,22 @@
       "comments_count": 4,
       "reading_time_min": 6,
       "published_at": "2026-02-17T12:34:14Z",
-      "fetched_at": "2026-02-18T07:55:13.135930+00:00",
+      "fetched_at": "2026-02-18T08:13:58.600778+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Show HN: Breadboard – a modern HyperCard for building web apps on the canvas",
+      "url": "https://breadboards.io/",
+      "source": "hackernews",
+      "description": "",
+      "author": "simquat",
+      "tags": [],
+      "category": "general",
+      "score": 12,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:14:01.595630+00:00",
       "language": "en"
     },
     {
@@ -2134,7 +1774,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:22.094898+00:00",
+      "fetched_at": "2026-02-18T08:14:09.741469+00:00",
       "language": "en"
     },
     {
@@ -2151,26 +1791,27 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:19.726405+00:00",
+      "fetched_at": "2026-02-18T08:14:07.373242+00:00",
       "language": "en"
     },
     {
-      "title": "GitHub Copilot to Generate Conventional Commit Messages in VSCode and JetBrains Rider",
-      "url": "https://dev.to/playfulprogramming/github-copilot-to-generate-conventional-commit-messages-in-vscode-and-jetbrains-rider-1n3b",
+      "title": "Can you order a pizza on my site? ❌ 99% Can't 😤",
+      "url": "https://dev.to/jacksonkasi/can-you-order-a-pizza-on-this-site-99-cant-30pd",
       "source": "devto",
-      "description": "Most commit messages are useless.  \"fix stuff\" “update code\" \"changes\"  They work in the moment. They...",
-      "author": "kasuken",
+      "description": "99% of you will rage quit before checkout. Order a pizza if you think you have patience. 🧘‍♂️     I...",
+      "author": "jacksonkasi",
       "tags": [
-        "github",
-        "githubcopilot",
-        "git"
+        "webdev",
+        "programming",
+        "discuss",
+        "showdev"
       ],
       "category": "general",
-      "score": 9,
-      "comments_count": 0,
-      "reading_time_min": 3,
-      "published_at": "2026-02-17T08:03:45Z",
-      "fetched_at": "2026-02-18T07:55:13.135916+00:00",
+      "score": 10,
+      "comments_count": 6,
+      "reading_time_min": 1,
+      "published_at": "2026-02-17T20:10:47Z",
+      "fetched_at": "2026-02-18T08:13:58.600764+00:00",
       "language": "en"
     },
     {
@@ -2190,7 +1831,7 @@
       "comments_count": 2,
       "reading_time_min": 5,
       "published_at": "2026-02-17T16:53:46Z",
-      "fetched_at": "2026-02-18T07:55:13.135923+00:00",
+      "fetched_at": "2026-02-18T08:13:58.600768+00:00",
       "language": "en"
     },
     {
@@ -2207,7 +1848,24 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:22.092609+00:00",
+      "fetched_at": "2026-02-18T08:14:09.739680+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Are We Becoming Architects or Butlers to LLMs?",
+      "url": "http://muratbuffalo.blogspot.com/2026/02/butlers-or-architects.html",
+      "source": "lobsters",
+      "description": "",
+      "author": "metadata",
+      "tags": [
+        "vibecoding"
+      ],
+      "category": "general",
+      "score": 9,
+      "comments_count": 7,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:14:12.125122+00:00",
       "language": "en"
     },
     {
@@ -2224,7 +1882,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:19.729052+00:00",
+      "fetched_at": "2026-02-18T08:14:07.375361+00:00",
       "language": "en"
     },
     {
@@ -2241,59 +1899,27 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:22.100738+00:00",
+      "fetched_at": "2026-02-18T08:14:09.746057+00:00",
       "language": "en"
     },
     {
-      "title": "Are We Becoming Architects or Butlers to LLMs?",
-      "url": "http://muratbuffalo.blogspot.com/2026/02/butlers-or-architects.html",
-      "source": "lobsters",
-      "description": "",
-      "author": "metadata",
-      "tags": [
-        "vibecoding"
-      ],
-      "category": "general",
-      "score": 8,
-      "comments_count": 7,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249733+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Can you order a pizza on my site? ❌ 99% Can't 😤",
-      "url": "https://dev.to/jacksonkasi/can-you-order-a-pizza-on-this-site-99-cant-30pd",
+      "title": "The Secret Life of JavaScript: The Batch",
+      "url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-batch-1i0d",
       "source": "devto",
-      "description": "99% of you will rage quit before checkout. Order a pizza if you think you have patience. 🧘‍♂️     I...",
-      "author": "jacksonkasi",
+      "description": "Why yield has a cost, and how to optimize your streams.     Timothy sat back, satisfied. His Async...",
+      "author": "aaron_rose_0787cc8b4775a0",
       "tags": [
-        "webdev",
+        "javascript",
+        "coding",
         "programming",
-        "discuss",
-        "showdev"
+        "softwaredevelopment"
       ],
-      "category": "general",
-      "score": 7,
-      "comments_count": 6,
-      "reading_time_min": 1,
-      "published_at": "2026-02-17T20:10:47Z",
-      "fetched_at": "2026-02-18T07:55:13.135920+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Show HN: Breadboard – a modern HyperCard for building web apps on the canvas",
-      "url": "https://breadboards.io/",
-      "source": "hackernews",
-      "description": "",
-      "author": "simquat",
-      "tags": [],
-      "category": "general",
+      "category": "web",
       "score": 7,
       "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:55:15.203591+00:00",
+      "reading_time_min": 3,
+      "published_at": "2026-02-18T05:44:37Z",
+      "fetched_at": "2026-02-18T08:13:58.600775+00:00",
       "language": "en"
     },
     {
@@ -2310,7 +1936,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:22.099117+00:00",
+      "fetched_at": "2026-02-18T08:14:09.744779+00:00",
       "language": "en"
     },
     {
@@ -2327,7 +1953,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:23.300324+00:00",
+      "fetched_at": "2026-02-18T08:14:11.185477+00:00",
       "language": "en"
     },
     {
@@ -2346,7 +1972,7 @@
       "comments_count": 4,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249741+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125131+00:00",
       "language": "en"
     },
     {
@@ -2364,7 +1990,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249758+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125147+00:00",
       "language": "en"
     },
     {
@@ -2382,7 +2008,7 @@
       "comments_count": 8,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249799+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125177+00:00",
       "language": "en"
     },
     {
@@ -2402,27 +2028,37 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T18:49:10Z",
-      "fetched_at": "2026-02-18T07:55:13.135927+00:00",
+      "fetched_at": "2026-02-18T08:13:58.600771+00:00",
       "language": "en"
     },
     {
-      "title": "The Secret Life of JavaScript: The Batch",
-      "url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-batch-1i0d",
-      "source": "devto",
-      "description": "Why yield has a cost, and how to optimize your streams.     Timothy sat back, satisfied. His Async...",
-      "author": "aaron_rose_0787cc8b4775a0",
-      "tags": [
-        "javascript",
-        "coding",
-        "programming",
-        "softwaredevelopment"
-      ],
-      "category": "web",
+      "title": "Semantic Diffusion (2006)",
+      "url": "https://martinfowler.com/bliki/SemanticDiffusion.html",
+      "source": "hackernews",
+      "description": "",
+      "author": "andsoitis",
+      "tags": [],
+      "category": "general",
       "score": 6,
       "comments_count": 0,
-      "reading_time_min": 3,
-      "published_at": "2026-02-18T05:44:37Z",
-      "fetched_at": "2026-02-18T07:55:13.135933+00:00",
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:14:00.362710+00:00",
+      "language": "en"
+    },
+    {
+      "title": "TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)",
+      "url": "https://github.com/DatanoiseTV/tinyice",
+      "source": "hackernews",
+      "description": "",
+      "author": "sylwester",
+      "tags": [],
+      "category": "general",
+      "score": 6,
+      "comments_count": 1,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:14:01.436139+00:00",
       "language": "en"
     },
     {
@@ -2439,7 +2075,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:19.726926+00:00",
+      "fetched_at": "2026-02-18T08:14:07.373641+00:00",
       "language": "en"
     },
     {
@@ -2456,7 +2092,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:19.728054+00:00",
+      "fetched_at": "2026-02-18T08:14:07.374520+00:00",
       "language": "en"
     },
     {
@@ -2473,7 +2109,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:22.097009+00:00",
+      "fetched_at": "2026-02-18T08:14:09.743133+00:00",
       "language": "en"
     },
     {
@@ -2490,7 +2126,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:23.301452+00:00",
+      "fetched_at": "2026-02-18T08:14:11.186383+00:00",
       "language": "en"
     },
     {
@@ -2507,7 +2143,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:23.304226+00:00",
+      "fetched_at": "2026-02-18T08:14:11.188548+00:00",
       "language": "en"
     },
     {
@@ -2524,7 +2160,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:23.304709+00:00",
+      "fetched_at": "2026-02-18T08:14:11.188939+00:00",
       "language": "en"
     },
     {
@@ -2539,7 +2175,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:15.727204+00:00",
+      "fetched_at": "2026-02-18T08:14:03.154697+00:00",
       "language": "en"
     },
     {
@@ -2556,7 +2192,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:22.095883+00:00",
+      "fetched_at": "2026-02-18T08:14:09.742248+00:00",
       "language": "en"
     },
     {
@@ -2573,7 +2209,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:23.299685+00:00",
+      "fetched_at": "2026-02-18T08:14:11.184984+00:00",
       "language": "en"
     },
     {
@@ -2590,22 +2226,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:23.303584+00:00",
-      "language": "en"
-    },
-    {
-      "title": "TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)",
-      "url": "https://github.com/DatanoiseTV/tinyice",
-      "source": "hackernews",
-      "description": "",
-      "author": "sylwester",
-      "tags": [],
-      "category": "general",
-      "score": 4,
-      "comments_count": 1,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:55:15.518985+00:00",
+      "fetched_at": "2026-02-18T08:14:11.188066+00:00",
       "language": "en"
     },
     {
@@ -2622,22 +2243,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:23.299196+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Semantic Diffusion (2006)",
-      "url": "https://martinfowler.com/bliki/SemanticDiffusion.html",
-      "source": "hackernews",
-      "description": "",
-      "author": "andsoitis",
-      "tags": [],
-      "category": "general",
-      "score": 3,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:55:15.310448+00:00",
+      "fetched_at": "2026-02-18T08:14:11.184580+00:00",
       "language": "en"
     },
     {
@@ -2654,7 +2260,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:19.729521+00:00",
+      "fetched_at": "2026-02-18T08:14:07.375734+00:00",
       "language": "en"
     },
     {
@@ -2671,7 +2277,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:23.305352+00:00",
+      "fetched_at": "2026-02-18T08:14:11.189433+00:00",
       "language": "en"
     },
     {
@@ -2689,7 +2295,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249791+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125174+00:00",
       "language": "en"
     },
     {
@@ -2704,30 +2310,10 @@
       ],
       "category": "general",
       "score": 3,
-      "comments_count": 6,
+      "comments_count": 7,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249810+00:00",
-      "language": "en"
-    },
-    {
-      "title": "7 Practical Ways to Sharpen Your Software Development Skills (What usually goes wrong, and how to fix it)",
-      "url": "https://dev.to/hazel-daniel/7-practical-ways-to-sharpen-your-software-development-skills-what-usually-goes-wrong-and-how-to-3hoa",
-      "source": "devto",
-      "description": "Let’s be honest.  Most developers don’t stop improving because they’re lazy. They stop because...",
-      "author": "hazel-daniel",
-      "tags": [
-        "softwaredevelopment",
-        "developer",
-        "development",
-        "github"
-      ],
-      "category": "general",
-      "score": 2,
-      "comments_count": 0,
-      "reading_time_min": 3,
-      "published_at": "2026-02-18T05:12:13Z",
-      "fetched_at": "2026-02-18T07:55:13.135986+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125183+00:00",
       "language": "en"
     },
     {
@@ -2744,7 +2330,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:19.727552+00:00",
+      "fetched_at": "2026-02-18T08:14:07.374140+00:00",
       "language": "en"
     },
     {
@@ -2761,7 +2347,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:23.298550+00:00",
+      "fetched_at": "2026-02-18T08:14:11.184078+00:00",
       "language": "en"
     },
     {
@@ -2778,7 +2364,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:23.302594+00:00",
+      "fetched_at": "2026-02-18T08:14:11.187279+00:00",
       "language": "en"
     },
     {
@@ -2795,47 +2381,7 @@
       "comments_count": 1,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:24.249787+00:00",
-      "language": "en"
-    },
-    {
-      "title": "I'm Done With Magic. Here's What I Built Instead.",
-      "url": "https://dev.to/iceonfire/im-done-with-magic-heres-what-i-built-instead-988",
-      "source": "devto",
-      "description": "The JavaScript ecosystem has a magic problem.  Not the fun kind. The kind where you stare at your...",
-      "author": "iceonfire",
-      "tags": [
-        "javascript",
-        "webdev",
-        "architecture",
-        "redux"
-      ],
-      "category": "web",
-      "score": 1,
-      "comments_count": 2,
-      "reading_time_min": 6,
-      "published_at": "2026-02-17T13:30:04Z",
-      "fetched_at": "2026-02-18T07:55:13.135952+00:00",
-      "language": "en"
-    },
-    {
-      "title": "How We Added Per-Video Download Controls",
-      "url": "https://dev.to/alexneamtu/how-we-added-per-video-download-controls-41a9",
-      "source": "devto",
-      "description": "When you share a screen recording with a client, you might not want them downloading the file. We...",
-      "author": "alexneamtu",
-      "tags": [
-        "go",
-        "webdev",
-        "opensource",
-        "security"
-      ],
-      "category": "security",
-      "score": 1,
-      "comments_count": 0,
-      "reading_time_min": 4,
-      "published_at": "2026-02-17T16:40:58Z",
-      "fetched_at": "2026-02-18T07:55:13.135969+00:00",
+      "fetched_at": "2026-02-18T08:14:12.125165+00:00",
       "language": "en"
     },
     {
@@ -2855,7 +2401,67 @@
       "comments_count": 0,
       "reading_time_min": 7,
       "published_at": "2026-02-18T06:43:47Z",
-      "fetched_at": "2026-02-18T07:55:13.135979+00:00",
+      "fetched_at": "2026-02-18T08:13:58.600782+00:00",
+      "language": "en"
+    },
+    {
+      "title": "I'm Done With Magic. Here's What I Built Instead.",
+      "url": "https://dev.to/iceonfire/im-done-with-magic-heres-what-i-built-instead-988",
+      "source": "devto",
+      "description": "The JavaScript ecosystem has a magic problem.  Not the fun kind. The kind where you stare at your...",
+      "author": "iceonfire",
+      "tags": [
+        "javascript",
+        "webdev",
+        "architecture",
+        "redux"
+      ],
+      "category": "web",
+      "score": 1,
+      "comments_count": 2,
+      "reading_time_min": 6,
+      "published_at": "2026-02-17T13:30:04Z",
+      "fetched_at": "2026-02-18T08:13:58.600795+00:00",
+      "language": "en"
+    },
+    {
+      "title": "How We Added Per-Video Download Controls",
+      "url": "https://dev.to/alexneamtu/how-we-added-per-video-download-controls-41a9",
+      "source": "devto",
+      "description": "When you share a screen recording with a client, you might not want them downloading the file. We...",
+      "author": "alexneamtu",
+      "tags": [
+        "go",
+        "webdev",
+        "opensource",
+        "security"
+      ],
+      "category": "security",
+      "score": 1,
+      "comments_count": 0,
+      "reading_time_min": 4,
+      "published_at": "2026-02-17T16:40:58Z",
+      "fetched_at": "2026-02-18T08:13:58.600812+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Why I’m Stepping Away from DEV (For Now)",
+      "url": "https://dev.to/richardpascoe/why-im-stepping-away-from-dev-for-now-1g52",
+      "source": "devto",
+      "description": "This is one of those posts that feels strange to write, mostly because DEV has been such a positive...",
+      "author": "richardpascoe",
+      "tags": [
+        "community",
+        "learning",
+        "programming",
+        "webdev"
+      ],
+      "category": "career",
+      "score": 1,
+      "comments_count": 0,
+      "reading_time_min": 2,
+      "published_at": "2026-02-18T08:00:07Z",
+      "fetched_at": "2026-02-18T08:13:58.600832+00:00",
       "language": "en"
     },
     {
@@ -2872,27 +2478,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:55:23.306343+00:00",
-      "language": "en"
-    },
-    {
-      "title": "The Question That Changed How I Build ML Models",
-      "url": "https://dev.to/jemhrice/the-question-that-changed-how-i-build-ml-models-58j6",
-      "source": "devto",
-      "description": "I was proud of my first machine learning model. Linear regression on a housing dataset, decent R²...",
-      "author": "jemhrice",
-      "tags": [
-        "machinelearning",
-        "datascience",
-        "career",
-        "python"
-      ],
-      "category": "ai",
-      "score": 0,
-      "comments_count": 0,
-      "reading_time_min": 3,
-      "published_at": "2026-02-17T23:47:30Z",
-      "fetched_at": "2026-02-18T07:55:13.135941+00:00",
+      "fetched_at": "2026-02-18T08:14:11.190214+00:00",
       "language": "en"
     },
     {
@@ -2912,7 +2498,27 @@
       "comments_count": 0,
       "reading_time_min": 4,
       "published_at": "2026-02-17T09:19:58Z",
-      "fetched_at": "2026-02-18T07:55:13.135945+00:00",
+      "fetched_at": "2026-02-18T08:13:58.600785+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The Question That Changed How I Build ML Models",
+      "url": "https://dev.to/jemhrice/the-question-that-changed-how-i-build-ml-models-58j6",
+      "source": "devto",
+      "description": "I was proud of my first machine learning model. Linear regression on a housing dataset, decent R²...",
+      "author": "jemhrice",
+      "tags": [
+        "machinelearning",
+        "datascience",
+        "career",
+        "python"
+      ],
+      "category": "ai",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 3,
+      "published_at": "2026-02-17T23:47:30Z",
+      "fetched_at": "2026-02-18T08:13:58.600789+00:00",
       "language": "en"
     },
     {
@@ -2932,7 +2538,7 @@
       "comments_count": 0,
       "reading_time_min": 4,
       "published_at": "2026-02-18T03:09:21Z",
-      "fetched_at": "2026-02-18T07:55:13.135955+00:00",
+      "fetched_at": "2026-02-18T08:13:58.600799+00:00",
       "language": "en"
     },
     {
@@ -2947,47 +2553,7 @@
       "comments_count": 0,
       "reading_time_min": 1,
       "published_at": "2026-02-17T16:09:52Z",
-      "fetched_at": "2026-02-18T07:55:13.135959+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Setting Up textlint + markdownlint Hooks for Zenn Writing with Claude Code",
-      "url": "https://dev.to/shimo4228/setting-up-textlint-markdownlint-hooks-for-zenn-writing-with-claude-code-g4b",
-      "source": "devto",
-      "description": "After writing three Zenn articles with Claude Code, I ran the linter on all of them at once and got...",
-      "author": "shimo4228",
-      "tags": [
-        "claudecode",
-        "zenn",
-        "textlint",
-        "markdownlint"
-      ],
-      "category": "ai",
-      "score": 0,
-      "comments_count": 0,
-      "reading_time_min": 3,
-      "published_at": "2026-02-17T23:47:02Z",
-      "fetched_at": "2026-02-18T07:55:13.135962+00:00",
-      "language": "en"
-    },
-    {
-      "title": "The Fear of Becoming Ordinary",
-      "url": "https://dev.to/ilyarah/the-fear-of-becoming-ordinary-42f8",
-      "source": "devto",
-      "description": "You're not afraid of failing. You're afraid of winning — and feeling nothing.",
-      "author": "ilyarah",
-      "tags": [
-        "career",
-        "productivity",
-        "devlife",
-        "mentalhealth"
-      ],
-      "category": "career",
-      "score": 0,
-      "comments_count": 0,
-      "reading_time_min": 5,
-      "published_at": "2026-02-17T14:20:30Z",
-      "fetched_at": "2026-02-18T07:55:13.135966+00:00",
+      "fetched_at": "2026-02-18T08:13:58.600802+00:00",
       "language": "en"
     },
     {
@@ -3007,7 +2573,47 @@
       "comments_count": 0,
       "reading_time_min": 2,
       "published_at": "2026-02-17T23:48:15Z",
-      "fetched_at": "2026-02-18T07:55:13.135972+00:00",
+      "fetched_at": "2026-02-18T08:13:58.600805+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The Fear of Becoming Ordinary",
+      "url": "https://dev.to/ilyarah/the-fear-of-becoming-ordinary-42f8",
+      "source": "devto",
+      "description": "You're not afraid of failing. You're afraid of winning — and feeling nothing.",
+      "author": "ilyarah",
+      "tags": [
+        "career",
+        "productivity",
+        "devlife",
+        "mentalhealth"
+      ],
+      "category": "career",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 5,
+      "published_at": "2026-02-17T14:20:30Z",
+      "fetched_at": "2026-02-18T08:13:58.600809+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Setting Up textlint + markdownlint Hooks for Zenn Writing with Claude Code",
+      "url": "https://dev.to/shimo4228/setting-up-textlint-markdownlint-hooks-for-zenn-writing-with-claude-code-g4b",
+      "source": "devto",
+      "description": "After writing three Zenn articles with Claude Code, I ran the linter on all of them at once and got...",
+      "author": "shimo4228",
+      "tags": [
+        "claudecode",
+        "zenn",
+        "textlint",
+        "markdownlint"
+      ],
+      "category": "ai",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 3,
+      "published_at": "2026-02-17T23:47:02Z",
+      "fetched_at": "2026-02-18T08:13:58.600815+00:00",
       "language": "en"
     },
     {
@@ -3024,7 +2630,7 @@
       "comments_count": 1,
       "reading_time_min": 1,
       "published_at": "2026-02-18T05:00:00Z",
-      "fetched_at": "2026-02-18T07:55:13.135975+00:00",
+      "fetched_at": "2026-02-18T08:13:58.600818+00:00",
       "language": "en"
     },
     {
@@ -3044,27 +2650,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-18T02:06:03Z",
-      "fetched_at": "2026-02-18T07:55:13.135982+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Introducing Quackback: Open-Source Feedback Platform with a Built-in MCP Server",
-      "url": "https://dev.to/mortondev/introducing-quackback-open-source-feedback-platform-with-a-built-in-mcp-server-mo3",
-      "source": "devto",
-      "description": "Quackback is an open-source feedback platform. Voting boards, a public roadmap, changelogs, and 23...",
-      "author": "mortondev",
-      "tags": [
-        "opensource",
-        "selfhosted",
-        "webdev",
-        "productivity"
-      ],
-      "category": "ai",
-      "score": 0,
-      "comments_count": 0,
-      "reading_time_min": 3,
-      "published_at": "2026-02-17T12:40:18Z",
-      "fetched_at": "2026-02-18T07:55:13.135989+00:00",
+      "fetched_at": "2026-02-18T08:13:58.600821+00:00",
       "language": "en"
     },
     {
@@ -3084,47 +2670,27 @@
       "comments_count": 0,
       "reading_time_min": 2,
       "published_at": "2026-02-18T02:35:46Z",
-      "fetched_at": "2026-02-18T07:55:13.135993+00:00",
+      "fetched_at": "2026-02-18T08:13:58.600825+00:00",
       "language": "en"
     },
     {
-      "title": "Running Claude Code in Zed — Why I Disable the Built-in AI",
-      "url": "https://dev.to/shimo4228/running-claude-code-in-zed-why-i-disable-the-built-in-ai-58mc",
+      "title": "Introducing Quackback: Open-Source Feedback Platform with a Built-in MCP Server",
+      "url": "https://dev.to/mortondev/introducing-quackback-open-source-feedback-platform-with-a-built-in-mcp-server-mo3",
       "source": "devto",
-      "description": "When I was using Claude Code inside Cursor, I noticed a brief freeze every time a file changed. I...",
-      "author": "shimo4228",
+      "description": "Quackback is an open-source feedback platform. Voting boards, a public roadmap, changelogs, and 23...",
+      "author": "mortondev",
       "tags": [
-        "claudecode",
-        "zed",
-        "editor",
-        "devenv"
+        "opensource",
+        "selfhosted",
+        "webdev",
+        "productivity"
       ],
       "category": "ai",
       "score": 0,
       "comments_count": 0,
       "reading_time_min": 3,
-      "published_at": "2026-02-17T23:49:27Z",
-      "fetched_at": "2026-02-18T07:55:13.135996+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Quantum EDA: From Physics-Led Experiments to Engineering-Scale Design",
-      "url": "https://dev.to/alpinumblogs/quantum-eda-from-physics-led-experiments-to-engineering-scale-design-5jo",
-      "source": "devto",
-      "description": "Introduction: Why Quantum Hardware Needs EDA Discipline   Quantum computing hardware has...",
-      "author": "alpinumblogs",
-      "tags": [
-        "semiconductor",
-        "quantumcomputing",
-        "quantumeda",
-        "designverification"
-      ],
-      "category": "general",
-      "score": 0,
-      "comments_count": 0,
-      "reading_time_min": 6,
-      "published_at": "2026-02-18T03:09:12Z",
-      "fetched_at": "2026-02-18T07:55:13.135999+00:00",
+      "published_at": "2026-02-17T12:40:18Z",
+      "fetched_at": "2026-02-18T08:13:58.600828+00:00",
       "language": "en"
     },
     {
@@ -3144,7 +2710,67 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T23:47:38Z",
-      "fetched_at": "2026-02-18T07:55:13.136003+00:00",
+      "fetched_at": "2026-02-18T08:13:58.600857+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Using Multiple LLMs with Claude Code — When to Reach for Gemini, ChatGPT, or NotebookLM",
+      "url": "https://dev.to/shimo4228/using-multiple-llms-with-claude-code-when-to-reach-for-gemini-chatgpt-or-notebooklm-2mnm",
+      "source": "devto",
+      "description": "Sometimes One LLM Isn't Enough   The first time I encountered the term ADR (Architecture...",
+      "author": "shimo4228",
+      "tags": [
+        "claudecode",
+        "ai",
+        "gemini",
+        "chatgpt"
+      ],
+      "category": "ai",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 3,
+      "published_at": "2026-02-17T23:48:51Z",
+      "fetched_at": "2026-02-18T08:13:58.600861+00:00",
+      "language": "en"
+    },
+    {
+      "title": "OrbStack: O Substituto Definitivo (e Veloz) para o Docker Desktop no Mac",
+      "url": "https://dev.to/franciscojdsjr/orbstack-o-substituto-definitivo-e-veloz-para-o-docker-desktop-no-mac-2hnc",
+      "source": "devto",
+      "description": "Se você quer que seu novo Mac voe baixo no desenvolvimento backend, o OrbStack é, sem dúvida, a...",
+      "author": "franciscojdsjr",
+      "tags": [
+        "orbstack",
+        "mac",
+        "containers",
+        "m4"
+      ],
+      "category": "devops",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 2,
+      "published_at": "2026-02-17T14:19:16Z",
+      "fetched_at": "2026-02-18T08:13:58.600865+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Running Claude Code in Zed — Why I Disable the Built-in AI",
+      "url": "https://dev.to/shimo4228/running-claude-code-in-zed-why-i-disable-the-built-in-ai-58mc",
+      "source": "devto",
+      "description": "When I was using Claude Code inside Cursor, I noticed a brief freeze every time a file changed. I...",
+      "author": "shimo4228",
+      "tags": [
+        "claudecode",
+        "zed",
+        "editor",
+        "devenv"
+      ],
+      "category": "ai",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 3,
+      "published_at": "2026-02-17T23:49:27Z",
+      "fetched_at": "2026-02-18T08:13:58.600868+00:00",
       "language": "en"
     }
   ]
