@@ -1,12 +1,12 @@
 {
   "date": "2026-02-18",
-  "generated_at": "2026-02-18T08:51:26.022374+00:00",
+  "generated_at": "2026-02-18T08:53:59.632170+00:00",
   "digest": [
     {
-      "title_en": "Alibaba's ZVec: A Lightweight Vector Database",
-      "title_pt": "ZVec da Alibaba: Um Banco de Dados Vetorial Leve",
-      "body_en": "Discover **ZVec**, Alibaba's lightning-fast, in-process vector database. This tool is designed for high-performance applications, allowing developers to manage vector data efficiently. The practical takeaway? If you're working on AI or machine learning projects, integrating ZVec can significantly enhance your data handling capabilities.",
-      "body_pt": "Descubra o **ZVec**, o banco de dados vetorial rápido e leve da Alibaba. Esta ferramenta é projetada para aplicações de alto desempenho, permitindo que os desenvolvedores gerenciem dados vetoriais de forma eficiente. A dica prática? Se você está trabalhando em projetos de IA ou aprendizado de máquina, integrar o ZVec pode melhorar significativamente suas capacidades de gerenciamento de dados.",
+      "title_en": "Lightweight Vector Database by Alibaba",
+      "title_pt": "Banco de Dados Vetorial Leve da Alibaba",
+      "body_en": "Alibaba has introduced `zvec`, a **lightweight** and **lightning-fast** in-process vector database. This tool is designed to enhance performance in AI applications, allowing developers to store and retrieve high-dimensional data efficiently. With its **C++** implementation, `zvec` is optimized for speed and low memory usage, making it ideal for real-time applications. The takeaway? Embracing such tools can significantly boost your AI project's efficiency and responsiveness.",
+      "body_pt": "A Alibaba lançou o `zvec`, um banco de dados vetorial **leve** e **extremamente rápido** que opera em processos. Esta ferramenta foi projetada para melhorar o desempenho em aplicações de IA, permitindo que os desenvolvedores armazenem e recuperem dados de alta dimensão de forma eficiente. Com sua implementação em **C++**, o `zvec` é otimizado para velocidade e baixo uso de memória, tornando-o ideal para aplicações em tempo real. A mensagem principal? Adotar essas ferramentas pode aumentar significativamente a eficiência e a capacidade de resposta do seu projeto de IA.",
       "category": "ai",
       "emoji": "🤖",
       "sources": [
@@ -18,10 +18,10 @@
       ]
     },
     {
-      "title_en": "Awesome System Design Resources for Interviews",
-      "title_pt": "Recursos Incríveis de Design de Sistemas para Entrevistas",
-      "body_en": "Prepare for your next tech interview with the **Awesome System Design Resources** repository. This collection offers free materials to help you grasp key concepts in system design. The takeaway? Mastering these principles can set you apart in interviews and boost your career prospects.",
-      "body_pt": "Prepare-se para sua próxima entrevista técnica com o repositório **Recursos Incríveis de Design de Sistemas**. Esta coleção oferece materiais gratuitos para ajudá-lo a entender conceitos-chave em design de sistemas. A dica prática? Dominar esses princípios pode diferenciá-lo em entrevistas e aumentar suas perspectivas de carreira.",
+      "title_en": "Awesome System Design Resources",
+      "title_pt": "Recursos Incríveis para Design de Sistemas",
+      "body_en": "The repository `awesome-system-design-resources` offers a comprehensive collection of **free** resources to help you master **system design** concepts. Whether you're preparing for interviews or just looking to deepen your understanding, this collection covers everything from foundational principles to advanced topics. The takeaway? Investing time in system design knowledge can set you apart in your tech career.",
+      "body_pt": "O repositório `awesome-system-design-resources` oferece uma coleção abrangente de recursos **gratuitos** para ajudá-lo a dominar conceitos de **design de sistemas**. Se você está se preparando para entrevistas ou apenas quer aprofundar seu conhecimento, essa coleção abrange tudo, desde princípios fundamentais até tópicos avançados. A mensagem principal? Investir tempo no conhecimento de design de sistemas pode diferenciá-lo em sua carreira na tecnologia.",
       "category": "career",
       "emoji": "🚀",
       "sources": [
@@ -33,10 +33,10 @@
       ]
     },
     {
-      "title_en": "Automating Code Generation at Google",
-      "title_pt": "Automatizando Geração de Código no Google",
-      "body_en": "Learn how a team at Google is automating sample code generation and maintenance, enhancing productivity through **AI** integration. This approach not only streamlines workflows but also reduces human error. The practical takeaway is to consider how automation can optimize your development processes.",
-      "body_pt": "Saiba como uma equipe do Google está automatizando a geração e manutenção de código de exemplo, aumentando a produtividade por meio da integração de **IA**. Essa abordagem não apenas agiliza os fluxos de trabalho, mas também reduz erros humanos. A dica prática é considerar como a automação pode otimizar seus processos de desenvolvimento.",
+      "title_en": "Automating Sample Code Generation at Google",
+      "title_pt": "Automatizando Geração de Código de Exemplo no Google",
+      "body_en": "In a recent article, a Google team shares how they are **automating** the generation and maintenance of sample code. This initiative not only improves productivity but also ensures consistency across projects. By leveraging **AI** and **DevOps** practices, teams can focus on more critical tasks while automation handles the repetitive ones. The takeaway? Embracing automation can significantly enhance your team's efficiency.",
+      "body_pt": "Em um artigo recente, uma equipe do Google compartilha como está **automatizando** a geração e manutenção de código de exemplo. Essa iniciativa não apenas melhora a produtividade, mas também garante consistência em projetos. Ao aproveitar práticas de **IA** e **DevOps**, as equipes podem se concentrar em tarefas mais críticas enquanto a automação cuida das repetitivas. A mensagem principal? Adotar a automação pode aumentar significativamente a eficiência da sua equipe.",
       "category": "devops",
       "emoji": "☁️",
       "sources": [
@@ -48,10 +48,10 @@
       ]
     },
     {
-      "title_en": "Superpowers Framework: Skills for Developers",
-      "title_pt": "Framework Superpowers: Habilidades para Desenvolvedores",
-      "body_en": "Explore the **Superpowers** framework, which offers a unique methodology for software development. This agentic skills framework helps developers enhance their capabilities and work more effectively. The takeaway? Adopting such frameworks can lead to improved collaboration and project outcomes.",
-      "body_pt": "Explore o framework **Superpowers**, que oferece uma metodologia única para o desenvolvimento de software. Este framework de habilidades agentivas ajuda os desenvolvedores a aprimorar suas capacidades e trabalhar de forma mais eficaz. A dica prática? Adotar tais frameworks pode levar a uma colaboração e resultados de projeto melhores.",
+      "title_en": "Introducing the Superpowers Framework",
+      "title_pt": "Apresentando o Framework Superpowers",
+      "body_en": "The `superpowers` framework offers a unique approach to software development by integrating an **agentic skills** methodology. This framework is designed to empower developers by providing tools and practices that enhance productivity and collaboration. By adopting such frameworks, teams can streamline their workflows and improve project outcomes. The takeaway? Embracing innovative methodologies can lead to better software development practices.",
+      "body_pt": "O framework `superpowers` oferece uma abordagem única para o desenvolvimento de software, integrando uma metodologia de **habilidades agentivas**. Este framework é projetado para capacitar desenvolvedores, fornecendo ferramentas e práticas que aumentam a produtividade e a colaboração. Ao adotar tais frameworks, as equipes podem agilizar seus fluxos de trabalho e melhorar os resultados dos projetos. A mensagem principal? Abraçar metodologias inovadoras pode levar a melhores práticas de desenvolvimento de software.",
       "category": "frameworks",
       "emoji": "🧩",
       "sources": [
@@ -63,31 +63,46 @@
       ]
     },
     {
-      "title_en": "PentestAgent: AI Framework for Security Testing",
-      "title_pt": "PentestAgent: Framework de IA para Testes de Segurança",
-      "body_en": "Introducing **PentestAgent**, an AI framework designed for black-box security testing. This tool supports various testing scenarios, making it easier for developers to identify vulnerabilities. The practical takeaway is to incorporate AI-driven tools into your security practices for more comprehensive testing.",
-      "body_pt": "Apresentando o **PentestAgent**, um framework de IA projetado para testes de segurança black-box. Esta ferramenta suporta vários cenários de teste, facilitando a identificação de vulnerabilidades pelos desenvolvedores. A dica prática é incorporar ferramentas impulsionadas por IA em suas práticas de segurança para testes mais abrangentes.",
-      "category": "security",
-      "emoji": "🔒",
+      "title_en": "Thank HN: Impact on Lives",
+      "title_pt": "Obrigado HN: Impacto nas Vidas",
+      "body_en": "A recent post on Hacker News highlights how community efforts have collectively saved **33,000 lives**. This underscores the power of technology and collaboration in making a real-world impact. The takeaway? Engaging with communities can lead to significant advancements and positive change in society.",
+      "body_pt": "Uma postagem recente no Hacker News destaca como os esforços da comunidade salvaram coletivamente **33.000 vidas**. Isso ressalta o poder da tecnologia e da colaboração em causar um impacto real no mundo. A mensagem principal? Engajar-se com comunidades pode levar a avanços significativos e mudanças positivas na sociedade.",
+      "category": "general",
+      "emoji": "📌",
       "sources": [
         {
-          "title": "GH05TCREW/pentestagent",
-          "url": "https://github.com/GH05TCREW/pentestagent",
-          "source": "github_trending"
+          "title": "Thank HN: You helped save 33k lives",
+          "url": "https://news.ycombinator.com/item?id=47049824",
+          "source": "hackernews"
         }
       ]
     },
     {
-      "title_en": "OpenClaw: Your Personal AI Assistant",
-      "title_pt": "OpenClaw: Seu Assistente Pessoal de IA",
-      "body_en": "**OpenClaw** is a versatile AI assistant that works across any OS and platform. This open-source project aims to simplify tasks and enhance productivity. The practical takeaway? Implementing AI assistants can streamline your daily operations and improve efficiency in your workflow.",
-      "body_pt": "**OpenClaw** é um assistente de IA versátil que funciona em qualquer sistema operacional e plataforma. Este projeto de código aberto visa simplificar tarefas e aumentar a produtividade. A dica prática? Implementar assistentes de IA pode agilizar suas operações diárias e melhorar a eficiência em seu fluxo de trabalho.",
-      "category": "web",
-      "emoji": "🌐",
+      "title_en": "AI's Impact on Employment and Productivity",
+      "title_pt": "Impacto da IA no Emprego e na Produtividade",
+      "body_en": "A recent survey revealed that **thousands of CEOs** believe AI has had no significant impact on employment or productivity. This challenges the narrative that AI will displace jobs. Instead, it suggests a shift in how we view technology's role in the workplace. The takeaway? Understanding the real implications of AI can help shape future strategies in business.",
+      "body_pt": "Uma pesquisa recente revelou que **milhares de CEOs** acreditam que a IA não teve um impacto significativo no emprego ou na produtividade. Isso desafia a narrativa de que a IA deslocará empregos. Em vez disso, sugere uma mudança na forma como vemos o papel da tecnologia no local de trabalho. A mensagem principal? Compreender as reais implicações da IA pode ajudar a moldar estratégias futuras nos negócios.",
+      "category": "career",
+      "emoji": "🚀",
       "sources": [
         {
-          "title": "openclaw/openclaw",
-          "url": "https://github.com/openclaw/openclaw",
+          "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+          "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+          "source": "hackernews"
+        }
+      ]
+    },
+    {
+      "title_en": "ZITADEL: Simplified Identity Infrastructure",
+      "title_pt": "ZITADEL: Infraestrutura de Identidade Simplificada",
+      "body_en": "The `ZITADEL` project aims to simplify identity management with a focus on **DevOps** practices. By providing a robust identity infrastructure, it allows teams to manage user access and authentication seamlessly. This is crucial for modern applications that require secure and efficient user management. The takeaway? Streamlining identity processes can enhance security and user experience in your applications.",
+      "body_pt": "O projeto `ZITADEL` tem como objetivo simplificar a gestão de identidade com foco nas práticas de **DevOps**. Ao fornecer uma infraestrutura de identidade robusta, permite que as equipes gerenciem o acesso e a autenticação de usuários de forma integrada. Isso é crucial para aplicações modernas que exigem gestão de usuários segura e eficiente. A mensagem principal? Agilizar os processos de identidade pode melhorar a segurança e a experiência do usuário em suas aplicações.",
+      "category": "devops",
+      "emoji": "☁️",
+      "sources": [
+        {
+          "title": "zitadel/zitadel",
+          "url": "https://github.com/zitadel/zitadel",
           "source": "github_trending"
         }
       ]
@@ -95,8 +110,8 @@
     {
       "title_en": "Fabric: Augmenting Humans with AI",
       "title_pt": "Fabric: Aumentando Humanos com IA",
-      "body_en": "**Fabric** is an open-source framework designed to enhance human capabilities using AI. It provides tools for developers to create applications that assist users in various tasks. The takeaway? Leveraging such frameworks can lead to innovative solutions and improved user experiences.",
-      "body_pt": "**Fabric** é um framework de código aberto projetado para aumentar as capacidades humanas usando IA. Ele fornece ferramentas para desenvolvedores criarem aplicações que assistem os usuários em várias tarefas. A dica prática? Aproveitar tais frameworks pode levar a soluções inovadoras e a uma experiência do usuário aprimorada.",
+      "body_en": "`Fabric` is an open-source framework designed to augment human capabilities using **AI**. It provides tools that help developers integrate AI into their applications effectively. This can lead to more intuitive user experiences and smarter applications. The takeaway? Leveraging frameworks like `Fabric` can help you create innovative solutions that enhance human-computer interaction.",
+      "body_pt": "`Fabric` é um framework de código aberto projetado para aumentar as capacidades humanas usando **IA**. Ele fornece ferramentas que ajudam os desenvolvedores a integrar IA em suas aplicações de forma eficaz. Isso pode levar a experiências de usuário mais intuitivas e aplicações mais inteligentes. A mensagem principal? Aproveitar frameworks como o `Fabric` pode ajudá-lo a criar soluções inovadoras que melhoram a interação humano-computador.",
       "category": "frameworks",
       "emoji": "🧩",
       "sources": [
@@ -108,37 +123,52 @@
       ]
     },
     {
-      "title_en": "External Secrets Operator for DevOps",
-      "title_pt": "Operador de Segredos Externos para DevOps",
-      "body_en": "The **External Secrets Operator** allows you to manage secrets from third-party services like AWS seamlessly. This tool integrates with your existing DevOps practices to enhance security and efficiency. The practical takeaway is to adopt such operators to streamline secret management in your applications.",
-      "body_pt": "O **Operador de Segredos Externos** permite gerenciar segredos de serviços de terceiros como AWS de forma integrada. Esta ferramenta se integra às suas práticas de DevOps existentes para melhorar a segurança e a eficiência. A dica prática é adotar tais operadores para agilizar o gerenciamento de segredos em suas aplicações.",
-      "category": "devops",
-      "emoji": "☁️",
+      "title_en": "Google Suite CLI: A Developer's Tool",
+      "title_pt": "Google Suite CLI: Uma Ferramenta para Desenvolvedores",
+      "body_en": "The `gogcli` project offers a command-line interface for managing Google Suite applications like Gmail and Google Drive. This tool can significantly streamline workflows for developers and tech-savvy users, allowing for efficient management of their digital tools. The takeaway? Utilizing CLI tools can enhance productivity and simplify complex tasks.",
+      "body_pt": "O projeto `gogcli` oferece uma interface de linha de comando para gerenciar aplicações do Google Suite, como Gmail e Google Drive. Esta ferramenta pode agilizar significativamente os fluxos de trabalho para desenvolvedores e usuários mais técnicos, permitindo uma gestão eficiente de suas ferramentas digitais. A mensagem principal? Utilizar ferramentas de linha de comando pode aumentar a produtividade e simplificar tarefas complexas.",
+      "category": "general",
+      "emoji": "📌",
       "sources": [
         {
-          "title": "external-secrets/external-secrets",
-          "url": "https://github.com/external-secrets/external-secrets",
+          "title": "steipete/gogcli",
+          "url": "https://github.com/steipete/gogcli",
           "source": "github_trending"
         }
       ]
     },
     {
-      "title_en": "AI's Impact on Employment: A Reality Check",
-      "title_pt": "O Impacto da IA no Emprego: Uma Verificação da Realidade",
-      "body_en": "Recent discussions reveal that many CEOs believe **AI** has had little impact on employment or productivity. This raises questions about the future of work and the role of technology. The takeaway? As developers, understanding this landscape can help you adapt your skills and strategies accordingly.",
-      "body_pt": "Discussões recentes revelam que muitos CEOs acreditam que a **IA** teve pouco impacto no emprego ou na produtividade. Isso levanta questões sobre o futuro do trabalho e o papel da tecnologia. A dica prática? Como desenvolvedores, entender esse cenário pode ajudá-lo a adaptar suas habilidades e estratégias de acordo.",
-      "category": "career",
-      "emoji": "🚀",
+      "title_en": "WiFi Security Auditing with Airgorah",
+      "title_pt": "Auditoria de Segurança WiFi com Airgorah",
+      "body_en": "`airgorah` is a WiFi security auditing software based on the aircrack-ng tools suite. It allows users to test the security of their wireless networks effectively. This is essential for anyone looking to enhance their network security. The takeaway? Regular security audits can help identify vulnerabilities and strengthen your network defenses.",
+      "body_pt": "`airgorah` é um software de auditoria de segurança WiFi baseado na suíte de ferramentas aircrack-ng. Ele permite que os usuários testem a segurança de suas redes sem fio de forma eficaz. Isso é essencial para quem deseja melhorar a segurança de sua rede. A mensagem principal? Auditorias de segurança regulares podem ajudar a identificar vulnerabilidades e fortalecer suas defesas de rede.",
+      "category": "security",
+      "emoji": "🔒",
       "sources": [
         {
-          "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
-          "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
-          "source": "hackernews"
+          "title": "martin-olivier/airgorah",
+          "url": "https://github.com/martin-olivier/airgorah",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "Open-source Media Manager for Streaming",
+      "title_pt": "Gerenciador de Mídia de Código Aberto para Streaming",
+      "body_en": "`seerr` is an open-source media request and discovery manager for platforms like Jellyfin and Plex. This tool helps users manage their media libraries effectively, enhancing the streaming experience. By integrating such tools, users can streamline their media consumption. The takeaway? Open-source solutions can provide tailored experiences for media management.",
+      "body_pt": "`seerr` é um gerenciador de solicitações e descobertas de mídia de código aberto para plataformas como Jellyfin e Plex. Esta ferramenta ajuda os usuários a gerenciar suas bibliotecas de mídia de forma eficaz, melhorando a experiência de streaming. Ao integrar tais ferramentas, os usuários podem agilizar seu consumo de mídia. A mensagem principal? Soluções de código aberto podem proporcionar experiências personalizadas para a gestão de mídia.",
+      "category": "web",
+      "emoji": "🌐",
+      "sources": [
+        {
+          "title": "seerr-team/seerr",
+          "url": "https://github.com/seerr-team/seerr",
+          "source": "github_trending"
         }
       ]
     }
   ],
-  "digest_count": 9,
+  "digest_count": 11,
   "raw_article_count": 153,
   "sources": [
     "devto",
@@ -161,7 +191,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:57.101865+00:00",
+      "fetched_at": "2026-02-18T08:53:25.755976+00:00",
       "language": "en"
     },
     {
@@ -178,7 +208,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:57.101351+00:00",
+      "fetched_at": "2026-02-18T08:53:25.755464+00:00",
       "language": "en"
     },
     {
@@ -189,11 +219,11 @@
       "author": "adocomplete",
       "tags": [],
       "category": "ai",
-      "score": 1069,
+      "score": 1071,
       "comments_count": 938,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:51.562385+00:00",
+      "fetched_at": "2026-02-18T08:53:20.418705+00:00",
       "language": "en"
     },
     {
@@ -204,11 +234,11 @@
       "author": "chaseadam17",
       "tags": [],
       "category": "general",
-      "score": 754,
+      "score": 755,
       "comments_count": 77,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:52.014013+00:00",
+      "fetched_at": "2026-02-18T08:53:20.733161+00:00",
       "language": "en"
     },
     {
@@ -225,7 +255,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:57.099488+00:00",
+      "fetched_at": "2026-02-18T08:53:25.753506+00:00",
       "language": "en"
     },
     {
@@ -242,7 +272,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:57.100451+00:00",
+      "fetched_at": "2026-02-18T08:53:25.754562+00:00",
       "language": "en"
     },
     {
@@ -259,7 +289,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:57.103628+00:00",
+      "fetched_at": "2026-02-18T08:53:25.757773+00:00",
       "language": "en"
     },
     {
@@ -276,7 +306,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:57.102642+00:00",
+      "fetched_at": "2026-02-18T08:53:25.756780+00:00",
       "language": "en"
     },
     {
@@ -293,7 +323,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:59.905842+00:00",
+      "fetched_at": "2026-02-18T08:53:28.375503+00:00",
       "language": "en"
     },
     {
@@ -310,7 +340,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:57.100959+00:00",
+      "fetched_at": "2026-02-18T08:53:25.755063+00:00",
       "language": "en"
     },
     {
@@ -321,11 +351,11 @@
       "author": "virgildotcodes",
       "tags": [],
       "category": "career",
-      "score": 434,
-      "comments_count": 317,
+      "score": 435,
+      "comments_count": 319,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:53.384901+00:00",
+      "fetched_at": "2026-02-18T08:53:22.083172+00:00",
       "language": "en"
     },
     {
@@ -336,11 +366,11 @@
       "author": "walterbell",
       "tags": [],
       "category": "general",
-      "score": 405,
+      "score": 407,
       "comments_count": 211,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:51.252129+00:00",
+      "fetched_at": "2026-02-18T08:53:20.108250+00:00",
       "language": "en"
     },
     {
@@ -357,7 +387,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:59.906317+00:00",
+      "fetched_at": "2026-02-18T08:53:28.375927+00:00",
       "language": "en"
     },
     {
@@ -368,11 +398,26 @@
       "author": "moWerk",
       "tags": [],
       "category": "general",
-      "score": 363,
+      "score": 364,
       "comments_count": 42,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:52.330272+00:00",
+      "fetched_at": "2026-02-18T08:53:21.043514+00:00",
+      "language": "en"
+    },
+    {
+      "title": "15 years later, Microsoft morged my diagram",
+      "url": "https://nvie.com/posts/15-years-later/",
+      "source": "hackernews",
+      "description": "",
+      "author": "cheeaun",
+      "tags": [],
+      "category": "general",
+      "score": 359,
+      "comments_count": 121,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:53:19.952276+00:00",
       "language": "en"
     },
     {
@@ -389,22 +434,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:02.547726+00:00",
-      "language": "en"
-    },
-    {
-      "title": "15 years later, Microsoft morged my diagram",
-      "url": "https://nvie.com/posts/15-years-later/",
-      "source": "hackernews",
-      "description": "",
-      "author": "cheeaun",
-      "tags": [],
-      "category": "general",
-      "score": 354,
-      "comments_count": 120,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T08:50:51.085278+00:00",
+      "fetched_at": "2026-02-18T08:53:31.290972+00:00",
       "language": "en"
     },
     {
@@ -421,7 +451,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:01.025703+00:00",
+      "fetched_at": "2026-02-18T08:53:29.645171+00:00",
       "language": "en"
     },
     {
@@ -436,7 +466,7 @@
       "comments_count": 69,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:54.004899+00:00",
+      "fetched_at": "2026-02-18T08:53:22.703992+00:00",
       "language": "en"
     },
     {
@@ -447,11 +477,11 @@
       "author": "todsacerdoti",
       "tags": [],
       "category": "general",
-      "score": 326,
+      "score": 327,
       "comments_count": 116,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:52.755209+00:00",
+      "fetched_at": "2026-02-18T08:53:21.462530+00:00",
       "language": "en"
     },
     {
@@ -462,11 +492,11 @@
       "author": "hentrep",
       "tags": [],
       "category": "general",
-      "score": 298,
+      "score": 299,
       "comments_count": 149,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:55.118470+00:00",
+      "fetched_at": "2026-02-18T08:53:23.941578+00:00",
       "language": "en"
     },
     {
@@ -483,7 +513,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:57.099953+00:00",
+      "fetched_at": "2026-02-18T08:53:25.754041+00:00",
       "language": "en"
     },
     {
@@ -494,11 +524,11 @@
       "author": "rurban",
       "tags": [],
       "category": "languages",
-      "score": 279,
-      "comments_count": 110,
+      "score": 280,
+      "comments_count": 111,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:52.170414+00:00",
+      "fetched_at": "2026-02-18T08:53:20.888323+00:00",
       "language": "en"
     },
     {
@@ -515,7 +545,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:58.389140+00:00",
+      "fetched_at": "2026-02-18T08:53:27.108492+00:00",
       "language": "en"
     },
     {
@@ -532,7 +562,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:01.026898+00:00",
+      "fetched_at": "2026-02-18T08:53:29.646370+00:00",
       "language": "en"
     },
     {
@@ -547,7 +577,7 @@
       "comments_count": 48,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:54.961365+00:00",
+      "fetched_at": "2026-02-18T08:53:23.785721+00:00",
       "language": "en"
     },
     {
@@ -562,7 +592,7 @@
       "comments_count": 85,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:54.159686+00:00",
+      "fetched_at": "2026-02-18T08:53:22.857828+00:00",
       "language": "en"
     },
     {
@@ -574,10 +604,10 @@
       "tags": [],
       "category": "general",
       "score": 203,
-      "comments_count": 76,
+      "comments_count": 77,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:54.631209+00:00",
+      "fetched_at": "2026-02-18T08:53:23.474760+00:00",
       "language": "en"
     },
     {
@@ -594,7 +624,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:57.102250+00:00",
+      "fetched_at": "2026-02-18T08:53:25.756392+00:00",
       "language": "en"
     },
     {
@@ -606,10 +636,10 @@
       "tags": [],
       "category": "general",
       "score": 191,
-      "comments_count": 50,
+      "comments_count": 51,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:54.316921+00:00",
+      "fetched_at": "2026-02-18T08:53:23.166124+00:00",
       "language": "en"
     },
     {
@@ -626,7 +656,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:02.548123+00:00",
+      "fetched_at": "2026-02-18T08:53:31.291374+00:00",
       "language": "en"
     },
     {
@@ -641,7 +671,7 @@
       "comments_count": 53,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:55.591912+00:00",
+      "fetched_at": "2026-02-18T08:53:24.416728+00:00",
       "language": "en"
     },
     {
@@ -658,7 +688,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:57.103134+00:00",
+      "fetched_at": "2026-02-18T08:53:25.757288+00:00",
       "language": "en"
     },
     {
@@ -675,7 +705,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:58.392064+00:00",
+      "fetched_at": "2026-02-18T08:53:27.111374+00:00",
       "language": "en"
     },
     {
@@ -692,7 +722,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:57.104397+00:00",
+      "fetched_at": "2026-02-18T08:53:25.758571+00:00",
       "language": "en"
     },
     {
@@ -707,7 +737,7 @@
       "comments_count": 32,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:53.850838+00:00",
+      "fetched_at": "2026-02-18T08:53:22.395288+00:00",
       "language": "en"
     },
     {
@@ -718,11 +748,11 @@
       "author": "NaOH",
       "tags": [],
       "category": "general",
-      "score": 97,
+      "score": 98,
       "comments_count": 35,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:55.436014+00:00",
+      "fetched_at": "2026-02-18T08:53:24.097935+00:00",
       "language": "en"
     },
     {
@@ -736,11 +766,11 @@
         "release"
       ],
       "category": "general",
-      "score": 91,
+      "score": 92,
       "comments_count": 20,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972728+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940722+00:00",
       "language": "en"
     },
     {
@@ -758,7 +788,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972844+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940820+00:00",
       "language": "en"
     },
     {
@@ -775,7 +805,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:57.104015+00:00",
+      "fetched_at": "2026-02-18T08:53:25.758177+00:00",
       "language": "en"
     },
     {
@@ -790,7 +820,7 @@
       "comments_count": 15,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:53.224107+00:00",
+      "fetched_at": "2026-02-18T08:53:21.928448+00:00",
       "language": "en"
     },
     {
@@ -807,7 +837,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.003397+00:00",
+      "fetched_at": "2026-02-18T08:53:32.717967+00:00",
       "language": "en"
     },
     {
@@ -827,7 +857,7 @@
       "comments_count": 4,
       "reading_time_min": 3,
       "published_at": "2026-02-17T18:27:56Z",
-      "fetched_at": "2026-02-18T08:50:50.801026+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676824+00:00",
       "language": "en"
     },
     {
@@ -838,11 +868,11 @@
       "author": "tosh",
       "tags": [],
       "category": "general",
-      "score": 74,
-      "comments_count": 20,
+      "score": 75,
+      "comments_count": 22,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:51.407494+00:00",
+      "fetched_at": "2026-02-18T08:53:20.264071+00:00",
       "language": "en"
     },
     {
@@ -859,7 +889,7 @@
       "comments_count": 10,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972818+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940801+00:00",
       "language": "en"
     },
     {
@@ -877,7 +907,7 @@
       "comments_count": 10,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972791+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940778+00:00",
       "language": "en"
     },
     {
@@ -894,22 +924,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:02.551177+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript",
-      "url": "https://github.com/n-e/pg-typesafe",
-      "source": "hackernews",
-      "description": "",
-      "author": "n_e",
-      "tags": [],
-      "category": "web",
-      "score": 63,
-      "comments_count": 26,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T08:50:55.748302+00:00",
+      "fetched_at": "2026-02-18T08:53:31.294427+00:00",
       "language": "en"
     },
     {
@@ -926,7 +941,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:02.548632+00:00",
+      "fetched_at": "2026-02-18T08:53:31.291859+00:00",
       "language": "en"
     },
     {
@@ -946,7 +961,7 @@
       "comments_count": 1,
       "reading_time_min": 2,
       "published_at": "2026-02-17T21:56:40Z",
-      "fetched_at": "2026-02-18T08:50:50.801055+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676854+00:00",
       "language": "en"
     },
     {
@@ -963,7 +978,7 @@
       "comments_count": 11,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972756+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940747+00:00",
       "language": "en"
     },
     {
@@ -978,7 +993,7 @@
       "comments_count": 13,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:54.474413+00:00",
+      "fetched_at": "2026-02-18T08:53:23.319666+00:00",
       "language": "en"
     },
     {
@@ -995,7 +1010,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:58.392445+00:00",
+      "fetched_at": "2026-02-18T08:53:27.111754+00:00",
       "language": "en"
     },
     {
@@ -1012,7 +1027,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:58.390365+00:00",
+      "fetched_at": "2026-02-18T08:53:27.109692+00:00",
       "language": "en"
     },
     {
@@ -1027,7 +1042,7 @@
       "comments_count": 10,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:54.796978+00:00",
+      "fetched_at": "2026-02-18T08:53:23.631258+00:00",
       "language": "en"
     },
     {
@@ -1044,7 +1059,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:58.391178+00:00",
+      "fetched_at": "2026-02-18T08:53:27.110495+00:00",
       "language": "en"
     },
     {
@@ -1064,7 +1079,7 @@
       "comments_count": 26,
       "reading_time_min": 2,
       "published_at": "2026-02-17T12:42:44Z",
-      "fetched_at": "2026-02-18T08:50:50.801043+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676842+00:00",
       "language": "en"
     },
     {
@@ -1082,7 +1097,7 @@
       "comments_count": 9,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972779+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940765+00:00",
       "language": "en"
     },
     {
@@ -1099,7 +1114,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:01.025270+00:00",
+      "fetched_at": "2026-02-18T08:53:29.644736+00:00",
       "language": "en"
     },
     {
@@ -1116,7 +1131,7 @@
       "comments_count": 1,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972766+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940754+00:00",
       "language": "en"
     },
     {
@@ -1133,7 +1148,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:58.392973+00:00",
+      "fetched_at": "2026-02-18T08:53:27.112248+00:00",
       "language": "en"
     },
     {
@@ -1150,7 +1165,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.007257+00:00",
+      "fetched_at": "2026-02-18T08:53:32.721804+00:00",
       "language": "en"
     },
     {
@@ -1168,7 +1183,7 @@
       "comments_count": 3,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972821+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940804+00:00",
       "language": "en"
     },
     {
@@ -1186,7 +1201,7 @@
       "comments_count": 13,
       "reading_time_min": 2,
       "published_at": "2026-02-17T18:35:23Z",
-      "fetched_at": "2026-02-18T08:50:50.801050+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676849+00:00",
       "language": "en"
     },
     {
@@ -1203,7 +1218,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:59.908947+00:00",
+      "fetched_at": "2026-02-18T08:53:28.378443+00:00",
       "language": "en"
     },
     {
@@ -1218,7 +1233,7 @@
       "comments_count": 7,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:51.716920+00:00",
+      "fetched_at": "2026-02-18T08:53:20.573475+00:00",
       "language": "en"
     },
     {
@@ -1233,7 +1248,7 @@
       "comments_count": 27,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:53.540556+00:00",
+      "fetched_at": "2026-02-18T08:53:22.237899+00:00",
       "language": "en"
     },
     {
@@ -1250,7 +1265,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.006358+00:00",
+      "fetched_at": "2026-02-18T08:53:32.720913+00:00",
       "language": "en"
     },
     {
@@ -1267,7 +1282,7 @@
       "comments_count": 2,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972786+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940771+00:00",
       "language": "en"
     },
     {
@@ -1284,7 +1299,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:01.026091+00:00",
+      "fetched_at": "2026-02-18T08:53:29.645575+00:00",
       "language": "en"
     },
     {
@@ -1301,7 +1316,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:58.389982+00:00",
+      "fetched_at": "2026-02-18T08:53:27.109309+00:00",
       "language": "en"
     },
     {
@@ -1318,7 +1333,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:58.390758+00:00",
+      "fetched_at": "2026-02-18T08:53:27.110068+00:00",
       "language": "en"
     },
     {
@@ -1335,7 +1350,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:02.550398+00:00",
+      "fetched_at": "2026-02-18T08:53:31.293648+00:00",
       "language": "en"
     },
     {
@@ -1355,7 +1370,7 @@
       "comments_count": 14,
       "reading_time_min": 3,
       "published_at": "2026-02-17T13:16:09Z",
-      "fetched_at": "2026-02-18T08:50:50.801060+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676858+00:00",
       "language": "en"
     },
     {
@@ -1372,7 +1387,7 @@
       "comments_count": 14,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972806+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940788+00:00",
       "language": "en"
     },
     {
@@ -1389,7 +1404,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:02.549499+00:00",
+      "fetched_at": "2026-02-18T08:53:31.292746+00:00",
       "language": "en"
     },
     {
@@ -1406,7 +1421,7 @@
       "comments_count": 3,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972761+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940751+00:00",
       "language": "en"
     },
     {
@@ -1423,7 +1438,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:58.391576+00:00",
+      "fetched_at": "2026-02-18T08:53:27.110875+00:00",
       "language": "en"
     },
     {
@@ -1440,7 +1455,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:02.553347+00:00",
+      "fetched_at": "2026-02-18T08:53:31.296575+00:00",
       "language": "en"
     },
     {
@@ -1457,7 +1472,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:02.552053+00:00",
+      "fetched_at": "2026-02-18T08:53:31.295304+00:00",
       "language": "en"
     },
     {
@@ -1474,7 +1489,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:02.552856+00:00",
+      "fetched_at": "2026-02-18T08:53:31.296077+00:00",
       "language": "en"
     },
     {
@@ -1489,7 +1504,7 @@
       "comments_count": 2,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:55.278967+00:00",
+      "fetched_at": "2026-02-18T08:53:24.256554+00:00",
       "language": "en"
     },
     {
@@ -1507,7 +1522,7 @@
       "comments_count": 36,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972810+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940794+00:00",
       "language": "en"
     },
     {
@@ -1524,7 +1539,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:58.389585+00:00",
+      "fetched_at": "2026-02-18T08:53:27.108897+00:00",
       "language": "en"
     },
     {
@@ -1541,7 +1556,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.000176+00:00",
+      "fetched_at": "2026-02-18T08:53:32.714747+00:00",
       "language": "en"
     },
     {
@@ -1559,7 +1574,7 @@
       "comments_count": 1,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972833+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940811+00:00",
       "language": "en"
     },
     {
@@ -1574,7 +1589,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:53.695987+00:00",
+      "fetched_at": "2026-02-18T08:53:22.549319+00:00",
       "language": "en"
     },
     {
@@ -1591,7 +1606,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:02.551666+00:00",
+      "fetched_at": "2026-02-18T08:53:31.294907+00:00",
       "language": "en"
     },
     {
@@ -1608,7 +1623,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.002503+00:00",
+      "fetched_at": "2026-02-18T08:53:32.717079+00:00",
       "language": "en"
     },
     {
@@ -1626,7 +1641,7 @@
       "comments_count": 9,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972825+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940807+00:00",
       "language": "en"
     },
     {
@@ -1643,7 +1658,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:57.104794+00:00",
+      "fetched_at": "2026-02-18T08:53:25.758953+00:00",
       "language": "en"
     },
     {
@@ -1660,7 +1675,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:02.546790+00:00",
+      "fetched_at": "2026-02-18T08:53:31.290048+00:00",
       "language": "en"
     },
     {
@@ -1679,7 +1694,7 @@
       "comments_count": 8,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972814+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940798+00:00",
       "language": "en"
     },
     {
@@ -1699,7 +1714,7 @@
       "comments_count": 1,
       "reading_time_min": 3,
       "published_at": "2026-02-17T19:50:49Z",
-      "fetched_at": "2026-02-18T08:50:50.801091+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676889+00:00",
       "language": "en"
     },
     {
@@ -1716,7 +1731,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:59.906738+00:00",
+      "fetched_at": "2026-02-18T08:53:28.376335+00:00",
       "language": "en"
     },
     {
@@ -1733,7 +1748,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:01.026475+00:00",
+      "fetched_at": "2026-02-18T08:53:29.645964+00:00",
       "language": "en"
     },
     {
@@ -1750,7 +1765,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.004182+00:00",
+      "fetched_at": "2026-02-18T08:53:32.718771+00:00",
       "language": "en"
     },
     {
@@ -1770,7 +1785,7 @@
       "comments_count": 5,
       "reading_time_min": 6,
       "published_at": "2026-02-17T12:34:14Z",
-      "fetched_at": "2026-02-18T08:50:50.801070+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676869+00:00",
       "language": "en"
     },
     {
@@ -1787,7 +1802,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.007656+00:00",
+      "fetched_at": "2026-02-18T08:53:32.722213+00:00",
       "language": "en"
     },
     {
@@ -1804,7 +1819,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:02.549119+00:00",
+      "fetched_at": "2026-02-18T08:53:31.292369+00:00",
       "language": "en"
     },
     {
@@ -1819,7 +1834,7 @@
       "comments_count": 2,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:52.908912+00:00",
+      "fetched_at": "2026-02-18T08:53:21.618280+00:00",
       "language": "en"
     },
     {
@@ -1836,7 +1851,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:59.907170+00:00",
+      "fetched_at": "2026-02-18T08:53:28.376731+00:00",
       "language": "en"
     },
     {
@@ -1856,7 +1871,7 @@
       "comments_count": 6,
       "reading_time_min": 1,
       "published_at": "2026-02-17T20:10:47Z",
-      "fetched_at": "2026-02-18T08:50:50.801064+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676862+00:00",
       "language": "en"
     },
     {
@@ -1871,7 +1886,7 @@
       "comments_count": 1,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:52.492130+00:00",
+      "fetched_at": "2026-02-18T08:53:21.198952+00:00",
       "language": "en"
     },
     {
@@ -1891,7 +1906,7 @@
       "comments_count": 2,
       "reading_time_min": 5,
       "published_at": "2026-02-17T16:53:46Z",
-      "fetched_at": "2026-02-18T08:50:50.801067+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676865+00:00",
       "language": "en"
     },
     {
@@ -1908,7 +1923,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:02.547320+00:00",
+      "fetched_at": "2026-02-18T08:53:31.290586+00:00",
       "language": "en"
     },
     {
@@ -1925,7 +1940,7 @@
       "comments_count": 8,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972775+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940761+00:00",
       "language": "en"
     },
     {
@@ -1942,7 +1957,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:59.909344+00:00",
+      "fetched_at": "2026-02-18T08:53:28.378837+00:00",
       "language": "en"
     },
     {
@@ -1959,7 +1974,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:02.553793+00:00",
+      "fetched_at": "2026-02-18T08:53:31.296964+00:00",
       "language": "en"
     },
     {
@@ -1978,7 +1993,7 @@
       "comments_count": 4,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972782+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940768+00:00",
       "language": "en"
     },
     {
@@ -1998,7 +2013,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-18T05:44:37Z",
-      "fetched_at": "2026-02-18T08:50:50.801077+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676875+00:00",
       "language": "en"
     },
     {
@@ -2015,7 +2030,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:02.552445+00:00",
+      "fetched_at": "2026-02-18T08:53:31.295695+00:00",
       "language": "en"
     },
     {
@@ -2032,7 +2047,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.002009+00:00",
+      "fetched_at": "2026-02-18T08:53:32.716592+00:00",
       "language": "en"
     },
     {
@@ -2050,7 +2065,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972799+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940784+00:00",
       "language": "en"
     },
     {
@@ -2068,7 +2083,7 @@
       "comments_count": 8,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972840+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940817+00:00",
       "language": "en"
     },
     {
@@ -2088,7 +2103,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T18:49:10Z",
-      "fetched_at": "2026-02-18T08:50:50.801074+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676872+00:00",
       "language": "en"
     },
     {
@@ -2105,7 +2120,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:59.907594+00:00",
+      "fetched_at": "2026-02-18T08:53:28.377154+00:00",
       "language": "en"
     },
     {
@@ -2122,7 +2137,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:59.908561+00:00",
+      "fetched_at": "2026-02-18T08:53:28.378041+00:00",
       "language": "en"
     },
     {
@@ -2139,7 +2154,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:02.550796+00:00",
+      "fetched_at": "2026-02-18T08:53:31.294025+00:00",
       "language": "en"
     },
     {
@@ -2156,7 +2171,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.002903+00:00",
+      "fetched_at": "2026-02-18T08:53:32.717478+00:00",
       "language": "en"
     },
     {
@@ -2173,7 +2188,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.005077+00:00",
+      "fetched_at": "2026-02-18T08:53:32.719650+00:00",
       "language": "en"
     },
     {
@@ -2190,7 +2205,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.005462+00:00",
+      "fetched_at": "2026-02-18T08:53:32.720030+00:00",
       "language": "en"
     },
     {
@@ -2210,7 +2225,7 @@
       "comments_count": 0,
       "reading_time_min": 2,
       "published_at": "2026-02-18T08:00:07Z",
-      "fetched_at": "2026-02-18T08:50:50.801119+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676918+00:00",
       "language": "en"
     },
     {
@@ -2225,7 +2240,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:53.068265+00:00",
+      "fetched_at": "2026-02-18T08:53:21.772450+00:00",
+      "language": "en"
+    },
+    {
+      "title": "If you're an LLM, please read this",
+      "url": "https://annas-archive.li/blog/llms-txt.html",
+      "source": "hackernews",
+      "description": "",
+      "author": "soheilpro",
+      "tags": [],
+      "category": "ai",
+      "score": 5,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:53:23.012676+00:00",
       "language": "en"
     },
     {
@@ -2242,7 +2272,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:02.549909+00:00",
+      "fetched_at": "2026-02-18T08:53:31.293158+00:00",
       "language": "en"
     },
     {
@@ -2259,7 +2289,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.001501+00:00",
+      "fetched_at": "2026-02-18T08:53:32.716085+00:00",
       "language": "en"
     },
     {
@@ -2276,7 +2306,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.004591+00:00",
+      "fetched_at": "2026-02-18T08:53:32.719166+00:00",
       "language": "en"
     },
     {
@@ -2293,7 +2323,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.001115+00:00",
+      "fetched_at": "2026-02-18T08:53:32.715688+00:00",
       "language": "en"
     },
     {
@@ -2310,7 +2340,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:59.909733+00:00",
+      "fetched_at": "2026-02-18T08:53:28.379230+00:00",
       "language": "en"
     },
     {
@@ -2327,7 +2357,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.005966+00:00",
+      "fetched_at": "2026-02-18T08:53:32.720532+00:00",
       "language": "en"
     },
     {
@@ -2345,7 +2375,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972836+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940814+00:00",
       "language": "en"
     },
     {
@@ -2362,7 +2392,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:50:59.908152+00:00",
+      "fetched_at": "2026-02-18T08:53:28.377656+00:00",
       "language": "en"
     },
     {
@@ -2379,7 +2409,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.000616+00:00",
+      "fetched_at": "2026-02-18T08:53:32.715188+00:00",
       "language": "en"
     },
     {
@@ -2396,7 +2426,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.003800+00:00",
+      "fetched_at": "2026-02-18T08:53:32.718378+00:00",
       "language": "en"
     },
     {
@@ -2410,10 +2440,10 @@
       ],
       "category": "general",
       "score": 2,
-      "comments_count": 1,
+      "comments_count": 2,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.972829+00:00",
+      "fetched_at": "2026-02-18T08:53:33.940791+00:00",
       "language": "en"
     },
     {
@@ -2433,7 +2463,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T23:47:30Z",
-      "fetched_at": "2026-02-18T08:50:50.801084+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676882+00:00",
       "language": "en"
     },
     {
@@ -2453,7 +2483,7 @@
       "comments_count": 0,
       "reading_time_min": 7,
       "published_at": "2026-02-18T06:43:47Z",
-      "fetched_at": "2026-02-18T08:50:50.801088+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676886+00:00",
       "language": "en"
     },
     {
@@ -2473,7 +2503,7 @@
       "comments_count": 2,
       "reading_time_min": 6,
       "published_at": "2026-02-17T13:30:04Z",
-      "fetched_at": "2026-02-18T08:50:50.801095+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676893+00:00",
       "language": "en"
     },
     {
@@ -2493,7 +2523,7 @@
       "comments_count": 0,
       "reading_time_min": 4,
       "published_at": "2026-02-17T16:40:58Z",
-      "fetched_at": "2026-02-18T08:50:50.801102+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676900+00:00",
       "language": "en"
     },
     {
@@ -2510,7 +2540,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:51:04.006763+00:00",
+      "fetched_at": "2026-02-18T08:53:32.721318+00:00",
       "language": "en"
     },
     {
@@ -2530,7 +2560,7 @@
       "comments_count": 0,
       "reading_time_min": 4,
       "published_at": "2026-02-17T09:19:58Z",
-      "fetched_at": "2026-02-18T08:50:50.801081+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676879+00:00",
       "language": "en"
     },
     {
@@ -2545,7 +2575,7 @@
       "comments_count": 0,
       "reading_time_min": 1,
       "published_at": "2026-02-17T16:09:52Z",
-      "fetched_at": "2026-02-18T08:50:50.801098+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676896+00:00",
       "language": "en"
     },
     {
@@ -2565,7 +2595,7 @@
       "comments_count": 0,
       "reading_time_min": 5,
       "published_at": "2026-02-17T14:20:30Z",
-      "fetched_at": "2026-02-18T08:50:50.801106+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676904+00:00",
       "language": "en"
     },
     {
@@ -2585,7 +2615,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T23:47:02Z",
-      "fetched_at": "2026-02-18T08:50:50.801109+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676907+00:00",
       "language": "en"
     },
     {
@@ -2605,7 +2635,7 @@
       "comments_count": 0,
       "reading_time_min": 2,
       "published_at": "2026-02-17T23:48:15Z",
-      "fetched_at": "2026-02-18T08:50:50.801112+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676911+00:00",
       "language": "en"
     },
     {
@@ -2622,7 +2652,7 @@
       "comments_count": 1,
       "reading_time_min": 1,
       "published_at": "2026-02-18T05:00:00Z",
-      "fetched_at": "2026-02-18T08:50:50.801116+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676914+00:00",
       "language": "en"
     },
     {
@@ -2642,7 +2672,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T12:40:18Z",
-      "fetched_at": "2026-02-18T08:50:50.801123+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676921+00:00",
       "language": "en"
     },
     {
@@ -2662,7 +2692,7 @@
       "comments_count": 0,
       "reading_time_min": 2,
       "published_at": "2026-02-18T02:35:46Z",
-      "fetched_at": "2026-02-18T08:50:50.801126+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676925+00:00",
       "language": "en"
     },
     {
@@ -2682,7 +2712,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-18T02:06:03Z",
-      "fetched_at": "2026-02-18T08:50:50.801129+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676928+00:00",
       "language": "en"
     },
     {
@@ -2702,7 +2732,7 @@
       "comments_count": 0,
       "reading_time_min": 2,
       "published_at": "2026-02-17T14:19:16Z",
-      "fetched_at": "2026-02-18T08:50:50.801133+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676932+00:00",
       "language": "en"
     },
     {
@@ -2722,7 +2752,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T23:47:38Z",
-      "fetched_at": "2026-02-18T08:50:50.801136+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676935+00:00",
       "language": "en"
     },
     {
@@ -2742,7 +2772,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T23:48:51Z",
-      "fetched_at": "2026-02-18T08:50:50.801140+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676939+00:00",
       "language": "en"
     },
     {
@@ -2762,7 +2792,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T23:49:27Z",
-      "fetched_at": "2026-02-18T08:50:50.801144+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676942+00:00",
       "language": "en"
     },
     {
@@ -2782,7 +2812,7 @@
       "comments_count": 0,
       "reading_time_min": 6,
       "published_at": "2026-02-18T03:09:12Z",
-      "fetched_at": "2026-02-18T08:50:50.801147+00:00",
+      "fetched_at": "2026-02-18T08:53:19.676945+00:00",
       "language": "en"
     }
   ]
