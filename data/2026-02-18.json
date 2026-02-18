@@ -1,6 +1,6 @@
 {
   "date": "2026-02-18",
-  "generated_at": "2026-02-18T07:12:56.214593+00:00",
+  "generated_at": "2026-02-18T07:55:24.896363+00:00",
   "digest": [
     {
       "title_en": "alibaba/zvec",
@@ -20,8 +20,8 @@
     {
       "title_en": "Claude Sonnet 4.6",
       "title_pt": "Claude Sonnet 4.6",
-      "body_en": "**Claude Sonnet 4.6** caught attention in the ai & machine learning space today.\n\nAuthor: **adocomplete**\n\nCommunity buzz: **1,033** points, **912** comments, via **Hackernews**. Check the original source below for the full story.",
-      "body_pt": "**Claude Sonnet 4.6** chamou atenção no mundo de ia & machine learning hoje.\n\nAutor: **adocomplete**\n\nRepercussão: **1,033** pontos, **912** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
+      "body_en": "**Claude Sonnet 4.6** caught attention in the ai & machine learning space today.\n\nAuthor: **adocomplete**\n\nCommunity buzz: **1,051** points, **923** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**Claude Sonnet 4.6** chamou atenção no mundo de ia & machine learning hoje.\n\nAutor: **adocomplete**\n\nRepercussão: **1,051** pontos, **923** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
       "category": "ai",
       "emoji": "🤖",
       "sources": [
@@ -213,6 +213,21 @@
       ]
     },
     {
+      "title_en": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+      "title_pt": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+      "body_en": "**BarraCUDA Open-source CUDA compiler targeting AMD GPUs** caught attention in the programming languages space today.\n\nAuthor: **rurban**\n\nCommunity buzz: **265** points, **100** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**BarraCUDA Open-source CUDA compiler targeting AMD GPUs** chamou atenção no mundo de linguagens de programação hoje.\n\nAutor: **rurban**\n\nRepercussão: **265** pontos, **100** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "languages",
+      "emoji": "💻",
+      "sources": [
+        {
+          "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+          "url": "https://github.com/Zaneham/BarraCUDA",
+          "source": "hackernews"
+        }
+      ]
+    },
+    {
       "title_en": "ruvnet/wifi-densepose",
       "title_pt": "ruvnet/wifi-densepose",
       "body_en": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers\n\nTags: `python`\n\nCommunity buzz: **258** points, via **Github Trending**. Check the original source below for the full story.",
@@ -224,21 +239,6 @@
           "title": "ruvnet/wifi-densepose",
           "url": "https://github.com/ruvnet/wifi-densepose",
           "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
-      "title_pt": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
-      "body_en": "**BarraCUDA Open-source CUDA compiler targeting AMD GPUs** caught attention in the programming languages space today.\n\nAuthor: **rurban**\n\nCommunity buzz: **255** points, **91** comments, via **Hackernews**. Check the original source below for the full story.",
-      "body_pt": "**BarraCUDA Open-source CUDA compiler targeting AMD GPUs** chamou atenção no mundo de linguagens de programação hoje.\n\nAutor: **rurban**\n\nRepercussão: **255** pontos, **91** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "languages",
-      "emoji": "💻",
-      "sources": [
-        {
-          "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
-          "url": "https://github.com/Zaneham/BarraCUDA",
-          "source": "hackernews"
         }
       ]
     },
@@ -275,8 +275,8 @@
     {
       "title_en": "Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies",
       "title_pt": "Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies",
-      "body_en": "**Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies** caught attention in the frameworks & tools space today.\n\nTags: `web` · Author: **sylq**\n\nCommunity buzz: **27** points, **2** comments, via **Lobsters**. Check the original source below for the full story.",
-      "body_pt": "**Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies** chamou atenção no mundo de frameworks & ferramentas hoje.\n\nTags: `web` · Autor: **sylq**\n\nRepercussão: **27** pontos, **2** comentários, via **Lobsters**. Confira a fonte original abaixo para a matéria completa.",
+      "body_en": "**Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies** caught attention in the frameworks & tools space today.\n\nTags: `web` · Author: **sylq**\n\nCommunity buzz: **29** points, **2** comments, via **Lobsters**. Check the original source below for the full story.",
+      "body_pt": "**Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies** chamou atenção no mundo de frameworks & ferramentas hoje.\n\nTags: `web` · Autor: **sylq**\n\nRepercussão: **29** pontos, **2** comentários, via **Lobsters**. Confira a fonte original abaixo para a matéria completa.",
       "category": "frameworks",
       "emoji": "🧩",
       "sources": [
@@ -380,8 +380,8 @@
     {
       "title_en": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
       "title_pt": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
-      "body_en": "**Thousands of CEOs just admitted AI had no impact on employment or productivity** caught attention in the career & community space today.\n\nAuthor: **virgildotcodes**\n\nCommunity buzz: **355** points, **249** comments, via **Hackernews**. Check the original source below for the full story.",
-      "body_pt": "**Thousands of CEOs just admitted AI had no impact on employment or productivity** chamou atenção no mundo de carreira & comunidade hoje.\n\nAutor: **virgildotcodes**\n\nRepercussão: **355** pontos, **249** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
+      "body_en": "**Thousands of CEOs just admitted AI had no impact on employment or productivity** caught attention in the career & community space today.\n\nAuthor: **virgildotcodes**\n\nCommunity buzz: **389** points, **270** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**Thousands of CEOs just admitted AI had no impact on employment or productivity** chamou atenção no mundo de carreira & comunidade hoje.\n\nAutor: **virgildotcodes**\n\nRepercussão: **389** pontos, **270** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
       "category": "career",
       "emoji": "🚀",
       "sources": [
@@ -395,8 +395,8 @@
     {
       "title_en": "I’ve Seen This Architecture Before. It Ends in Tears.",
       "title_pt": "I’ve Seen This Architecture Before. It Ends in Tears.",
-      "body_en": "I’ve been writing software long enough to know one eternal truth:  Nothing is more permanent than a...\n\nTags: `career`, `programming`, `software`, `discuss` · Author: **art_light**\n\nCommunity buzz: **56** points, **1** comments, via **Devto**. Check the original source below for the full story.",
-      "body_pt": "I’ve been writing software long enough to know one eternal truth:  Nothing is more permanent than a...\n\nTags: `career`, `programming`, `software`, `discuss` · Autor: **art_light**\n\nRepercussão: **56** pontos, **1** comentários, via **Devto**. Confira a fonte original abaixo para a matéria completa.",
+      "body_en": "I’ve been writing software long enough to know one eternal truth:  Nothing is more permanent than a...\n\nTags: `career`, `programming`, `software`, `discuss` · Author: **art_light**\n\nCommunity buzz: **62** points, **1** comments, via **Devto**. Check the original source below for the full story.",
+      "body_pt": "I’ve been writing software long enough to know one eternal truth:  Nothing is more permanent than a...\n\nTags: `career`, `programming`, `software`, `discuss` · Autor: **art_light**\n\nRepercussão: **62** pontos, **1** comentários, via **Devto**. Confira a fonte original abaixo para a matéria completa.",
       "category": "career",
       "emoji": "🚀",
       "sources": [
@@ -410,8 +410,8 @@
     {
       "title_en": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
       "title_pt": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
-      "body_en": "We are currently living through the greatest inflation of software in history.  With the AI tools we...\n\nTags: `softwareengineering`, `career`, `productivity`, `discuss` · Author: **the_nortern_dev**\n\nCommunity buzz: **39** points, **25** comments, via **Devto**. Check the original source below for the full story.",
-      "body_pt": "We are currently living through the greatest inflation of software in history.  With the AI tools we...\n\nTags: `softwareengineering`, `career`, `productivity`, `discuss` · Autor: **the_nortern_dev**\n\nRepercussão: **39** pontos, **25** comentários, via **Devto**. Confira a fonte original abaixo para a matéria completa.",
+      "body_en": "We are currently living through the greatest inflation of software in history.  With the AI tools we...\n\nTags: `softwareengineering`, `career`, `productivity`, `discuss` · Author: **the_nortern_dev**\n\nCommunity buzz: **42** points, **25** comments, via **Devto**. Check the original source below for the full story.",
+      "body_pt": "We are currently living through the greatest inflation of software in history.  With the AI tools we...\n\nTags: `softwareengineering`, `career`, `productivity`, `discuss` · Autor: **the_nortern_dev**\n\nRepercussão: **42** pontos, **25** comentários, via **Devto**. Confira a fonte original abaixo para a matéria completa.",
       "category": "career",
       "emoji": "🚀",
       "sources": [
@@ -425,8 +425,8 @@
     {
       "title_en": "Thank HN: You helped save 33k lives",
       "title_pt": "Thank HN: You helped save 33k lives",
-      "body_en": "**Thank HN: You helped save 33k lives** caught attention in the general tech space today.\n\nAuthor: **chaseadam17**\n\nCommunity buzz: **700** points, **75** comments, via **Hackernews**. Check the original source below for the full story.",
-      "body_pt": "**Thank HN: You helped save 33k lives** chamou atenção no mundo de tecnologia em geral hoje.\n\nAutor: **chaseadam17**\n\nRepercussão: **700** pontos, **75** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
+      "body_en": "**Thank HN: You helped save 33k lives** caught attention in the general tech space today.\n\nAuthor: **chaseadam17**\n\nCommunity buzz: **724** points, **75** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**Thank HN: You helped save 33k lives** chamou atenção no mundo de tecnologia em geral hoje.\n\nAutor: **chaseadam17**\n\nRepercussão: **724** pontos, **75** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
       "category": "general",
       "emoji": "📌",
       "sources": [
@@ -453,6 +453,21 @@
       ]
     },
     {
+      "title_en": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
+      "title_pt": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
+      "body_en": "**Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)** caught attention in the general tech space today.\n\nAuthor: **walterbell**\n\nCommunity buzz: **361** points, **190** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)** chamou atenção no mundo de tecnologia em geral hoje.\n\nAutor: **walterbell**\n\nRepercussão: **361** pontos, **190** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "general",
+      "emoji": "📌",
+      "sources": [
+        {
+          "title": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
+          "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+          "source": "hackernews"
+        }
+      ]
+    },
+    {
       "title_en": "nautechsystems/nautilus_trader",
       "title_pt": "nautechsystems/nautilus_trader",
       "body_en": "A high-performance algorithmic trading platform and event-driven backtester\n\nTags: `rust`\n\nCommunity buzz: **359** points, via **Github Trending**. Check the original source below for the full story.",
@@ -464,21 +479,6 @@
           "title": "nautechsystems/nautilus_trader",
           "url": "https://github.com/nautechsystems/nautilus_trader",
           "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-      "title_pt": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-      "body_en": "**Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway** caught attention in the general tech space today.\n\nAuthor: **moWerk**\n\nCommunity buzz: **339** points, **36** comments, via **Hackernews**. Check the original source below for the full story.",
-      "body_pt": "**Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway** chamou atenção no mundo de tecnologia em geral hoje.\n\nAutor: **moWerk**\n\nRepercussão: **339** pontos, **36** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
-      "category": "general",
-      "emoji": "📌",
-      "sources": [
-        {
-          "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-          "url": "https://asteroidos.org/news/2-0-release/index.html",
-          "source": "hackernews"
         }
       ]
     }
@@ -506,7 +506,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:47.597966+00:00",
+      "fetched_at": "2026-02-18T07:55:17.649852+00:00",
       "language": "en"
     },
     {
@@ -523,7 +523,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:47.597444+00:00",
+      "fetched_at": "2026-02-18T07:55:17.649208+00:00",
       "language": "en"
     },
     {
@@ -534,11 +534,11 @@
       "author": "adocomplete",
       "tags": [],
       "category": "ai",
-      "score": 1033,
-      "comments_count": 912,
+      "score": 1051,
+      "comments_count": 923,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:42.413734+00:00",
+      "fetched_at": "2026-02-18T07:55:13.585705+00:00",
       "language": "en"
     },
     {
@@ -549,11 +549,11 @@
       "author": "chaseadam17",
       "tags": [],
       "category": "general",
-      "score": 700,
+      "score": 724,
       "comments_count": 75,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:42.572683+00:00",
+      "fetched_at": "2026-02-18T07:55:13.789610+00:00",
       "language": "en"
     },
     {
@@ -570,7 +570,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:47.595534+00:00",
+      "fetched_at": "2026-02-18T07:55:17.646886+00:00",
       "language": "en"
     },
     {
@@ -587,7 +587,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:47.596529+00:00",
+      "fetched_at": "2026-02-18T07:55:17.648072+00:00",
       "language": "en"
     },
     {
@@ -604,7 +604,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:47.599792+00:00",
+      "fetched_at": "2026-02-18T07:55:17.652104+00:00",
       "language": "en"
     },
     {
@@ -621,7 +621,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:47.598746+00:00",
+      "fetched_at": "2026-02-18T07:55:17.650837+00:00",
       "language": "en"
     },
     {
@@ -638,7 +638,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:49.844135+00:00",
+      "fetched_at": "2026-02-18T07:55:19.724882+00:00",
       "language": "en"
     },
     {
@@ -655,7 +655,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:47.597044+00:00",
+      "fetched_at": "2026-02-18T07:55:17.648698+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+      "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+      "source": "hackernews",
+      "description": "",
+      "author": "virgildotcodes",
+      "tags": [],
+      "category": "career",
+      "score": 389,
+      "comments_count": 270,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T07:55:14.156081+00:00",
       "language": "en"
     },
     {
@@ -672,7 +687,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:49.844551+00:00",
+      "fetched_at": "2026-02-18T07:55:19.725401+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
+      "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+      "source": "hackernews",
+      "description": "",
+      "author": "walterbell",
+      "tags": [],
+      "category": "general",
+      "score": 361,
+      "comments_count": 190,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T07:55:13.377384+00:00",
       "language": "en"
     },
     {
@@ -689,22 +719,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:52.332523+00:00",
+      "fetched_at": "2026-02-18T07:55:22.093125+00:00",
       "language": "en"
     },
     {
-      "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
-      "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
+      "url": "https://asteroidos.org/news/2-0-release/index.html",
       "source": "hackernews",
       "description": "",
-      "author": "virgildotcodes",
+      "author": "moWerk",
       "tags": [],
-      "category": "career",
-      "score": 355,
-      "comments_count": 249,
+      "category": "general",
+      "score": 348,
+      "comments_count": 38,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:43.232555+00:00",
+      "fetched_at": "2026-02-18T07:55:14.053080+00:00",
       "language": "en"
     },
     {
@@ -721,22 +751,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:50.882784+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-      "url": "https://asteroidos.org/news/2-0-release/index.html",
-      "source": "hackernews",
-      "description": "",
-      "author": "moWerk",
-      "tags": [],
-      "category": "general",
-      "score": 339,
-      "comments_count": 36,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:12:43.099636+00:00",
+      "fetched_at": "2026-02-18T07:55:20.696093+00:00",
       "language": "en"
     },
     {
@@ -747,26 +762,11 @@
       "author": "todsacerdoti",
       "tags": [],
       "category": "general",
-      "score": 324,
-      "comments_count": 68,
+      "score": 326,
+      "comments_count": 69,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:44.308075+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
-      "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
-      "source": "hackernews",
-      "description": "",
-      "author": "walterbell",
-      "tags": [],
-      "category": "general",
-      "score": 314,
-      "comments_count": 179,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:12:42.125729+00:00",
+      "fetched_at": "2026-02-18T07:55:14.781075+00:00",
       "language": "en"
     },
     {
@@ -777,11 +777,11 @@
       "author": "todsacerdoti",
       "tags": [],
       "category": "general",
-      "score": 308,
-      "comments_count": 109,
+      "score": 316,
+      "comments_count": 110,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:43.907862+00:00",
+      "fetched_at": "2026-02-18T07:55:14.365669+00:00",
       "language": "en"
     },
     {
@@ -792,11 +792,11 @@
       "author": "hentrep",
       "tags": [],
       "category": "general",
-      "score": 290,
+      "score": 295,
       "comments_count": 147,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:46.276102+00:00",
+      "fetched_at": "2026-02-18T07:55:15.936896+00:00",
       "language": "en"
     },
     {
@@ -813,7 +813,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:47.596023+00:00",
+      "fetched_at": "2026-02-18T07:55:17.647424+00:00",
+      "language": "en"
+    },
+    {
+      "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+      "url": "https://github.com/Zaneham/BarraCUDA",
+      "source": "hackernews",
+      "description": "",
+      "author": "rurban",
+      "tags": [],
+      "category": "languages",
+      "score": 265,
+      "comments_count": 100,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T07:55:13.896799+00:00",
       "language": "en"
     },
     {
@@ -830,7 +845,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:48.721095+00:00",
+      "fetched_at": "2026-02-18T07:55:18.691760+00:00",
       "language": "en"
     },
     {
@@ -847,22 +862,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:50.883984+00:00",
-      "language": "en"
-    },
-    {
-      "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
-      "url": "https://github.com/Zaneham/BarraCUDA",
-      "source": "hackernews",
-      "description": "",
-      "author": "rurban",
-      "tags": [],
-      "category": "languages",
-      "score": 255,
-      "comments_count": 91,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:12:42.814744+00:00",
+      "fetched_at": "2026-02-18T07:55:20.697595+00:00",
       "language": "en"
     },
     {
@@ -873,26 +873,26 @@
       "author": "kewonit",
       "tags": [],
       "category": "general",
-      "score": 242,
+      "score": 246,
       "comments_count": 48,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:45.876408+00:00",
+      "fetched_at": "2026-02-18T07:55:15.831962+00:00",
       "language": "en"
     },
     {
-      "title": "Google Public CA is down",
-      "url": "https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3",
+      "title": "15 years later, Microsoft morged my diagram",
+      "url": "https://nvie.com/posts/15-years-later/",
       "source": "hackernews",
       "description": "",
-      "author": "aloknnikhil",
+      "author": "cheeaun",
       "tags": [],
       "category": "general",
-      "score": 237,
-      "comments_count": 131,
+      "score": 229,
+      "comments_count": 72,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:45.719686+00:00",
+      "fetched_at": "2026-02-18T07:55:13.271221+00:00",
       "language": "en"
     },
     {
@@ -903,11 +903,26 @@
       "author": "crescit_eundo",
       "tags": [],
       "category": "general",
-      "score": 206,
+      "score": 207,
       "comments_count": 84,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:44.432445+00:00",
+      "fetched_at": "2026-02-18T07:55:14.887892+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Show HN: I wrote a technical history book on Lisp",
+      "url": "https://berksoft.ca/gol/",
+      "source": "hackernews",
+      "description": "",
+      "author": "cdegroot",
+      "tags": [],
+      "category": "general",
+      "score": 194,
+      "comments_count": 73,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T07:55:15.416746+00:00",
       "language": "en"
     },
     {
@@ -924,7 +939,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:47.598362+00:00",
+      "fetched_at": "2026-02-18T07:55:17.650345+00:00",
       "language": "en"
     },
     {
@@ -941,22 +956,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:52.332924+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Show HN: I wrote a technical history book on Lisp",
-      "url": "https://berksoft.ca/gol/",
-      "source": "hackernews",
-      "description": "",
-      "author": "cdegroot",
-      "tags": [],
-      "category": "general",
-      "score": 189,
-      "comments_count": 72,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:12:45.271330+00:00",
+      "fetched_at": "2026-02-18T07:55:22.093619+00:00",
       "language": "en"
     },
     {
@@ -967,41 +967,11 @@
       "author": "Philpax",
       "tags": [],
       "category": "general",
-      "score": 183,
+      "score": 186,
       "comments_count": 50,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:44.721393+00:00",
-      "language": "en"
-    },
-    {
-      "title": "I swear the UFO is coming any minute",
-      "url": "https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute",
-      "source": "hackernews",
-      "description": "",
-      "author": "Ariarule",
-      "tags": [],
-      "category": "general",
-      "score": 144,
-      "comments_count": 49,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:12:46.151594+00:00",
-      "language": "en"
-    },
-    {
-      "title": "15 years later, Microsoft morged my diagram",
-      "url": "https://nvie.com/posts/15-years-later/",
-      "source": "hackernews",
-      "description": "",
-      "author": "cheeaun",
-      "tags": [],
-      "category": "general",
-      "score": 122,
-      "comments_count": 30,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:12:41.997917+00:00",
+      "fetched_at": "2026-02-18T07:55:14.995272+00:00",
       "language": "en"
     },
     {
@@ -1018,7 +988,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:47.599261+00:00",
+      "fetched_at": "2026-02-18T07:55:17.651470+00:00",
       "language": "en"
     },
     {
@@ -1035,7 +1005,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:48.724039+00:00",
+      "fetched_at": "2026-02-18T07:55:18.695399+00:00",
       "language": "en"
     },
     {
@@ -1052,7 +1022,37 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:47.600652+00:00",
+      "fetched_at": "2026-02-18T07:55:17.653098+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Physicists Make Electrons Flow Like Water",
+      "url": "https://www.quantamagazine.org/physicists-make-electrons-flow-like-water-20260211/",
+      "source": "hackernews",
+      "description": "",
+      "author": "rbanffy",
+      "tags": [],
+      "category": "general",
+      "score": 94,
+      "comments_count": 14,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T07:55:16.247626+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Minimal x86 Kernel Zig",
+      "url": "https://github.com/lopespm/zig-minimal-kernel-x86",
+      "source": "hackernews",
+      "description": "",
+      "author": "lopespm",
+      "tags": [],
+      "category": "languages",
+      "score": 91,
+      "comments_count": 27,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T07:55:14.468818+00:00",
       "language": "en"
     },
     {
@@ -1063,29 +1063,11 @@
       "author": "NaOH",
       "tags": [],
       "category": "general",
-      "score": 90,
+      "score": 91,
       "comments_count": 34,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:46.013325+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Rise of the Triforce",
-      "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
-      "source": "lobsters",
-      "description": "",
-      "author": "FedericoSchonborn",
-      "tags": [
-        "games",
-        "retrocomputing"
-      ],
-      "category": "general",
-      "score": 89,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234712+00:00",
+      "fetched_at": "2026-02-18T07:55:16.144070+00:00",
       "language": "en"
     },
     {
@@ -1099,26 +1081,29 @@
         "release"
       ],
       "category": "general",
-      "score": 88,
+      "score": 90,
       "comments_count": 19,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234627+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249686+00:00",
       "language": "en"
     },
     {
-      "title": "Minimal x86 Kernel Zig",
-      "url": "https://github.com/lopespm/zig-minimal-kernel-x86",
-      "source": "hackernews",
+      "title": "Rise of the Triforce",
+      "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+      "source": "lobsters",
       "description": "",
-      "author": "lopespm",
-      "tags": [],
-      "category": "languages",
-      "score": 87,
-      "comments_count": 23,
+      "author": "FedericoSchonborn",
+      "tags": [
+        "games",
+        "retrocomputing"
+      ],
+      "category": "general",
+      "score": 90,
+      "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:43.693154+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249807+00:00",
       "language": "en"
     },
     {
@@ -1135,7 +1120,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:47.600249+00:00",
+      "fetched_at": "2026-02-18T07:55:17.652589+00:00",
       "language": "en"
     },
     {
@@ -1152,7 +1137,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:53.655833+00:00",
+      "fetched_at": "2026-02-18T07:55:23.302106+00:00",
       "language": "en"
     },
     {
@@ -1172,7 +1157,7 @@
       "comments_count": 4,
       "reading_time_min": 3,
       "published_at": "2026-02-17T18:27:56Z",
-      "fetched_at": "2026-02-18T07:12:41.761014+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135872+00:00",
       "language": "en"
     },
     {
@@ -1185,11 +1170,26 @@
         "practices"
       ],
       "category": "general",
-      "score": 70,
+      "score": 71,
       "comments_count": 10,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234692+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249775+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
+      "url": "https://www.vogons.org/viewtopic.php?t=105451",
+      "source": "hackernews",
+      "description": "",
+      "author": "LowLevelMahn",
+      "tags": [],
+      "category": "general",
+      "score": 70,
+      "comments_count": 14,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T07:55:14.676262+00:00",
       "language": "en"
     },
     {
@@ -1207,7 +1207,7 @@
       "comments_count": 10,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234671+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249749+00:00",
       "language": "en"
     },
     {
@@ -1224,22 +1224,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:52.335986+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
-      "url": "https://www.vogons.org/viewtopic.php?t=105451",
-      "source": "hackernews",
-      "description": "",
-      "author": "LowLevelMahn",
-      "tags": [],
-      "category": "general",
-      "score": 65,
-      "comments_count": 13,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:12:44.141684+00:00",
+      "fetched_at": "2026-02-18T07:55:22.097496+00:00",
       "language": "en"
     },
     {
@@ -1256,22 +1241,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:52.333409+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript",
-      "url": "https://github.com/n-e/pg-typesafe",
-      "source": "hackernews",
-      "description": "",
-      "author": "n_e",
-      "tags": [],
-      "category": "web",
-      "score": 61,
-      "comments_count": 23,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:12:46.400386+00:00",
+      "fetched_at": "2026-02-18T07:55:22.094262+00:00",
       "language": "en"
     },
     {
@@ -1287,11 +1257,28 @@
         "discuss"
       ],
       "category": "career",
-      "score": 56,
+      "score": 62,
       "comments_count": 1,
       "reading_time_min": 2,
       "published_at": "2026-02-17T21:56:40Z",
-      "fetched_at": "2026-02-18T07:12:41.761042+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135908+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Vinyl Cache has left github",
+      "url": "https://vinyl-cache.org/organization/moving.html",
+      "source": "lobsters",
+      "description": "",
+      "author": "fanf",
+      "tags": [
+        "vcs"
+      ],
+      "category": "general",
+      "score": 55,
+      "comments_count": 11,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T07:55:24.249714+00:00",
       "language": "en"
     },
     {
@@ -1308,24 +1295,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:48.724422+00:00",
+      "fetched_at": "2026-02-18T07:55:18.695902+00:00",
       "language": "en"
     },
     {
-      "title": "Vinyl Cache has left github",
-      "url": "https://vinyl-cache.org/organization/moving.html",
-      "source": "lobsters",
+      "title": "'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia (2025)",
+      "url": "https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/",
+      "source": "hackernews",
       "description": "",
-      "author": "fanf",
-      "tags": [
-        "vcs"
-      ],
+      "author": "anarbadalov",
+      "tags": [],
       "category": "general",
-      "score": 54,
+      "score": 52,
       "comments_count": 11,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234649+00:00",
+      "fetched_at": "2026-02-18T07:55:15.100630+00:00",
       "language": "en"
     },
     {
@@ -1342,22 +1327,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:48.722339+00:00",
-      "language": "en"
-    },
-    {
-      "title": "'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia (2025)",
-      "url": "https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/",
-      "source": "hackernews",
-      "description": "",
-      "author": "anarbadalov",
-      "tags": [],
-      "category": "general",
-      "score": 46,
-      "comments_count": 11,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:12:44.877195+00:00",
+      "fetched_at": "2026-02-18T07:55:18.693274+00:00",
       "language": "en"
     },
     {
@@ -1374,7 +1344,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:48.723151+00:00",
+      "fetched_at": "2026-02-18T07:55:18.694278+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Terminals should generate the 256-color palette",
+      "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
+      "source": "hackernews",
+      "description": "",
+      "author": "tosh",
+      "tags": [],
+      "category": "general",
+      "score": 44,
+      "comments_count": 9,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T07:55:13.482793+00:00",
       "language": "en"
     },
     {
@@ -1385,11 +1370,31 @@
       "author": "Zaki101Aslam",
       "tags": [],
       "category": "general",
-      "score": 41,
-      "comments_count": 9,
+      "score": 43,
+      "comments_count": 10,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:45.410692+00:00",
+      "fetched_at": "2026-02-18T07:55:15.625320+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
+      "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
+      "source": "devto",
+      "description": "We are currently living through the greatest inflation of software in history.  With the AI tools we...",
+      "author": "the_nortern_dev",
+      "tags": [
+        "softwareengineering",
+        "career",
+        "productivity",
+        "discuss"
+      ],
+      "category": "career",
+      "score": 42,
+      "comments_count": 25,
+      "reading_time_min": 2,
+      "published_at": "2026-02-17T12:42:44Z",
+      "fetched_at": "2026-02-18T07:55:13.135894+00:00",
       "language": "en"
     },
     {
@@ -1406,7 +1411,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:50.882362+00:00",
+      "fetched_at": "2026-02-18T07:55:20.695560+00:00",
       "language": "en"
     },
     {
@@ -1424,27 +1429,7 @@
       "comments_count": 8,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234665+00:00",
-      "language": "en"
-    },
-    {
-      "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
-      "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
-      "source": "devto",
-      "description": "We are currently living through the greatest inflation of software in history.  With the AI tools we...",
-      "author": "the_nortern_dev",
-      "tags": [
-        "softwareengineering",
-        "career",
-        "productivity",
-        "discuss"
-      ],
-      "category": "career",
-      "score": 39,
-      "comments_count": 25,
-      "reading_time_min": 2,
-      "published_at": "2026-02-17T12:42:44Z",
-      "fetched_at": "2026-02-18T07:12:41.761031+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249737+00:00",
       "language": "en"
     },
     {
@@ -1457,11 +1442,11 @@
         "clojure"
       ],
       "category": "languages",
-      "score": 36,
+      "score": 37,
       "comments_count": 1,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234656+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249724+00:00",
       "language": "en"
     },
     {
@@ -1478,7 +1463,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:48.724916+00:00",
+      "fetched_at": "2026-02-18T07:55:18.696520+00:00",
       "language": "en"
     },
     {
@@ -1495,7 +1480,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:53.659631+00:00",
+      "fetched_at": "2026-02-18T07:55:23.306977+00:00",
       "language": "en"
     },
     {
@@ -1513,7 +1498,7 @@
       "comments_count": 3,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234689+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249779+00:00",
       "language": "en"
     },
     {
@@ -1531,7 +1516,7 @@
       "comments_count": 13,
       "reading_time_min": 2,
       "published_at": "2026-02-17T18:35:23Z",
-      "fetched_at": "2026-02-18T07:12:41.761037+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135903+00:00",
       "language": "en"
     },
     {
@@ -1548,7 +1533,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:49.847074+00:00",
+      "fetched_at": "2026-02-18T07:55:19.728540+00:00",
       "language": "en"
     },
     {
@@ -1565,7 +1550,24 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:53.658742+00:00",
+      "fetched_at": "2026-02-18T07:55:23.305852+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies",
+      "url": "https://oat.ink/",
+      "source": "lobsters",
+      "description": "",
+      "author": "sylq",
+      "tags": [
+        "web"
+      ],
+      "category": "frameworks",
+      "score": 29,
+      "comments_count": 2,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T07:55:24.249745+00:00",
       "language": "en"
     },
     {
@@ -1582,7 +1584,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:50.883181+00:00",
+      "fetched_at": "2026-02-18T07:55:20.696588+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The Economics of a Super Bowl Ad",
+      "url": "https://ro.co/perspectives/super-bowl-economics/",
+      "source": "hackernews",
+      "description": "",
+      "author": "nnmg",
+      "tags": [],
+      "category": "general",
+      "score": 27,
+      "comments_count": 24,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T07:55:14.260002+00:00",
       "language": "en"
     },
     {
@@ -1599,7 +1616,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:48.721940+00:00",
+      "fetched_at": "2026-02-18T07:55:18.692773+00:00",
       "language": "en"
     },
     {
@@ -1616,7 +1633,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:48.722721+00:00",
+      "fetched_at": "2026-02-18T07:55:18.693742+00:00",
       "language": "en"
     },
     {
@@ -1633,24 +1650,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:52.335205+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies",
-      "url": "https://oat.ink/",
-      "source": "lobsters",
-      "description": "",
-      "author": "sylq",
-      "tags": [
-        "web"
-      ],
-      "category": "frameworks",
-      "score": 27,
-      "comments_count": 2,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234674+00:00",
+      "fetched_at": "2026-02-18T07:55:22.096508+00:00",
       "language": "en"
     },
     {
@@ -1670,7 +1670,7 @@
       "comments_count": 14,
       "reading_time_min": 3,
       "published_at": "2026-02-17T13:16:09Z",
-      "fetched_at": "2026-02-18T07:12:41.761046+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135912+00:00",
       "language": "en"
     },
     {
@@ -1684,25 +1684,10 @@
       ],
       "category": "general",
       "score": 23,
-      "comments_count": 13,
+      "comments_count": 14,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234683+00:00",
-      "language": "en"
-    },
-    {
-      "title": "The Economics of a Super Bowl Ad",
-      "url": "https://ro.co/perspectives/super-bowl-economics/",
-      "source": "hackernews",
-      "description": "",
-      "author": "nnmg",
-      "tags": [],
-      "category": "general",
-      "score": 22,
-      "comments_count": 17,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:12:43.539709+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249763+00:00",
       "language": "en"
     },
     {
@@ -1719,7 +1704,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:52.334321+00:00",
+      "fetched_at": "2026-02-18T07:55:22.095379+00:00",
       "language": "en"
     },
     {
@@ -1736,7 +1721,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:48.723534+00:00",
+      "fetched_at": "2026-02-18T07:55:18.694762+00:00",
       "language": "en"
     },
     {
@@ -1753,7 +1738,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:52.338132+00:00",
+      "fetched_at": "2026-02-18T07:55:22.100237+00:00",
       "language": "en"
     },
     {
@@ -1770,7 +1755,7 @@
       "comments_count": 3,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234653+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249719+00:00",
       "language": "en"
     },
     {
@@ -1787,7 +1772,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:52.336871+00:00",
+      "fetched_at": "2026-02-18T07:55:22.098611+00:00",
       "language": "en"
     },
     {
@@ -1804,22 +1789,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:52.337633+00:00",
+      "fetched_at": "2026-02-18T07:55:22.099601+00:00",
       "language": "en"
     },
     {
-      "title": "Terminals should generate the 256-color palette",
-      "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
+      "title": "Show HN: Beautiful interactive explainers generated with Claude Code",
+      "url": "https://paraschopra.github.io/explainers/",
       "source": "hackernews",
       "description": "",
-      "author": "tosh",
+      "author": "paraschopra",
       "tags": [],
-      "category": "general",
-      "score": 18,
-      "comments_count": 2,
+      "category": "ai",
+      "score": 19,
+      "comments_count": 5,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:42.260582+00:00",
+      "fetched_at": "2026-02-18T07:55:14.572868+00:00",
       "language": "en"
     },
     {
@@ -1836,7 +1821,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:48.721502+00:00",
+      "fetched_at": "2026-02-18T07:55:18.692277+00:00",
       "language": "en"
     },
     {
@@ -1853,7 +1838,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:53.652594+00:00",
+      "fetched_at": "2026-02-18T07:55:23.298019+00:00",
+      "language": "en"
+    },
+    {
+      "title": "A DuckDB-based metabase alternative",
+      "url": "https://github.com/taleshape-com/shaper",
+      "source": "hackernews",
+      "description": "",
+      "author": "wowi42",
+      "tags": [],
+      "category": "general",
+      "score": 17,
+      "comments_count": 2,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T07:55:13.688498+00:00",
       "language": "en"
     },
     {
@@ -1870,7 +1870,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:52.336464+00:00",
+      "fetched_at": "2026-02-18T07:55:22.098124+00:00",
       "language": "en"
     },
     {
@@ -1887,7 +1887,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:53.654944+00:00",
+      "fetched_at": "2026-02-18T07:55:23.300965+00:00",
       "language": "en"
     },
     {
@@ -1905,7 +1905,7 @@
       "comments_count": 9,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234695+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249783+00:00",
       "language": "en"
     },
     {
@@ -1923,7 +1923,22 @@
       "comments_count": 1,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234701+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249795+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Quamina and Claude, Case 1",
+      "url": "https://www.tbray.org/ongoing/When/202x/2026/02/06/Q-Plus-C-Ch1",
+      "source": "hackernews",
+      "description": "",
+      "author": "zdw",
+      "tags": [],
+      "category": "ai",
+      "score": 16,
+      "comments_count": 2,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T07:55:16.038743+00:00",
       "language": "en"
     },
     {
@@ -1940,7 +1955,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:47.601080+00:00",
+      "fetched_at": "2026-02-18T07:55:17.653581+00:00",
       "language": "en"
     },
     {
@@ -1957,7 +1972,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:52.331599+00:00",
+      "fetched_at": "2026-02-18T07:55:22.091941+00:00",
       "language": "en"
     },
     {
@@ -1976,7 +1991,7 @@
       "comments_count": 8,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234686+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249771+00:00",
       "language": "en"
     },
     {
@@ -1996,7 +2011,7 @@
       "comments_count": 1,
       "reading_time_min": 3,
       "published_at": "2026-02-17T19:50:49Z",
-      "fetched_at": "2026-02-18T07:12:41.761076+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135949+00:00",
       "language": "en"
     },
     {
@@ -2013,7 +2028,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:49.844971+00:00",
+      "fetched_at": "2026-02-18T07:55:19.725907+00:00",
       "language": "en"
     },
     {
@@ -2028,10 +2043,10 @@
       ],
       "category": "frameworks",
       "score": 15,
-      "comments_count": 34,
+      "comments_count": 35,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234707+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249803+00:00",
       "language": "en"
     },
     {
@@ -2048,7 +2063,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:50.883576+00:00",
+      "fetched_at": "2026-02-18T07:55:20.697094+00:00",
       "language": "en"
     },
     {
@@ -2065,22 +2080,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:53.656597+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Quamina and Claude, Case 1",
-      "url": "https://www.tbray.org/ongoing/When/202x/2026/02/06/Q-Plus-C-Ch1",
-      "source": "hackernews",
-      "description": "",
-      "author": "zdw",
-      "tags": [],
-      "category": "ai",
-      "score": 13,
-      "comments_count": 2,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:12:45.147162+00:00",
+      "fetched_at": "2026-02-18T07:55:23.303093+00:00",
       "language": "en"
     },
     {
@@ -2097,7 +2097,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:53.660033+00:00",
+      "fetched_at": "2026-02-18T07:55:23.307458+00:00",
       "language": "en"
     },
     {
@@ -2117,7 +2117,7 @@
       "comments_count": 4,
       "reading_time_min": 6,
       "published_at": "2026-02-17T12:34:14Z",
-      "fetched_at": "2026-02-18T07:12:41.761063+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135930+00:00",
       "language": "en"
     },
     {
@@ -2134,7 +2134,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:52.333927+00:00",
+      "fetched_at": "2026-02-18T07:55:22.094898+00:00",
       "language": "en"
     },
     {
@@ -2151,7 +2151,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:49.845359+00:00",
+      "fetched_at": "2026-02-18T07:55:19.726405+00:00",
       "language": "en"
     },
     {
@@ -2170,7 +2170,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T08:03:45Z",
-      "fetched_at": "2026-02-18T07:12:41.761050+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135916+00:00",
       "language": "en"
     },
     {
@@ -2190,7 +2190,7 @@
       "comments_count": 2,
       "reading_time_min": 5,
       "published_at": "2026-02-17T16:53:46Z",
-      "fetched_at": "2026-02-18T07:12:41.761056+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135923+00:00",
       "language": "en"
     },
     {
@@ -2207,7 +2207,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:52.332137+00:00",
+      "fetched_at": "2026-02-18T07:55:22.092609+00:00",
       "language": "en"
     },
     {
@@ -2224,7 +2224,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:49.847458+00:00",
+      "fetched_at": "2026-02-18T07:55:19.729052+00:00",
       "language": "en"
     },
     {
@@ -2241,7 +2241,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:52.338548+00:00",
+      "fetched_at": "2026-02-18T07:55:22.100738+00:00",
       "language": "en"
     },
     {
@@ -2255,10 +2255,10 @@
       ],
       "category": "general",
       "score": 8,
-      "comments_count": 6,
+      "comments_count": 7,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234662+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249733+00:00",
       "language": "en"
     },
     {
@@ -2278,7 +2278,22 @@
       "comments_count": 6,
       "reading_time_min": 1,
       "published_at": "2026-02-17T20:10:47Z",
-      "fetched_at": "2026-02-18T07:12:41.761053+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135920+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Show HN: Breadboard – a modern HyperCard for building web apps on the canvas",
+      "url": "https://breadboards.io/",
+      "source": "hackernews",
+      "description": "",
+      "author": "simquat",
+      "tags": [],
+      "category": "general",
+      "score": 7,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T07:55:15.203591+00:00",
       "language": "en"
     },
     {
@@ -2295,7 +2310,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:52.337255+00:00",
+      "fetched_at": "2026-02-18T07:55:22.099117+00:00",
       "language": "en"
     },
     {
@@ -2312,7 +2327,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:53.654441+00:00",
+      "fetched_at": "2026-02-18T07:55:23.300324+00:00",
       "language": "en"
     },
     {
@@ -2331,7 +2346,7 @@
       "comments_count": 4,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234668+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249741+00:00",
       "language": "en"
     },
     {
@@ -2349,7 +2364,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234680+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249758+00:00",
       "language": "en"
     },
     {
@@ -2367,7 +2382,7 @@
       "comments_count": 8,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234704+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249799+00:00",
       "language": "en"
     },
     {
@@ -2387,7 +2402,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T18:49:10Z",
-      "fetched_at": "2026-02-18T07:12:41.761060+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135927+00:00",
       "language": "en"
     },
     {
@@ -2407,22 +2422,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-18T05:44:37Z",
-      "fetched_at": "2026-02-18T07:12:41.761066+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Show HN: Beautiful interactive explainers generated with Claude Code",
-      "url": "https://paraschopra.github.io/explainers/",
-      "source": "hackernews",
-      "description": "",
-      "author": "paraschopra",
-      "tags": [],
-      "category": "ai",
-      "score": 6,
-      "comments_count": 1,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:12:45.011440+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135933+00:00",
       "language": "en"
     },
     {
@@ -2439,7 +2439,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:49.845757+00:00",
+      "fetched_at": "2026-02-18T07:55:19.726926+00:00",
       "language": "en"
     },
     {
@@ -2456,7 +2456,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:49.846666+00:00",
+      "fetched_at": "2026-02-18T07:55:19.728054+00:00",
       "language": "en"
     },
     {
@@ -2473,7 +2473,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:52.335590+00:00",
+      "fetched_at": "2026-02-18T07:55:22.097009+00:00",
       "language": "en"
     },
     {
@@ -2490,7 +2490,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:53.655335+00:00",
+      "fetched_at": "2026-02-18T07:55:23.301452+00:00",
       "language": "en"
     },
     {
@@ -2507,7 +2507,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:53.657476+00:00",
+      "fetched_at": "2026-02-18T07:55:23.304226+00:00",
       "language": "en"
     },
     {
@@ -2524,7 +2524,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:53.657878+00:00",
+      "fetched_at": "2026-02-18T07:55:23.304709+00:00",
       "language": "en"
     },
     {
@@ -2539,7 +2539,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:44.567118+00:00",
+      "fetched_at": "2026-02-18T07:55:15.727204+00:00",
       "language": "en"
     },
     {
@@ -2556,7 +2556,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:52.334704+00:00",
+      "fetched_at": "2026-02-18T07:55:22.095883+00:00",
       "language": "en"
     },
     {
@@ -2573,7 +2573,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:53.653946+00:00",
+      "fetched_at": "2026-02-18T07:55:23.299685+00:00",
       "language": "en"
     },
     {
@@ -2590,22 +2590,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:53.656995+00:00",
+      "fetched_at": "2026-02-18T07:55:23.303584+00:00",
       "language": "en"
     },
     {
-      "title": "A DuckDB-based metabase alternative",
-      "url": "https://github.com/taleshape-com/shaper",
+      "title": "TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)",
+      "url": "https://github.com/DatanoiseTV/tinyice",
       "source": "hackernews",
       "description": "",
-      "author": "wowi42",
+      "author": "sylwester",
       "tags": [],
       "category": "general",
       "score": 4,
-      "comments_count": 0,
+      "comments_count": 1,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:43.384644+00:00",
+      "fetched_at": "2026-02-18T07:55:15.518985+00:00",
       "language": "en"
     },
     {
@@ -2622,22 +2622,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:53.653535+00:00",
+      "fetched_at": "2026-02-18T07:55:23.299196+00:00",
       "language": "en"
     },
     {
-      "title": "Show HN: Breadboard – a modern HyperCard for building web apps on the canvas",
-      "url": "https://breadboards.io/",
+      "title": "Semantic Diffusion (2006)",
+      "url": "https://martinfowler.com/bliki/SemanticDiffusion.html",
       "source": "hackernews",
       "description": "",
-      "author": "simquat",
+      "author": "andsoitis",
       "tags": [],
       "category": "general",
       "score": 3,
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:45.567466+00:00",
+      "fetched_at": "2026-02-18T07:55:15.310448+00:00",
       "language": "en"
     },
     {
@@ -2654,7 +2654,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:49.847845+00:00",
+      "fetched_at": "2026-02-18T07:55:19.729521+00:00",
       "language": "en"
     },
     {
@@ -2671,7 +2671,25 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:53.658363+00:00",
+      "fetched_at": "2026-02-18T07:55:23.305352+00:00",
+      "language": "en"
+    },
+    {
+      "title": "claimcheck: Narrowing the Gap between Proof and Intent",
+      "url": "https://midspiral.com/blog/claimcheck-narrowing-the-gap-between-proof-and-intent/",
+      "source": "lobsters",
+      "description": "",
+      "author": "heyyfernanda",
+      "tags": [
+        "ai",
+        "formalmethods"
+      ],
+      "category": "general",
+      "score": 3,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T07:55:24.249791+00:00",
       "language": "en"
     },
     {
@@ -2686,10 +2704,10 @@
       ],
       "category": "general",
       "score": 3,
-      "comments_count": 4,
+      "comments_count": 6,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234715+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249810+00:00",
       "language": "en"
     },
     {
@@ -2709,7 +2727,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-18T05:12:13Z",
-      "fetched_at": "2026-02-18T07:12:41.761114+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135986+00:00",
       "language": "en"
     },
     {
@@ -2726,7 +2744,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:49.846271+00:00",
+      "fetched_at": "2026-02-18T07:55:19.727552+00:00",
       "language": "en"
     },
     {
@@ -2743,7 +2761,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:53.653037+00:00",
+      "fetched_at": "2026-02-18T07:55:23.298550+00:00",
       "language": "en"
     },
     {
@@ -2760,7 +2778,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:53.656217+00:00",
+      "fetched_at": "2026-02-18T07:55:23.302594+00:00",
       "language": "en"
     },
     {
@@ -2777,25 +2795,7 @@
       "comments_count": 1,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234698+00:00",
-      "language": "en"
-    },
-    {
-      "title": "claimcheck: Narrowing the Gap between Proof and Intent",
-      "url": "https://midspiral.com/blog/claimcheck-narrowing-the-gap-between-proof-and-intent/",
-      "source": "lobsters",
-      "description": "",
-      "author": "heyyfernanda",
-      "tags": [
-        "ai",
-        "formalmethods"
-      ],
-      "category": "general",
-      "score": 2,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T07:12:55.234709+00:00",
+      "fetched_at": "2026-02-18T07:55:24.249787+00:00",
       "language": "en"
     },
     {
@@ -2815,7 +2815,7 @@
       "comments_count": 2,
       "reading_time_min": 6,
       "published_at": "2026-02-17T13:30:04Z",
-      "fetched_at": "2026-02-18T07:12:41.761079+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135952+00:00",
       "language": "en"
     },
     {
@@ -2835,7 +2835,27 @@
       "comments_count": 0,
       "reading_time_min": 4,
       "published_at": "2026-02-17T16:40:58Z",
-      "fetched_at": "2026-02-18T07:12:41.761098+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135969+00:00",
+      "language": "en"
+    },
+    {
+      "title": "How I Tricked AWS Elastic Beanstalk Into Using pnpm",
+      "url": "https://dev.to/tirtht/how-i-tricked-aws-elastic-beanstalk-into-using-pnpm-ef4",
+      "source": "devto",
+      "description": "You've migrated your Node.js project to pnpm. Locally, everything works well — faster installs,...",
+      "author": "tirtht",
+      "tags": [
+        "beginners",
+        "devops",
+        "aws",
+        "npm"
+      ],
+      "category": "devops",
+      "score": 1,
+      "comments_count": 0,
+      "reading_time_min": 7,
+      "published_at": "2026-02-18T06:43:47Z",
+      "fetched_at": "2026-02-18T07:55:13.135979+00:00",
       "language": "en"
     },
     {
@@ -2852,7 +2872,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T07:12:53.659144+00:00",
+      "fetched_at": "2026-02-18T07:55:23.306343+00:00",
       "language": "en"
     },
     {
@@ -2872,7 +2892,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T23:47:30Z",
-      "fetched_at": "2026-02-18T07:12:41.761070+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135941+00:00",
       "language": "en"
     },
     {
@@ -2892,7 +2912,7 @@
       "comments_count": 0,
       "reading_time_min": 4,
       "published_at": "2026-02-17T09:19:58Z",
-      "fetched_at": "2026-02-18T07:12:41.761073+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135945+00:00",
       "language": "en"
     },
     {
@@ -2912,7 +2932,7 @@
       "comments_count": 0,
       "reading_time_min": 4,
       "published_at": "2026-02-18T03:09:21Z",
-      "fetched_at": "2026-02-18T07:12:41.761082+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135955+00:00",
       "language": "en"
     },
     {
@@ -2927,27 +2947,7 @@
       "comments_count": 0,
       "reading_time_min": 1,
       "published_at": "2026-02-17T16:09:52Z",
-      "fetched_at": "2026-02-18T07:12:41.761086+00:00",
-      "language": "en"
-    },
-    {
-      "title": "How to Audit and Clean Up Overflowing Learned Skills in Claude Code",
-      "url": "https://dev.to/shimo4228/how-to-audit-and-clean-up-overflowing-learned-skills-in-claude-code-38e1",
-      "source": "devto",
-      "description": "The Problem   When you use Claude Code's /learn command or the continuous-learning skill,...",
-      "author": "shimo4228",
-      "tags": [
-        "claudecode",
-        "ai",
-        "devenv",
-        "productivity"
-      ],
-      "category": "ai",
-      "score": 0,
-      "comments_count": 0,
-      "reading_time_min": 2,
-      "published_at": "2026-02-17T23:48:15Z",
-      "fetched_at": "2026-02-18T07:12:41.761089+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135959+00:00",
       "language": "en"
     },
     {
@@ -2967,7 +2967,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T23:47:02Z",
-      "fetched_at": "2026-02-18T07:12:41.761092+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135962+00:00",
       "language": "en"
     },
     {
@@ -2987,7 +2987,27 @@
       "comments_count": 0,
       "reading_time_min": 5,
       "published_at": "2026-02-17T14:20:30Z",
-      "fetched_at": "2026-02-18T07:12:41.761095+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135966+00:00",
+      "language": "en"
+    },
+    {
+      "title": "How to Audit and Clean Up Overflowing Learned Skills in Claude Code",
+      "url": "https://dev.to/shimo4228/how-to-audit-and-clean-up-overflowing-learned-skills-in-claude-code-38e1",
+      "source": "devto",
+      "description": "The Problem   When you use Claude Code's /learn command or the continuous-learning skill,...",
+      "author": "shimo4228",
+      "tags": [
+        "claudecode",
+        "ai",
+        "devenv",
+        "productivity"
+      ],
+      "category": "ai",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 2,
+      "published_at": "2026-02-17T23:48:15Z",
+      "fetched_at": "2026-02-18T07:55:13.135972+00:00",
       "language": "en"
     },
     {
@@ -3001,10 +3021,10 @@
       ],
       "category": "general",
       "score": 0,
-      "comments_count": 0,
+      "comments_count": 1,
       "reading_time_min": 1,
       "published_at": "2026-02-18T05:00:00Z",
-      "fetched_at": "2026-02-18T07:12:41.761101+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135975+00:00",
       "language": "en"
     },
     {
@@ -3024,7 +3044,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-18T02:06:03Z",
-      "fetched_at": "2026-02-18T07:12:41.761104+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135982+00:00",
       "language": "en"
     },
     {
@@ -3044,7 +3064,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T12:40:18Z",
-      "fetched_at": "2026-02-18T07:12:41.761108+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135989+00:00",
       "language": "en"
     },
     {
@@ -3064,47 +3084,7 @@
       "comments_count": 0,
       "reading_time_min": 2,
       "published_at": "2026-02-18T02:35:46Z",
-      "fetched_at": "2026-02-18T07:12:41.761111+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Using Multiple LLMs with Claude Code — When to Reach for Gemini, ChatGPT, or NotebookLM",
-      "url": "https://dev.to/shimo4228/using-multiple-llms-with-claude-code-when-to-reach-for-gemini-chatgpt-or-notebooklm-2mnm",
-      "source": "devto",
-      "description": "Sometimes One LLM Isn't Enough   The first time I encountered the term ADR (Architecture...",
-      "author": "shimo4228",
-      "tags": [
-        "claudecode",
-        "ai",
-        "gemini",
-        "chatgpt"
-      ],
-      "category": "ai",
-      "score": 0,
-      "comments_count": 0,
-      "reading_time_min": 3,
-      "published_at": "2026-02-17T23:48:51Z",
-      "fetched_at": "2026-02-18T07:12:41.761117+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Using a Japanese Text Analysis MCP Server with Claude Code -- kuromoji.js",
-      "url": "https://dev.to/shimo4228/using-a-japanese-text-analysis-mcp-server-with-claude-code-kuromojijs-g92",
-      "source": "devto",
-      "description": "The Problem   I asked Claude Code \"how many characters is this article?\" and got back \"about...",
-      "author": "shimo4228",
-      "tags": [
-        "claudecode",
-        "mcp",
-        "nlp",
-        "japanese"
-      ],
-      "category": "ai",
-      "score": 0,
-      "comments_count": 0,
-      "reading_time_min": 3,
-      "published_at": "2026-02-17T23:47:38Z",
-      "fetched_at": "2026-02-18T07:12:41.761120+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135993+00:00",
       "language": "en"
     },
     {
@@ -3124,7 +3104,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T23:49:27Z",
-      "fetched_at": "2026-02-18T07:12:41.761124+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135996+00:00",
       "language": "en"
     },
     {
@@ -3144,7 +3124,27 @@
       "comments_count": 0,
       "reading_time_min": 6,
       "published_at": "2026-02-18T03:09:12Z",
-      "fetched_at": "2026-02-18T07:12:41.761130+00:00",
+      "fetched_at": "2026-02-18T07:55:13.135999+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Using a Japanese Text Analysis MCP Server with Claude Code -- kuromoji.js",
+      "url": "https://dev.to/shimo4228/using-a-japanese-text-analysis-mcp-server-with-claude-code-kuromojijs-g92",
+      "source": "devto",
+      "description": "The Problem   I asked Claude Code \"how many characters is this article?\" and got back \"about...",
+      "author": "shimo4228",
+      "tags": [
+        "claudecode",
+        "mcp",
+        "nlp",
+        "japanese"
+      ],
+      "category": "ai",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 3,
+      "published_at": "2026-02-17T23:47:38Z",
+      "fetched_at": "2026-02-18T07:55:13.136003+00:00",
       "language": "en"
     }
   ]
