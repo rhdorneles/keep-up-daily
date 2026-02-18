@@ -1,14 +1,14 @@
 {
   "date": "2026-02-18",
-  "generated_at": "2026-02-18T08:14:47.682716+00:00",
+  "generated_at": "2026-02-18T08:45:33.191220+00:00",
   "digest": [
     {
-      "title_en": "Exploring Alibaba's ZVec: A Lightweight Vector Database",
-      "title_pt": "Explorando o ZVec da Alibaba: Um Banco de Dados Vetorial Leve",
-      "body_en": "In the realm of **AI** and data management, Alibaba's `zvec` stands out as a **lightweight**, **lightning-fast** in-process vector database. This tool is designed to handle high-dimensional data efficiently, making it ideal for machine learning applications that require fast retrieval of vector representations. Unlike traditional databases, `zvec` operates in-memory, which significantly boosts performance for tasks like similarity searches and clustering. The trade-off, however, is its reliance on available RAM, which can limit scalability for extremely large datasets. When should you consider using `zvec`? If your application demands real-time processing of vector data, such as recommendation systems or natural language processing, this tool could be a game-changer. In summary, `zvec` offers a compelling solution for developers looking to optimize AI workloads with speed and efficiency.",
-      "body_pt": "No reino da **IA** e gerenciamento de dados, o `zvec` da Alibaba se destaca como um banco de dados vetorial **leve** e **extremamente rápido**. Esta ferramenta é projetada para lidar com dados de alta dimensão de forma eficiente, tornando-a ideal para aplicações de aprendizado de máquina que exigem recuperação rápida de representações vetoriais. Ao contrário dos bancos de dados tradicionais, o `zvec` opera na memória, o que aumenta significativamente o desempenho para tarefas como buscas por similaridade e agrupamento. No entanto, a desvantagem é a dependência da RAM disponível, que pode limitar a escalabilidade para conjuntos de dados extremamente grandes. Quando você deve considerar usar o `zvec`? Se sua aplicação exige processamento em tempo real de dados vetoriais, como sistemas de recomendação ou processamento de linguagem natural, essa ferramenta pode ser um divisor de águas. Em resumo, o `zvec` oferece uma solução atraente para desenvolvedores que buscam otimizar cargas de trabalho de IA com velocidade e eficiência.",
-      "category": "ai",
-      "emoji": "🤖",
+      "title_en": "Optimizing AI with Lightweight Vector Databases",
+      "title_pt": "Otimizando IA com Bancos de Dados Vetoriais Leves",
+      "body_en": "In the realm of **AI**, the use of lightweight vector databases like `alibaba/zvec` can significantly enhance performance. These databases are designed for speed and efficiency, making them ideal for applications requiring rapid data retrieval. The trade-off often lies in the balance between speed and the complexity of implementation. For developers, integrating such a database can streamline workflows and improve response times in AI-driven applications. The practical angle is that by leveraging these tools, teams can focus on building more robust AI models without being bogged down by data management issues. **Takeaway**: Embrace lightweight vector databases to boost your AI applications' performance.",
+      "body_pt": "No âmbito da **IA**, o uso de bancos de dados vetoriais leves como `alibaba/zvec` pode melhorar significativamente o desempenho. Esses bancos de dados são projetados para velocidade e eficiência, tornando-os ideais para aplicações que exigem recuperação rápida de dados. O trade-off muitas vezes reside no equilíbrio entre velocidade e a complexidade da implementação. Para os desenvolvedores, integrar um banco de dados desse tipo pode agilizar fluxos de trabalho e melhorar os tempos de resposta em aplicações orientadas por IA. O ângulo prático é que, ao aproveitar essas ferramentas, as equipes podem se concentrar em construir modelos de IA mais robustos sem serem sobrecarregadas por questões de gerenciamento de dados. **Conclusão**: Adote bancos de dados vetoriais leves para aumentar o desempenho de suas aplicações de IA.",
+      "category": "ai|general|devops|frameworks",
+      "emoji": "📌",
       "sources": [
         {
           "title": "alibaba/zvec",
@@ -18,12 +18,12 @@
       ]
     },
     {
-      "title_en": "Building Your Career with System Design Resources",
-      "title_pt": "Construindo Sua Carreira com Recursos de Design de Sistemas",
-      "body_en": "As software systems grow in complexity, understanding **system design** becomes crucial for developers aiming to advance their careers. A curated list of resources, such as `awesome-system-design-resources`, offers free materials for mastering the concepts needed for interviews and real-world applications. This repository includes links to books, online courses, and practical examples that cover various design patterns and architectural styles. The trade-off here is the vast amount of information available; without a structured approach, it can be overwhelming. When should you dive into these resources? If you’re preparing for technical interviews or looking to enhance your design skills for larger projects, these materials will prove invaluable. Ultimately, investing time in system design knowledge can significantly boost your employability and effectiveness as a software engineer.",
-      "body_pt": "À medida que os sistemas de software crescem em complexidade, entender o **design de sistemas** se torna crucial para desenvolvedores que desejam avançar em suas carreiras. Uma lista curada de recursos, como `awesome-system-design-resources`, oferece materiais gratuitos para dominar os conceitos necessários para entrevistas e aplicações do mundo real. Este repositório inclui links para livros, cursos online e exemplos práticos que cobrem vários padrões de design e estilos arquitetônicos. A desvantagem aqui é a vasta quantidade de informações disponíveis; sem uma abordagem estruturada, pode ser esmagador. Quando você deve mergulhar nesses recursos? Se você está se preparando para entrevistas técnicas ou procurando aprimorar suas habilidades de design para projetos maiores, esses materiais serão inestimáveis. Em última análise, investir tempo no conhecimento de design de sistemas pode aumentar significativamente sua empregabilidade e eficácia como engenheiro de software.",
-      "category": "career",
-      "emoji": "🚀",
+      "title_en": "Navigating System Design for Career Growth",
+      "title_pt": "Navegando pelo Design de Sistemas para Crescimento Profissional",
+      "body_en": "Understanding **System Design** is crucial for developers aiming to advance their careers. Resources like `ashishps1/awesome-system-design-resources` offer a wealth of knowledge for mastering these concepts. The trade-off often involves the time invested in learning versus immediate job demands. However, equipping oneself with these skills can lead to better job prospects and higher salaries. Practically, engaging with these resources can prepare you for technical interviews and real-world challenges. **Takeaway**: Invest time in system design knowledge to enhance your career trajectory.",
+      "body_pt": "Compreender o **Design de Sistemas** é crucial para desenvolvedores que desejam avançar em suas carreiras. Recursos como `ashishps1/awesome-system-design-resources` oferecem uma riqueza de conhecimento para dominar esses conceitos. O trade-off muitas vezes envolve o tempo investido no aprendizado versus as demandas imediatas do trabalho. No entanto, equipar-se com essas habilidades pode levar a melhores perspectivas de emprego e salários mais altos. Praticamente, engajar-se com esses recursos pode prepará-lo para entrevistas técnicas e desafios do mundo real. **Conclusão**: Invista tempo no conhecimento de design de sistemas para aprimorar sua trajetória profissional.",
+      "category": "career|ai|devops|general",
+      "emoji": "📌",
       "sources": [
         {
           "title": "ashishps1/awesome-system-design-resources",
@@ -33,12 +33,12 @@
       ]
     },
     {
-      "title_en": "Automating Code Generation and Maintenance in DevOps",
-      "title_pt": "Automatizando Geração e Manutenção de Código em DevOps",
-      "body_en": "In the world of **DevOps**, automating repetitive tasks can lead to substantial productivity gains. A recent discussion from a Google team highlights their approach to automating sample code generation and maintenance, which involves leveraging AI tools to streamline workflows. By integrating AI into their CI/CD pipelines, they can reduce manual coding efforts and minimize errors. However, this approach requires careful planning to ensure that the AI-generated code meets quality standards. When should you implement such automation? If your team is bogged down by repetitive coding tasks or struggling with code consistency, AI-driven automation could be the solution you need. The takeaway here is clear: embracing automation in your development processes can significantly enhance efficiency and allow your team to focus on more strategic tasks.",
-      "body_pt": "No mundo do **DevOps**, automatizar tarefas repetitivas pode levar a ganhos substanciais de produtividade. Uma discussão recente de uma equipe do Google destaca sua abordagem para automatizar a geração e manutenção de código de exemplo, que envolve aproveitar ferramentas de IA para agilizar fluxos de trabalho. Ao integrar IA em seus pipelines de CI/CD, eles podem reduzir os esforços manuais de codificação e minimizar erros. No entanto, essa abordagem requer planejamento cuidadoso para garantir que o código gerado pela IA atenda aos padrões de qualidade. Quando você deve implementar essa automação? Se sua equipe está sobrecarregada com tarefas de codificação repetitivas ou lutando com a consistência do código, a automação impulsionada por IA pode ser a solução de que você precisa. A conclusão aqui é clara: abraçar a automação em seus processos de desenvolvimento pode aumentar significativamente a eficiência e permitir que sua equipe se concentre em tarefas mais estratégicas.",
-      "category": "devops",
-      "emoji": "☁️",
+      "title_en": "Automating Code Generation in DevOps",
+      "title_pt": "Automatizando a Geração de Código em DevOps",
+      "body_en": "Automation is a game-changer in **DevOps**, especially when it comes to code generation. A recent approach by a team at Google focuses on automating sample code generation and maintenance. This method not only saves time but also reduces human error, though it requires an initial investment in setup and training. For teams, adopting such automation can lead to increased productivity and consistency in code quality. **Takeaway**: Embrace automation in your DevOps practices to enhance efficiency and reduce errors.",
+      "body_pt": "A automação é um divisor de águas em **DevOps**, especialmente quando se trata de geração de código. Uma abordagem recente de uma equipe do Google foca na automação da geração e manutenção de código de exemplo. Esse método não apenas economiza tempo, mas também reduz erros humanos, embora exija um investimento inicial em configuração e treinamento. Para as equipes, adotar tal automação pode levar a um aumento na produtividade e consistência na qualidade do código. **Conclusão**: Abrace a automação em suas práticas de DevOps para aumentar a eficiência e reduzir erros.",
+      "category": "devops|ai|general|career",
+      "emoji": "📌",
       "sources": [
         {
           "title": "How My Team Aligns on Prompting for Production",
@@ -48,12 +48,12 @@
       ]
     },
     {
-      "title_en": "Securing Applications with PentestAgent Framework",
-      "title_pt": "Segurando Aplicações com o Framework PentestAgent",
-      "body_en": "As security threats continue to evolve, developers must stay ahead with robust testing frameworks. The `PentestAgent` is an AI-driven framework designed for black-box security testing, supporting bug bounty programs, red-team exercises, and penetration testing. It automates the identification of vulnerabilities in applications, providing a comprehensive approach to security assessments. One of the key benefits of using `PentestAgent` is its ability to simulate real-world attack scenarios, allowing teams to proactively address potential weaknesses. However, reliance on automated tools should not replace manual testing entirely. When should you consider using this framework? If your organization is serious about security and regularly conducts penetration tests, incorporating `PentestAgent` can enhance your security posture. In summary, leveraging AI in security testing can provide deeper insights and improve overall application security.",
-      "body_pt": "À medida que as ameaças de segurança continuam a evoluir, os desenvolvedores devem se manter à frente com frameworks de teste robustos. O `PentestAgent` é um framework impulsionado por IA projetado para testes de segurança de caixa-preta, suportando programas de recompensa por bugs, exercícios de equipe vermelha e testes de penetração. Ele automatiza a identificação de vulnerabilidades em aplicações, fornecendo uma abordagem abrangente para avaliações de segurança. Um dos principais benefícios de usar o `PentestAgent` é sua capacidade de simular cenários de ataque do mundo real, permitindo que as equipes abordem proativamente as fraquezas potenciais. No entanto, a dependência de ferramentas automatizadas não deve substituir completamente os testes manuais. Quando você deve considerar usar este framework? Se sua organização leva a segurança a sério e realiza testes de penetração regularmente, incorporar o `PentestAgent` pode melhorar sua postura de segurança. Em resumo, aproveitar a IA em testes de segurança pode fornecer insights mais profundos e melhorar a segurança geral da aplicação.",
-      "category": "security",
-      "emoji": "🔒",
+      "title_en": "Enhancing Security with AI Frameworks",
+      "title_pt": "Aprimorando a Segurança com Frameworks de IA",
+      "body_en": "The integration of **AI** in security frameworks like `GH05TCREW/pentestagent` is revolutionizing how we approach black-box testing. This framework leverages AI to automate testing processes, which can enhance accuracy and speed. However, the complexity of AI models can introduce challenges in terms of maintenance and updates. For security teams, utilizing such frameworks can significantly improve the efficiency of penetration testing. **Takeaway**: Explore AI-driven security frameworks to enhance your testing capabilities.",
+      "body_pt": "A integração da **IA** em frameworks de segurança como `GH05TCREW/pentestagent` está revolucionando a forma como abordamos os testes de caixa-preta. Este framework aproveita a IA para automatizar processos de teste, o que pode melhorar a precisão e a velocidade. No entanto, a complexidade dos modelos de IA pode introduzir desafios em termos de manutenção e atualizações. Para as equipes de segurança, utilizar tais frameworks pode melhorar significativamente a eficiência dos testes de penetração. **Conclusão**: Explore frameworks de segurança impulsionados por IA para aprimorar suas capacidades de teste.",
+      "category": "security|ai|devops|general",
+      "emoji": "📌",
       "sources": [
         {
           "title": "GH05TCREW/pentestagent",
@@ -63,53 +63,28 @@
       ]
     },
     {
-      "title_en": "Creating a Personal AI Assistant with OpenClaw",
-      "title_pt": "Criando um Assistente Pessoal de IA com OpenClaw",
-      "body_en": "The rise of personal AI assistants has transformed how we interact with technology. `OpenClaw` is an open-source project that allows developers to create their own personal AI assistants that can run on any operating system and platform. Built with **TypeScript**, it offers a flexible architecture that can be customized to fit specific user needs. One of the standout features of `OpenClaw` is its ability to integrate with various APIs, enabling it to perform tasks ranging from scheduling to information retrieval. However, developers should be aware of the challenges in maintaining such a system, including ensuring data privacy and managing user interactions. If you're looking to build a personalized AI experience, `OpenClaw` provides a solid foundation. The key takeaway is that creating a tailored AI assistant can enhance productivity and streamline daily tasks.",
-      "body_pt": "A ascensão dos assistentes pessoais de IA transformou a maneira como interagimos com a tecnologia. O `OpenClaw` é um projeto de código aberto que permite aos desenvolvedores criar seus próprios assistentes pessoais de IA que podem ser executados em qualquer sistema operacional e plataforma. Construído com **TypeScript**, oferece uma arquitetura flexível que pode ser personalizada para atender a necessidades específicas dos usuários. Uma das características mais notáveis do `OpenClaw` é sua capacidade de se integrar a várias APIs, permitindo que realize tarefas que vão desde agendamentos até recuperação de informações. No entanto, os desenvolvedores devem estar cientes dos desafios de manter tal sistema, incluindo garantir a privacidade dos dados e gerenciar interações com os usuários. Se você está procurando construir uma experiência de IA personalizada, o `OpenClaw` fornece uma base sólida. A principal conclusão é que criar um assistente de IA sob medida pode aumentar a produtividade e simplificar tarefas diárias.",
-      "category": "web",
-      "emoji": "🌐",
+      "title_en": "Building Web Applications with TypeScript",
+      "title_pt": "Construindo Aplicações Web com TypeScript",
+      "body_en": "TypeScript is becoming a preferred choice for **web** development, especially with frameworks like `openclaw/openclaw` and `seerr-team/seerr`. These tools enhance developer productivity by providing strong typing and improved tooling. The trade-off involves a steeper learning curve compared to JavaScript, but the benefits in maintainability and scalability are significant. For developers, adopting TypeScript can lead to fewer runtime errors and a more robust codebase. **Takeaway**: Consider TypeScript for your next web project to improve code quality.",
+      "body_pt": "TypeScript está se tornando uma escolha preferida para o desenvolvimento **web**, especialmente com frameworks como `openclaw/openclaw` e `seerr-team/seerr`. Essas ferramentas aumentam a produtividade do desenvolvedor, oferecendo tipagem forte e melhores ferramentas. O trade-off envolve uma curva de aprendizado mais acentuada em comparação ao JavaScript, mas os benefícios em termos de manutenibilidade e escalabilidade são significativos. Para os desenvolvedores, adotar TypeScript pode levar a menos erros em tempo de execução e uma base de código mais robusta. **Conclusão**: Considere TypeScript para seu próximo projeto web para melhorar a qualidade do código.",
+      "category": "web|languages|frameworks|general",
+      "emoji": "📌",
       "sources": [
         {
           "title": "openclaw/openclaw",
           "url": "https://github.com/openclaw/openclaw",
           "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "Enhancing Human Capabilities with Fabric Framework",
-      "title_pt": "Aprimorando as Capacidades Humanas com o Framework Fabric",
-      "body_en": "As AI technologies advance, frameworks like `Fabric` are emerging to augment human capabilities in software development. This open-source framework provides a modular system that allows developers to integrate AI functionalities into their applications seamlessly. By leveraging AI, `Fabric` helps automate mundane tasks, enabling developers to focus on more complex problem-solving. The trade-off, however, is the learning curve associated with understanding how to effectively implement AI features. When should you consider using `Fabric`? If your projects require intelligent automation or enhanced user interaction, this framework could be a valuable asset. In conclusion, `Fabric` represents a significant step towards merging AI with traditional software development, paving the way for more innovative applications.",
-      "body_pt": "À medida que as tecnologias de IA avançam, frameworks como o `Fabric` estão surgindo para aumentar as capacidades humanas no desenvolvimento de software. Este framework de código aberto fornece um sistema modular que permite aos desenvolvedores integrar funcionalidades de IA em suas aplicações de forma contínua. Ao aproveitar a IA, o `Fabric` ajuda a automatizar tarefas mundanas, permitindo que os desenvolvedores se concentrem em resolver problemas mais complexos. A desvantagem, no entanto, é a curva de aprendizado associada à compreensão de como implementar efetivamente as funcionalidades de IA. Quando você deve considerar usar o `Fabric`? Se seus projetos exigem automação inteligente ou interação aprimorada com o usuário, este framework pode ser um ativo valioso. Em conclusão, o `Fabric` representa um passo significativo em direção à fusão da IA com o desenvolvimento de software tradicional, abrindo caminho para aplicações mais inovadoras.",
-      "category": "frameworks",
-      "emoji": "🧩",
-      "sources": [
+        },
         {
-          "title": "danielmiessler/Fabric",
-          "url": "https://github.com/danielmiessler/Fabric",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "Understanding Microservices with Google Cloud's Sample App",
-      "title_pt": "Entendendo Microserviços com o App de Exemplo do Google Cloud",
-      "body_en": "Microservices architecture has become a popular approach to building scalable applications. The `microservices-demo` from Google Cloud showcases a cloud-first application composed of 10 microservices, demonstrating the power of **Kubernetes**, **Istio**, and **gRPC**. Each microservice operates independently, allowing for easier updates and scaling. However, managing multiple services can introduce complexity, particularly in terms of inter-service communication and data consistency. When should you explore microservices? If your application is expected to grow and requires flexibility, adopting a microservices architecture can be beneficial. The takeaway is that understanding microservices through practical examples like Google's demo can provide valuable insights into building modern applications.",
-      "body_pt": "A arquitetura de microserviços se tornou uma abordagem popular para construir aplicações escaláveis. O `microservices-demo` do Google Cloud apresenta uma aplicação orientada para a nuvem composta por 10 microserviços, demonstrando o poder do **Kubernetes**, **Istio** e **gRPC**. Cada microserviço opera de forma independente, permitindo atualizações e escalonamentos mais fáceis. No entanto, gerenciar vários serviços pode introduzir complexidade, particularmente em termos de comunicação entre serviços e consistência de dados. Quando você deve explorar microserviços? Se sua aplicação deve crescer e exigir flexibilidade, adotar uma arquitetura de microserviços pode ser benéfico. A conclusão é que entender microserviços por meio de exemplos práticos como a demonstração do Google pode fornecer insights valiosos sobre a construção de aplicações modernas.",
-      "category": "devops",
-      "emoji": "☁️",
-      "sources": [
-        {
-          "title": "GoogleCloudPlatform/microservices-demo",
-          "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+          "title": "seerr-team/seerr",
+          "url": "https://github.com/seerr-team/seerr",
           "source": "github_trending"
         }
       ]
     }
   ],
-  "digest_count": 7,
-  "raw_article_count": 154,
+  "digest_count": 5,
+  "raw_article_count": 153,
   "sources": [
     "devto",
     "github_trending",
@@ -131,7 +106,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:04.789495+00:00",
+      "fetched_at": "2026-02-18T08:45:05.993808+00:00",
       "language": "en"
     },
     {
@@ -148,7 +123,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:04.788986+00:00",
+      "fetched_at": "2026-02-18T08:45:05.993358+00:00",
       "language": "en"
     },
     {
@@ -159,11 +134,11 @@
       "author": "adocomplete",
       "tags": [],
       "category": "ai",
-      "score": 1056,
-      "comments_count": 927,
+      "score": 1068,
+      "comments_count": 937,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:13:59.323024+00:00",
+      "fetched_at": "2026-02-18T08:44:58.345614+00:00",
       "language": "en"
     },
     {
@@ -174,11 +149,11 @@
       "author": "chaseadam17",
       "tags": [],
       "category": "general",
-      "score": 736,
-      "comments_count": 76,
+      "score": 751,
+      "comments_count": 77,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:13:59.632516+00:00",
+      "fetched_at": "2026-02-18T08:44:58.509513+00:00",
       "language": "en"
     },
     {
@@ -195,7 +170,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:04.787117+00:00",
+      "fetched_at": "2026-02-18T08:45:05.991667+00:00",
       "language": "en"
     },
     {
@@ -212,7 +187,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:04.788077+00:00",
+      "fetched_at": "2026-02-18T08:45:05.992540+00:00",
       "language": "en"
     },
     {
@@ -229,7 +204,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:04.791271+00:00",
+      "fetched_at": "2026-02-18T08:45:05.995426+00:00",
       "language": "en"
     },
     {
@@ -246,7 +221,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:04.790285+00:00",
+      "fetched_at": "2026-02-18T08:45:05.994518+00:00",
       "language": "en"
     },
     {
@@ -263,7 +238,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:07.372014+00:00",
+      "fetched_at": "2026-02-18T08:45:08.878902+00:00",
       "language": "en"
     },
     {
@@ -280,7 +255,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:04.788574+00:00",
+      "fetched_at": "2026-02-18T08:45:05.992991+00:00",
       "language": "en"
     },
     {
@@ -291,11 +266,11 @@
       "author": "virgildotcodes",
       "tags": [],
       "category": "career",
-      "score": 408,
-      "comments_count": 280,
+      "score": 427,
+      "comments_count": 313,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:00.205176+00:00",
+      "fetched_at": "2026-02-18T08:44:59.932174+00:00",
       "language": "en"
     },
     {
@@ -306,11 +281,11 @@
       "author": "walterbell",
       "tags": [],
       "category": "general",
-      "score": 377,
-      "comments_count": 197,
+      "score": 398,
+      "comments_count": 209,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:13:59.008500+00:00",
+      "fetched_at": "2026-02-18T08:44:58.016069+00:00",
       "language": "en"
     },
     {
@@ -327,7 +302,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:07.372436+00:00",
+      "fetched_at": "2026-02-18T08:45:08.879314+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
+      "url": "https://asteroidos.org/news/2-0-release/index.html",
+      "source": "hackernews",
+      "description": "",
+      "author": "moWerk",
+      "tags": [],
+      "category": "general",
+      "score": 362,
+      "comments_count": 42,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:44:58.996227+00:00",
       "language": "en"
     },
     {
@@ -344,22 +334,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:09.740101+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-      "url": "https://asteroidos.org/news/2-0-release/index.html",
-      "source": "hackernews",
-      "description": "",
-      "author": "moWerk",
-      "tags": [],
-      "category": "general",
-      "score": 357,
-      "comments_count": 40,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T08:14:00.047453+00:00",
+      "fetched_at": "2026-02-18T08:45:11.592720+00:00",
       "language": "en"
     },
     {
@@ -376,7 +351,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:08.465777+00:00",
+      "fetched_at": "2026-02-18T08:45:10.054949+00:00",
+      "language": "en"
+    },
+    {
+      "title": "15 years later, Microsoft morged my diagram",
+      "url": "https://nvie.com/posts/15-years-later/",
+      "source": "hackernews",
+      "description": "",
+      "author": "cheeaun",
+      "tags": [],
+      "category": "general",
+      "score": 341,
+      "comments_count": 114,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:44:57.850467+00:00",
       "language": "en"
     },
     {
@@ -387,11 +377,11 @@
       "author": "todsacerdoti",
       "tags": [],
       "category": "general",
-      "score": 328,
+      "score": 331,
       "comments_count": 69,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:01.752080+00:00",
+      "fetched_at": "2026-02-18T08:45:00.590701+00:00",
       "language": "en"
     },
     {
@@ -402,11 +392,11 @@
       "author": "todsacerdoti",
       "tags": [],
       "category": "general",
-      "score": 319,
-      "comments_count": 110,
+      "score": 324,
+      "comments_count": 116,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:00.847211+00:00",
+      "fetched_at": "2026-02-18T08:44:59.601956+00:00",
       "language": "en"
     },
     {
@@ -417,11 +407,11 @@
       "author": "hentrep",
       "tags": [],
       "category": "general",
-      "score": 296,
+      "score": 298,
       "comments_count": 148,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:03.001101+00:00",
+      "fetched_at": "2026-02-18T08:45:01.902004+00:00",
       "language": "en"
     },
     {
@@ -438,7 +428,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:04.787558+00:00",
+      "fetched_at": "2026-02-18T08:45:05.992058+00:00",
       "language": "en"
     },
     {
@@ -449,26 +439,11 @@
       "author": "rurban",
       "tags": [],
       "category": "languages",
-      "score": 274,
-      "comments_count": 103,
+      "score": 278,
+      "comments_count": 109,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:13:59.787480+00:00",
-      "language": "en"
-    },
-    {
-      "title": "15 years later, Microsoft morged my diagram",
-      "url": "https://nvie.com/posts/15-years-later/",
-      "source": "hackernews",
-      "description": "",
-      "author": "cheeaun",
-      "tags": [],
-      "category": "general",
-      "score": 266,
-      "comments_count": 85,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T08:13:58.850859+00:00",
+      "fetched_at": "2026-02-18T08:44:58.835348+00:00",
       "language": "en"
     },
     {
@@ -485,7 +460,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:05.953095+00:00",
+      "fetched_at": "2026-02-18T08:45:07.511051+00:00",
       "language": "en"
     },
     {
@@ -502,7 +477,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:08.467060+00:00",
+      "fetched_at": "2026-02-18T08:45:10.056021+00:00",
       "language": "en"
     },
     {
@@ -513,11 +488,11 @@
       "author": "kewonit",
       "tags": [],
       "category": "general",
-      "score": 247,
+      "score": 249,
       "comments_count": 48,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:02.842094+00:00",
+      "fetched_at": "2026-02-18T08:45:01.739618+00:00",
       "language": "en"
     },
     {
@@ -529,10 +504,10 @@
       "tags": [],
       "category": "general",
       "score": 210,
-      "comments_count": 84,
+      "comments_count": 85,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:01.908456+00:00",
+      "fetched_at": "2026-02-18T08:45:00.913522+00:00",
       "language": "en"
     },
     {
@@ -543,11 +518,11 @@
       "author": "cdegroot",
       "tags": [],
       "category": "general",
-      "score": 198,
-      "comments_count": 75,
+      "score": 202,
+      "comments_count": 76,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:02.374566+00:00",
+      "fetched_at": "2026-02-18T08:45:01.413462+00:00",
       "language": "en"
     },
     {
@@ -564,7 +539,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:04.789898+00:00",
+      "fetched_at": "2026-02-18T08:45:05.994161+00:00",
       "language": "en"
     },
     {
@@ -581,7 +556,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:09.740485+00:00",
+      "fetched_at": "2026-02-18T08:45:11.593070+00:00",
       "language": "en"
     },
     {
@@ -592,11 +567,11 @@
       "author": "Philpax",
       "tags": [],
       "category": "general",
-      "score": 188,
+      "score": 190,
       "comments_count": 50,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:02.063741+00:00",
+      "fetched_at": "2026-02-18T08:45:01.079222+00:00",
       "language": "en"
     },
     {
@@ -607,11 +582,11 @@
       "author": "Ariarule",
       "tags": [],
       "category": "general",
-      "score": 149,
-      "comments_count": 51,
+      "score": 153,
+      "comments_count": 53,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:03.467464+00:00",
+      "fetched_at": "2026-02-18T08:45:02.410182+00:00",
       "language": "en"
     },
     {
@@ -628,7 +603,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:04.790771+00:00",
+      "fetched_at": "2026-02-18T08:45:05.994961+00:00",
       "language": "en"
     },
     {
@@ -645,7 +620,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:05.955991+00:00",
+      "fetched_at": "2026-02-18T08:45:07.513707+00:00",
       "language": "en"
     },
     {
@@ -662,7 +637,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:04.792066+00:00",
+      "fetched_at": "2026-02-18T08:45:05.996133+00:00",
       "language": "en"
     },
     {
@@ -673,11 +648,11 @@
       "author": "NaOH",
       "tags": [],
       "category": "general",
-      "score": 93,
-      "comments_count": 34,
+      "score": 97,
+      "comments_count": 35,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:03.308804+00:00",
+      "fetched_at": "2026-02-18T08:45:02.240933+00:00",
       "language": "en"
     },
     {
@@ -688,11 +663,11 @@
       "author": "lopespm",
       "tags": [],
       "category": "languages",
-      "score": 92,
-      "comments_count": 28,
+      "score": 95,
+      "comments_count": 31,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:01.119250+00:00",
+      "fetched_at": "2026-02-18T08:45:00.427102+00:00",
       "language": "en"
     },
     {
@@ -706,11 +681,11 @@
         "release"
       ],
       "category": "general",
-      "score": 90,
-      "comments_count": 19,
+      "score": 91,
+      "comments_count": 20,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125090+00:00",
+      "fetched_at": "2026-02-18T08:45:14.596940+00:00",
       "language": "en"
     },
     {
@@ -724,11 +699,11 @@
         "retrocomputing"
       ],
       "category": "general",
-      "score": 90,
+      "score": 91,
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125180+00:00",
+      "fetched_at": "2026-02-18T08:45:14.597045+00:00",
       "language": "en"
     },
     {
@@ -745,7 +720,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:04.791659+00:00",
+      "fetched_at": "2026-02-18T08:45:05.995783+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
+      "url": "https://www.vogons.org/viewtopic.php?t=105451",
+      "source": "hackernews",
+      "description": "",
+      "author": "LowLevelMahn",
+      "tags": [],
+      "category": "general",
+      "score": 86,
+      "comments_count": 15,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:44:59.766036+00:00",
       "language": "en"
     },
     {
@@ -762,22 +752,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:11.186893+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
-      "url": "https://www.vogons.org/viewtopic.php?t=105451",
-      "source": "hackernews",
-      "description": "",
-      "author": "LowLevelMahn",
-      "tags": [],
-      "category": "general",
-      "score": 75,
-      "comments_count": 14,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T08:14:01.279133+00:00",
+      "fetched_at": "2026-02-18T08:45:13.295913+00:00",
       "language": "en"
     },
     {
@@ -793,11 +768,11 @@
         "buildmultiagents"
       ],
       "category": "ai",
-      "score": 74,
+      "score": 75,
       "comments_count": 4,
       "reading_time_min": 3,
       "published_at": "2026-02-17T18:27:56Z",
-      "fetched_at": "2026-02-18T08:13:58.600726+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524525+00:00",
       "language": "en"
     },
     {
@@ -814,7 +789,7 @@
       "comments_count": 10,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125156+00:00",
+      "fetched_at": "2026-02-18T08:45:14.597020+00:00",
       "language": "en"
     },
     {
@@ -832,7 +807,22 @@
       "comments_count": 10,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125135+00:00",
+      "fetched_at": "2026-02-18T08:45:14.596998+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Terminals should generate the 256-color palette",
+      "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
+      "source": "hackernews",
+      "description": "",
+      "author": "tosh",
+      "tags": [],
+      "category": "general",
+      "score": 68,
+      "comments_count": 20,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:44:58.184537+00:00",
       "language": "en"
     },
     {
@@ -849,7 +839,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:09.743524+00:00",
+      "fetched_at": "2026-02-18T08:45:11.595835+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript",
+      "url": "https://github.com/n-e/pg-typesafe",
+      "source": "hackernews",
+      "description": "",
+      "author": "n_e",
+      "tags": [],
+      "category": "web",
+      "score": 63,
+      "comments_count": 26,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:45:02.573193+00:00",
       "language": "en"
     },
     {
@@ -866,7 +871,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:09.740983+00:00",
+      "fetched_at": "2026-02-18T08:45:11.593531+00:00",
       "language": "en"
     },
     {
@@ -886,7 +891,7 @@
       "comments_count": 1,
       "reading_time_min": 2,
       "published_at": "2026-02-17T21:56:40Z",
-      "fetched_at": "2026-02-18T08:13:58.600756+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524557+00:00",
       "language": "en"
     },
     {
@@ -899,11 +904,26 @@
         "vcs"
       ],
       "category": "general",
-      "score": 56,
+      "score": 58,
       "comments_count": 11,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125112+00:00",
+      "fetched_at": "2026-02-18T08:45:14.596965+00:00",
+      "language": "en"
+    },
+    {
+      "title": "'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia (2025)",
+      "url": "https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/",
+      "source": "hackernews",
+      "description": "",
+      "author": "anarbadalov",
+      "tags": [],
+      "category": "general",
+      "score": 54,
+      "comments_count": 13,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:45:01.252239+00:00",
       "language": "en"
     },
     {
@@ -920,37 +940,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:05.956376+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Terminals should generate the 256-color palette",
-      "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
-      "source": "hackernews",
-      "description": "",
-      "author": "tosh",
-      "tags": [],
-      "category": "general",
-      "score": 52,
-      "comments_count": 12,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T08:13:59.164282+00:00",
-      "language": "en"
-    },
-    {
-      "title": "'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia (2025)",
-      "url": "https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/",
-      "source": "hackernews",
-      "description": "",
-      "author": "anarbadalov",
-      "tags": [],
-      "category": "general",
-      "score": 52,
-      "comments_count": 12,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T08:14:02.217150+00:00",
+      "fetched_at": "2026-02-18T08:45:07.514058+00:00",
       "language": "en"
     },
     {
@@ -967,7 +957,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:05.954297+00:00",
+      "fetched_at": "2026-02-18T08:45:07.512160+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Use Microsoft Office Shortcuts in Libre Office",
+      "url": "https://github.com/Zaki101Aslam/MS-office-shortcuts-for-Libre-Office",
+      "source": "hackernews",
+      "description": "",
+      "author": "Zaki101Aslam",
+      "tags": [],
+      "category": "general",
+      "score": 46,
+      "comments_count": 10,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:45:01.579395+00:00",
       "language": "en"
     },
     {
@@ -984,22 +989,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:05.955101+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Use Microsoft Office Shortcuts in Libre Office",
-      "url": "https://github.com/Zaki101Aslam/MS-office-shortcuts-for-Libre-Office",
-      "source": "hackernews",
-      "description": "",
-      "author": "Zaki101Aslam",
-      "tags": [],
-      "category": "general",
-      "score": 44,
-      "comments_count": 10,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T08:14:02.682006+00:00",
+      "fetched_at": "2026-02-18T08:45:07.512896+00:00",
       "language": "en"
     },
     {
@@ -1015,11 +1005,29 @@
         "discuss"
       ],
       "category": "career",
-      "score": 42,
+      "score": 43,
       "comments_count": 26,
       "reading_time_min": 2,
       "published_at": "2026-02-17T12:42:44Z",
-      "fetched_at": "2026-02-18T08:13:58.600745+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524546+00:00",
+      "language": "en"
+    },
+    {
+      "title": "How a single typo led to RCE in Firefox",
+      "url": "https://kqx.io/post/firefox0day/",
+      "source": "lobsters",
+      "description": "",
+      "author": "yashgarg",
+      "tags": [
+        "browsers",
+        "security"
+      ],
+      "category": "web",
+      "score": 41,
+      "comments_count": 9,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:45:14.596984+00:00",
       "language": "en"
     },
     {
@@ -1036,25 +1044,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:08.465350+00:00",
-      "language": "en"
-    },
-    {
-      "title": "How a single typo led to RCE in Firefox",
-      "url": "https://kqx.io/post/firefox0day/",
-      "source": "lobsters",
-      "description": "",
-      "author": "yashgarg",
-      "tags": [
-        "browsers",
-        "security"
-      ],
-      "category": "web",
-      "score": 40,
-      "comments_count": 9,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125129+00:00",
+      "fetched_at": "2026-02-18T08:45:10.054578+00:00",
       "language": "en"
     },
     {
@@ -1067,11 +1057,11 @@
         "clojure"
       ],
       "category": "languages",
-      "score": 38,
+      "score": 39,
       "comments_count": 1,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125119+00:00",
+      "fetched_at": "2026-02-18T08:45:14.596973+00:00",
       "language": "en"
     },
     {
@@ -1088,7 +1078,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:05.956901+00:00",
+      "fetched_at": "2026-02-18T08:45:07.514525+00:00",
       "language": "en"
     },
     {
@@ -1105,7 +1095,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:11.190705+00:00",
+      "fetched_at": "2026-02-18T08:45:13.299430+00:00",
       "language": "en"
     },
     {
@@ -1123,7 +1113,7 @@
       "comments_count": 3,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125159+00:00",
+      "fetched_at": "2026-02-18T08:45:14.597023+00:00",
       "language": "en"
     },
     {
@@ -1141,7 +1131,7 @@
       "comments_count": 13,
       "reading_time_min": 2,
       "published_at": "2026-02-17T18:35:23Z",
-      "fetched_at": "2026-02-18T08:13:58.600752+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524552+00:00",
       "language": "en"
     },
     {
@@ -1158,7 +1148,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:07.374969+00:00",
+      "fetched_at": "2026-02-18T08:45:08.881928+00:00",
       "language": "en"
     },
     {
@@ -1175,7 +1165,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:11.189813+00:00",
+      "fetched_at": "2026-02-18T08:45:13.298622+00:00",
       "language": "en"
     },
     {
@@ -1188,26 +1178,26 @@
         "web"
       ],
       "category": "frameworks",
-      "score": 29,
+      "score": 30,
       "comments_count": 2,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125138+00:00",
+      "fetched_at": "2026-02-18T08:45:14.596992+00:00",
       "language": "en"
     },
     {
-      "title": "Show HN: Beautiful interactive explainers generated with Claude Code",
-      "url": "https://paraschopra.github.io/explainers/",
+      "title": "A DuckDB-based metabase alternative",
+      "url": "https://github.com/taleshape-com/shaper",
       "source": "hackernews",
       "description": "",
-      "author": "paraschopra",
+      "author": "wowi42",
       "tags": [],
-      "category": "ai",
-      "score": 28,
-      "comments_count": 8,
+      "category": "general",
+      "score": 29,
+      "comments_count": 7,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:00.524767+00:00",
+      "fetched_at": "2026-02-18T08:44:58.673059+00:00",
       "language": "en"
     },
     {
@@ -1218,11 +1208,11 @@
       "author": "nnmg",
       "tags": [],
       "category": "general",
-      "score": 28,
-      "comments_count": 26,
+      "score": 29,
+      "comments_count": 27,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:00.692902+00:00",
+      "fetched_at": "2026-02-18T08:45:00.098754+00:00",
       "language": "en"
     },
     {
@@ -1239,7 +1229,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:08.466242+00:00",
+      "fetched_at": "2026-02-18T08:45:10.055317+00:00",
       "language": "en"
     },
     {
@@ -1256,7 +1246,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:05.953908+00:00",
+      "fetched_at": "2026-02-18T08:45:07.511811+00:00",
       "language": "en"
     },
     {
@@ -1273,7 +1263,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:05.954672+00:00",
+      "fetched_at": "2026-02-18T08:45:07.512518+00:00",
       "language": "en"
     },
     {
@@ -1290,7 +1280,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:09.742733+00:00",
+      "fetched_at": "2026-02-18T08:45:11.595127+00:00",
       "language": "en"
     },
     {
@@ -1310,7 +1300,7 @@
       "comments_count": 14,
       "reading_time_min": 3,
       "published_at": "2026-02-17T13:16:09Z",
-      "fetched_at": "2026-02-18T08:13:58.600760+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524562+00:00",
       "language": "en"
     },
     {
@@ -1327,7 +1317,7 @@
       "comments_count": 14,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125150+00:00",
+      "fetched_at": "2026-02-18T08:45:14.597009+00:00",
       "language": "en"
     },
     {
@@ -1344,7 +1334,24 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:09.741858+00:00",
+      "fetched_at": "2026-02-18T08:45:11.594331+00:00",
+      "language": "en"
+    },
+    {
+      "title": "One page of async Rust",
+      "url": "https://dotat.at/@/2026-02-16-async.html",
+      "source": "lobsters",
+      "description": "",
+      "author": "fanf",
+      "tags": [
+        "rust"
+      ],
+      "category": "general",
+      "score": 22,
+      "comments_count": 3,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:45:14.596969+00:00",
       "language": "en"
     },
     {
@@ -1361,7 +1368,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:05.955486+00:00",
+      "fetched_at": "2026-02-18T08:45:07.513254+00:00",
       "language": "en"
     },
     {
@@ -1378,39 +1385,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:09.745655+00:00",
-      "language": "en"
-    },
-    {
-      "title": "One page of async Rust",
-      "url": "https://dotat.at/@/2026-02-16-async.html",
-      "source": "lobsters",
-      "description": "",
-      "author": "fanf",
-      "tags": [
-        "rust"
-      ],
-      "category": "general",
-      "score": 21,
-      "comments_count": 3,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125116+00:00",
-      "language": "en"
-    },
-    {
-      "title": "A DuckDB-based metabase alternative",
-      "url": "https://github.com/taleshape-com/shaper",
-      "source": "hackernews",
-      "description": "",
-      "author": "wowi42",
-      "tags": [],
-      "category": "general",
-      "score": 20,
-      "comments_count": 4,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T08:13:59.480972+00:00",
+      "fetched_at": "2026-02-18T08:45:11.597808+00:00",
       "language": "en"
     },
     {
@@ -1427,7 +1402,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:09.744394+00:00",
+      "fetched_at": "2026-02-18T08:45:11.596650+00:00",
       "language": "en"
     },
     {
@@ -1444,7 +1419,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:09.745174+00:00",
+      "fetched_at": "2026-02-18T08:45:11.597360+00:00",
       "language": "en"
     },
     {
@@ -1455,11 +1430,29 @@
       "author": "zdw",
       "tags": [],
       "category": "ai",
-      "score": 18,
+      "score": 19,
       "comments_count": 2,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:02.529114+00:00",
+      "fetched_at": "2026-02-18T08:45:02.078051+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Cryptographic Issues in Matrix’s Rust Library Vodozemac",
+      "url": "https://soatok.blog/2026/02/17/cryptographic-issues-in-matrixs-rust-library-vodozemac/",
+      "source": "lobsters",
+      "description": "",
+      "author": "dzwdz",
+      "tags": [
+        "cryptography",
+        "rant"
+      ],
+      "category": "frameworks",
+      "score": 19,
+      "comments_count": 36,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:45:14.597013+00:00",
       "language": "en"
     },
     {
@@ -1476,7 +1469,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:05.953502+00:00",
+      "fetched_at": "2026-02-18T08:45:07.511457+00:00",
       "language": "en"
     },
     {
@@ -1493,7 +1486,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:11.183634+00:00",
+      "fetched_at": "2026-02-18T08:45:13.292965+00:00",
       "language": "en"
     },
     {
@@ -1511,7 +1504,22 @@
       "comments_count": 1,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125168+00:00",
+      "fetched_at": "2026-02-18T08:45:14.597034+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Show HN: Breadboard – a modern HyperCard for building web apps on the canvas",
+      "url": "https://breadboards.io/",
+      "source": "hackernews",
+      "description": "",
+      "author": "simquat",
+      "tags": [],
+      "category": "general",
+      "score": 17,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:45:00.264872+00:00",
       "language": "en"
     },
     {
@@ -1528,7 +1536,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:09.744014+00:00",
+      "fetched_at": "2026-02-18T08:45:11.596282+00:00",
       "language": "en"
     },
     {
@@ -1545,7 +1553,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:11.185992+00:00",
+      "fetched_at": "2026-02-18T08:45:13.295100+00:00",
       "language": "en"
     },
     {
@@ -1563,7 +1571,7 @@
       "comments_count": 9,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125162+00:00",
+      "fetched_at": "2026-02-18T08:45:14.597027+00:00",
       "language": "en"
     },
     {
@@ -1580,7 +1588,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:04.792448+00:00",
+      "fetched_at": "2026-02-18T08:45:05.996491+00:00",
       "language": "en"
     },
     {
@@ -1597,7 +1605,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:09.739159+00:00",
+      "fetched_at": "2026-02-18T08:45:11.591879+00:00",
       "language": "en"
     },
     {
@@ -1616,25 +1624,7 @@
       "comments_count": 8,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125153+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Cryptographic Issues in Matrix’s Rust Library Vodozemac",
-      "url": "https://soatok.blog/2026/02/17/cryptographic-issues-in-matrixs-rust-library-vodozemac/",
-      "source": "lobsters",
-      "description": "",
-      "author": "dzwdz",
-      "tags": [
-        "cryptography",
-        "rant"
-      ],
-      "category": "frameworks",
-      "score": 16,
-      "comments_count": 35,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125171+00:00",
+      "fetched_at": "2026-02-18T08:45:14.597016+00:00",
       "language": "en"
     },
     {
@@ -1654,7 +1644,7 @@
       "comments_count": 1,
       "reading_time_min": 3,
       "published_at": "2026-02-17T19:50:49Z",
-      "fetched_at": "2026-02-18T08:13:58.600792+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524599+00:00",
       "language": "en"
     },
     {
@@ -1671,7 +1661,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:07.372830+00:00",
+      "fetched_at": "2026-02-18T08:45:08.879715+00:00",
       "language": "en"
     },
     {
@@ -1688,7 +1678,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:08.466637+00:00",
+      "fetched_at": "2026-02-18T08:45:10.055673+00:00",
       "language": "en"
     },
     {
@@ -1705,7 +1695,27 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:11.187663+00:00",
+      "fetched_at": "2026-02-18T08:45:13.296644+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Who Are We Still Writing Technical Articles For?",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/who-are-we-still-writing-technical-articles-for-i64",
+      "source": "devto",
+      "description": "I recently read an article by @miracool asking the question: do people still genuinely care about technical articles? My answer is nuanced: yes, but not",
+      "author": "pascal_cescato_692b7a8a20",
+      "tags": [
+        "career",
+        "discuss",
+        "productivity",
+        "writing"
+      ],
+      "category": "career",
+      "score": 13,
+      "comments_count": 5,
+      "reading_time_min": 6,
+      "published_at": "2026-02-17T12:34:14Z",
+      "fetched_at": "2026-02-18T08:44:57.524574+00:00",
       "language": "en"
     },
     {
@@ -1722,42 +1732,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:11.191105+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Who Are We Still Writing Technical Articles For?",
-      "url": "https://dev.to/pascal_cescato_692b7a8a20/who-are-we-still-writing-technical-articles-for-i64",
-      "source": "devto",
-      "description": "I recently read an article by @miracool asking the question: do people still genuinely care about technical articles? My answer is nuanced: yes, but not",
-      "author": "pascal_cescato_692b7a8a20",
-      "tags": [
-        "career",
-        "discuss",
-        "productivity",
-        "writing"
-      ],
-      "category": "career",
-      "score": 12,
-      "comments_count": 4,
-      "reading_time_min": 6,
-      "published_at": "2026-02-17T12:34:14Z",
-      "fetched_at": "2026-02-18T08:13:58.600778+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Show HN: Breadboard – a modern HyperCard for building web apps on the canvas",
-      "url": "https://breadboards.io/",
-      "source": "hackernews",
-      "description": "",
-      "author": "simquat",
-      "tags": [],
-      "category": "general",
-      "score": 12,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T08:14:01.595630+00:00",
+      "fetched_at": "2026-02-18T08:45:13.299780+00:00",
       "language": "en"
     },
     {
@@ -1774,7 +1749,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:09.741469+00:00",
+      "fetched_at": "2026-02-18T08:45:11.593973+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Semantic Diffusion (2006)",
+      "url": "https://martinfowler.com/bliki/SemanticDiffusion.html",
+      "source": "hackernews",
+      "description": "",
+      "author": "andsoitis",
+      "tags": [],
+      "category": "general",
+      "score": 11,
+      "comments_count": 2,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:44:59.440143+00:00",
       "language": "en"
     },
     {
@@ -1791,7 +1781,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:07.373242+00:00",
+      "fetched_at": "2026-02-18T08:45:08.880151+00:00",
       "language": "en"
     },
     {
@@ -1811,7 +1801,22 @@
       "comments_count": 6,
       "reading_time_min": 1,
       "published_at": "2026-02-17T20:10:47Z",
-      "fetched_at": "2026-02-18T08:13:58.600764+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524566+00:00",
+      "language": "en"
+    },
+    {
+      "title": "TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)",
+      "url": "https://github.com/DatanoiseTV/tinyice",
+      "source": "hackernews",
+      "description": "",
+      "author": "sylwester",
+      "tags": [],
+      "category": "general",
+      "score": 10,
+      "comments_count": 1,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:44:59.274971+00:00",
       "language": "en"
     },
     {
@@ -1831,7 +1836,7 @@
       "comments_count": 2,
       "reading_time_min": 5,
       "published_at": "2026-02-17T16:53:46Z",
-      "fetched_at": "2026-02-18T08:13:58.600768+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524570+00:00",
       "language": "en"
     },
     {
@@ -1848,7 +1853,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:09.739680+00:00",
+      "fetched_at": "2026-02-18T08:45:11.592365+00:00",
       "language": "en"
     },
     {
@@ -1862,10 +1867,10 @@
       ],
       "category": "general",
       "score": 9,
-      "comments_count": 7,
+      "comments_count": 8,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125122+00:00",
+      "fetched_at": "2026-02-18T08:45:14.596981+00:00",
       "language": "en"
     },
     {
@@ -1882,7 +1887,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:07.375361+00:00",
+      "fetched_at": "2026-02-18T08:45:08.882294+00:00",
       "language": "en"
     },
     {
@@ -1899,7 +1904,26 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:09.746057+00:00",
+      "fetched_at": "2026-02-18T08:45:11.598168+00:00",
+      "language": "en"
+    },
+    {
+      "title": "LeBron James Is President – Exploiting LLMs via \"Alignment\" Context Injection",
+      "url": "https://github.com/skavanagh/lebron-james-is-president",
+      "source": "lobsters",
+      "description": "",
+      "author": "skavanagh",
+      "tags": [
+        "ai",
+        "programming",
+        "science"
+      ],
+      "category": "security",
+      "score": 8,
+      "comments_count": 4,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:45:14.596988+00:00",
       "language": "en"
     },
     {
@@ -1919,7 +1943,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-18T05:44:37Z",
-      "fetched_at": "2026-02-18T08:13:58.600775+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524583+00:00",
       "language": "en"
     },
     {
@@ -1936,7 +1960,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:09.744779+00:00",
+      "fetched_at": "2026-02-18T08:45:11.597004+00:00",
       "language": "en"
     },
     {
@@ -1953,26 +1977,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:11.185477+00:00",
-      "language": "en"
-    },
-    {
-      "title": "LeBron James Is President – Exploiting LLMs via \"Alignment\" Context Injection",
-      "url": "https://github.com/skavanagh/lebron-james-is-president",
-      "source": "lobsters",
-      "description": "",
-      "author": "skavanagh",
-      "tags": [
-        "ai",
-        "programming",
-        "science"
-      ],
-      "category": "security",
-      "score": 7,
-      "comments_count": 4,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125131+00:00",
+      "fetched_at": "2026-02-18T08:45:13.294652+00:00",
       "language": "en"
     },
     {
@@ -1990,7 +1995,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125147+00:00",
+      "fetched_at": "2026-02-18T08:45:14.597005+00:00",
       "language": "en"
     },
     {
@@ -2008,7 +2013,7 @@
       "comments_count": 8,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125177+00:00",
+      "fetched_at": "2026-02-18T08:45:14.597041+00:00",
       "language": "en"
     },
     {
@@ -2028,37 +2033,7 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T18:49:10Z",
-      "fetched_at": "2026-02-18T08:13:58.600771+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Semantic Diffusion (2006)",
-      "url": "https://martinfowler.com/bliki/SemanticDiffusion.html",
-      "source": "hackernews",
-      "description": "",
-      "author": "andsoitis",
-      "tags": [],
-      "category": "general",
-      "score": 6,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T08:14:00.362710+00:00",
-      "language": "en"
-    },
-    {
-      "title": "TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)",
-      "url": "https://github.com/DatanoiseTV/tinyice",
-      "source": "hackernews",
-      "description": "",
-      "author": "sylwester",
-      "tags": [],
-      "category": "general",
-      "score": 6,
-      "comments_count": 1,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T08:14:01.436139+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524579+00:00",
       "language": "en"
     },
     {
@@ -2075,7 +2050,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:07.373641+00:00",
+      "fetched_at": "2026-02-18T08:45:08.880730+00:00",
       "language": "en"
     },
     {
@@ -2092,7 +2067,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:07.374520+00:00",
+      "fetched_at": "2026-02-18T08:45:08.881569+00:00",
       "language": "en"
     },
     {
@@ -2109,7 +2084,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:09.743133+00:00",
+      "fetched_at": "2026-02-18T08:45:11.595485+00:00",
       "language": "en"
     },
     {
@@ -2126,7 +2101,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:11.186383+00:00",
+      "fetched_at": "2026-02-18T08:45:13.295464+00:00",
       "language": "en"
     },
     {
@@ -2143,7 +2118,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:11.188548+00:00",
+      "fetched_at": "2026-02-18T08:45:13.297457+00:00",
       "language": "en"
     },
     {
@@ -2160,22 +2135,27 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:11.188939+00:00",
+      "fetched_at": "2026-02-18T08:45:13.297809+00:00",
       "language": "en"
     },
     {
-      "title": "Automatia and the Case for Vanilla",
-      "url": "https://fwsgonzo.medium.com/automatia-and-the-case-for-vanilla-b3209cdf1583",
-      "source": "hackernews",
-      "description": "",
-      "author": "fwsgonzo",
-      "tags": [],
-      "category": "general",
+      "title": "Why I’m Stepping Away from DEV (For Now)",
+      "url": "https://dev.to/richardpascoe/why-im-stepping-away-from-dev-for-now-1g52",
+      "source": "devto",
+      "description": "This is one of those posts that feels strange to write, mostly because DEV has been such a positive...",
+      "author": "richardpascoe",
+      "tags": [
+        "community",
+        "learning",
+        "programming",
+        "webdev"
+      ],
+      "category": "career",
       "score": 5,
       "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T08:14:03.154697+00:00",
+      "reading_time_min": 2,
+      "published_at": "2026-02-18T08:00:07Z",
+      "fetched_at": "2026-02-18T08:44:57.524631+00:00",
       "language": "en"
     },
     {
@@ -2192,7 +2172,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:09.742248+00:00",
+      "fetched_at": "2026-02-18T08:45:11.594686+00:00",
       "language": "en"
     },
     {
@@ -2209,7 +2189,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:11.184984+00:00",
+      "fetched_at": "2026-02-18T08:45:13.294187+00:00",
       "language": "en"
     },
     {
@@ -2226,7 +2206,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:11.188066+00:00",
+      "fetched_at": "2026-02-18T08:45:13.297001+00:00",
       "language": "en"
     },
     {
@@ -2243,7 +2223,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:11.184580+00:00",
+      "fetched_at": "2026-02-18T08:45:13.293832+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The Secret Life of Vector Generators (Atari)",
+      "url": "https://jmargolin.com/vgens/vgens.htm",
+      "source": "hackernews",
+      "description": "",
+      "author": "mosura",
+      "tags": [],
+      "category": "general",
+      "score": 3,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-18T08:45:00.751755+00:00",
       "language": "en"
     },
     {
@@ -2260,7 +2255,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:07.375734+00:00",
+      "fetched_at": "2026-02-18T08:45:08.882638+00:00",
       "language": "en"
     },
     {
@@ -2277,7 +2272,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:11.189433+00:00",
+      "fetched_at": "2026-02-18T08:45:13.298260+00:00",
       "language": "en"
     },
     {
@@ -2295,25 +2290,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125174+00:00",
-      "language": "en"
-    },
-    {
-      "title": "\"Vendoring\" is a vile anti-pattern (2014)",
-      "url": "https://gist.github.com/datagrok/8577287",
-      "source": "lobsters",
-      "description": "",
-      "author": "marchuk",
-      "tags": [
-        "practices",
-        "vcs"
-      ],
-      "category": "general",
-      "score": 3,
-      "comments_count": 7,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125183+00:00",
+      "fetched_at": "2026-02-18T08:45:14.597037+00:00",
       "language": "en"
     },
     {
@@ -2330,7 +2307,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:07.374140+00:00",
+      "fetched_at": "2026-02-18T08:45:08.881201+00:00",
       "language": "en"
     },
     {
@@ -2347,7 +2324,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:11.184078+00:00",
+      "fetched_at": "2026-02-18T08:45:13.293370+00:00",
       "language": "en"
     },
     {
@@ -2364,7 +2341,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:11.187279+00:00",
+      "fetched_at": "2026-02-18T08:45:13.296276+00:00",
       "language": "en"
     },
     {
@@ -2381,7 +2358,27 @@
       "comments_count": 1,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:12.125165+00:00",
+      "fetched_at": "2026-02-18T08:45:14.597031+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The Question That Changed How I Build ML Models",
+      "url": "https://dev.to/jemhrice/the-question-that-changed-how-i-build-ml-models-58j6",
+      "source": "devto",
+      "description": "I was proud of my first machine learning model. Linear regression on a housing dataset, decent R²...",
+      "author": "jemhrice",
+      "tags": [
+        "machinelearning",
+        "datascience",
+        "career",
+        "python"
+      ],
+      "category": "ai",
+      "score": 1,
+      "comments_count": 0,
+      "reading_time_min": 3,
+      "published_at": "2026-02-17T23:47:30Z",
+      "fetched_at": "2026-02-18T08:44:57.524591+00:00",
       "language": "en"
     },
     {
@@ -2401,7 +2398,7 @@
       "comments_count": 0,
       "reading_time_min": 7,
       "published_at": "2026-02-18T06:43:47Z",
-      "fetched_at": "2026-02-18T08:13:58.600782+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524595+00:00",
       "language": "en"
     },
     {
@@ -2421,7 +2418,7 @@
       "comments_count": 2,
       "reading_time_min": 6,
       "published_at": "2026-02-17T13:30:04Z",
-      "fetched_at": "2026-02-18T08:13:58.600795+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524603+00:00",
       "language": "en"
     },
     {
@@ -2441,27 +2438,7 @@
       "comments_count": 0,
       "reading_time_min": 4,
       "published_at": "2026-02-17T16:40:58Z",
-      "fetched_at": "2026-02-18T08:13:58.600812+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Why I’m Stepping Away from DEV (For Now)",
-      "url": "https://dev.to/richardpascoe/why-im-stepping-away-from-dev-for-now-1g52",
-      "source": "devto",
-      "description": "This is one of those posts that feels strange to write, mostly because DEV has been such a positive...",
-      "author": "richardpascoe",
-      "tags": [
-        "community",
-        "learning",
-        "programming",
-        "webdev"
-      ],
-      "category": "career",
-      "score": 1,
-      "comments_count": 0,
-      "reading_time_min": 2,
-      "published_at": "2026-02-18T08:00:07Z",
-      "fetched_at": "2026-02-18T08:13:58.600832+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524611+00:00",
       "language": "en"
     },
     {
@@ -2478,7 +2455,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-18T08:14:11.190214+00:00",
+      "fetched_at": "2026-02-18T08:45:13.298977+00:00",
       "language": "en"
     },
     {
@@ -2498,47 +2475,7 @@
       "comments_count": 0,
       "reading_time_min": 4,
       "published_at": "2026-02-17T09:19:58Z",
-      "fetched_at": "2026-02-18T08:13:58.600785+00:00",
-      "language": "en"
-    },
-    {
-      "title": "The Question That Changed How I Build ML Models",
-      "url": "https://dev.to/jemhrice/the-question-that-changed-how-i-build-ml-models-58j6",
-      "source": "devto",
-      "description": "I was proud of my first machine learning model. Linear regression on a housing dataset, decent R²...",
-      "author": "jemhrice",
-      "tags": [
-        "machinelearning",
-        "datascience",
-        "career",
-        "python"
-      ],
-      "category": "ai",
-      "score": 0,
-      "comments_count": 0,
-      "reading_time_min": 3,
-      "published_at": "2026-02-17T23:47:30Z",
-      "fetched_at": "2026-02-18T08:13:58.600789+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Why Your AI Agents Need a Black Box",
-      "url": "https://dev.to/nostalgicskinco/why-your-ai-agents-need-a-black-box-i12",
-      "source": "devto",
-      "description": "My AI agents went rogue.  I run an e-commerce store. A few months ago, I deployed AI agents to handle...",
-      "author": "nostalgicskinco",
-      "tags": [
-        "ai",
-        "llm",
-        "opensource",
-        "devops"
-      ],
-      "category": "ai",
-      "score": 0,
-      "comments_count": 0,
-      "reading_time_min": 4,
-      "published_at": "2026-02-18T03:09:21Z",
-      "fetched_at": "2026-02-18T08:13:58.600799+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524587+00:00",
       "language": "en"
     },
     {
@@ -2553,27 +2490,7 @@
       "comments_count": 0,
       "reading_time_min": 1,
       "published_at": "2026-02-17T16:09:52Z",
-      "fetched_at": "2026-02-18T08:13:58.600802+00:00",
-      "language": "en"
-    },
-    {
-      "title": "How to Audit and Clean Up Overflowing Learned Skills in Claude Code",
-      "url": "https://dev.to/shimo4228/how-to-audit-and-clean-up-overflowing-learned-skills-in-claude-code-38e1",
-      "source": "devto",
-      "description": "The Problem   When you use Claude Code's /learn command or the continuous-learning skill,...",
-      "author": "shimo4228",
-      "tags": [
-        "claudecode",
-        "ai",
-        "devenv",
-        "productivity"
-      ],
-      "category": "ai",
-      "score": 0,
-      "comments_count": 0,
-      "reading_time_min": 2,
-      "published_at": "2026-02-17T23:48:15Z",
-      "fetched_at": "2026-02-18T08:13:58.600805+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524607+00:00",
       "language": "en"
     },
     {
@@ -2593,7 +2510,7 @@
       "comments_count": 0,
       "reading_time_min": 5,
       "published_at": "2026-02-17T14:20:30Z",
-      "fetched_at": "2026-02-18T08:13:58.600809+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524615+00:00",
       "language": "en"
     },
     {
@@ -2613,7 +2530,27 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T23:47:02Z",
-      "fetched_at": "2026-02-18T08:13:58.600815+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524619+00:00",
+      "language": "en"
+    },
+    {
+      "title": "How to Audit and Clean Up Overflowing Learned Skills in Claude Code",
+      "url": "https://dev.to/shimo4228/how-to-audit-and-clean-up-overflowing-learned-skills-in-claude-code-38e1",
+      "source": "devto",
+      "description": "The Problem   When you use Claude Code's /learn command or the continuous-learning skill,...",
+      "author": "shimo4228",
+      "tags": [
+        "claudecode",
+        "ai",
+        "devenv",
+        "productivity"
+      ],
+      "category": "ai",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 2,
+      "published_at": "2026-02-17T23:48:15Z",
+      "fetched_at": "2026-02-18T08:44:57.524623+00:00",
       "language": "en"
     },
     {
@@ -2630,47 +2567,7 @@
       "comments_count": 1,
       "reading_time_min": 1,
       "published_at": "2026-02-18T05:00:00Z",
-      "fetched_at": "2026-02-18T08:13:58.600818+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Stop Wasting Time on Boilerplate: Generate Production-Ready Node.js Apps in 1 Minute",
-      "url": "https://dev.to/paudang/stop-wasting-time-on-boilerplate-generate-production-ready-nodejs-apps-in-1-minute-n1p",
-      "source": "devto",
-      "description": "Stop Wasting Time on Boilerplate: Generate Production-Ready Node.js Apps in 1 Minute   Hi...",
-      "author": "paudang",
-      "tags": [
-        "webdev",
-        "programming",
-        "javascript",
-        "productivity"
-      ],
-      "category": "web",
-      "score": 0,
-      "comments_count": 0,
-      "reading_time_min": 3,
-      "published_at": "2026-02-18T02:06:03Z",
-      "fetched_at": "2026-02-18T08:13:58.600821+00:00",
-      "language": "en"
-    },
-    {
-      "title": "A Matter of Authentication",
-      "url": "https://dev.to/xmabry/a-matter-of-authentication-46jc",
-      "source": "devto",
-      "description": "AWS Cognito is the friendly, AWS-resident, managed authentication service I've chosen to use to...",
-      "author": "xmabry",
-      "tags": [
-        "javascript",
-        "beginners",
-        "security",
-        "aws"
-      ],
-      "category": "devops",
-      "score": 0,
-      "comments_count": 0,
-      "reading_time_min": 2,
-      "published_at": "2026-02-18T02:35:46Z",
-      "fetched_at": "2026-02-18T08:13:58.600825+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524626+00:00",
       "language": "en"
     },
     {
@@ -2690,47 +2587,47 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T12:40:18Z",
-      "fetched_at": "2026-02-18T08:13:58.600828+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524634+00:00",
       "language": "en"
     },
     {
-      "title": "Using a Japanese Text Analysis MCP Server with Claude Code -- kuromoji.js",
-      "url": "https://dev.to/shimo4228/using-a-japanese-text-analysis-mcp-server-with-claude-code-kuromojijs-g92",
+      "title": "A Matter of Authentication",
+      "url": "https://dev.to/xmabry/a-matter-of-authentication-46jc",
       "source": "devto",
-      "description": "The Problem   I asked Claude Code \"how many characters is this article?\" and got back \"about...",
-      "author": "shimo4228",
+      "description": "AWS Cognito is the friendly, AWS-resident, managed authentication service I've chosen to use to...",
+      "author": "xmabry",
       "tags": [
-        "claudecode",
-        "mcp",
-        "nlp",
-        "japanese"
+        "javascript",
+        "beginners",
+        "security",
+        "aws"
       ],
-      "category": "ai",
+      "category": "devops",
       "score": 0,
       "comments_count": 0,
-      "reading_time_min": 3,
-      "published_at": "2026-02-17T23:47:38Z",
-      "fetched_at": "2026-02-18T08:13:58.600857+00:00",
+      "reading_time_min": 2,
+      "published_at": "2026-02-18T02:35:46Z",
+      "fetched_at": "2026-02-18T08:44:57.524637+00:00",
       "language": "en"
     },
     {
-      "title": "Using Multiple LLMs with Claude Code — When to Reach for Gemini, ChatGPT, or NotebookLM",
-      "url": "https://dev.to/shimo4228/using-multiple-llms-with-claude-code-when-to-reach-for-gemini-chatgpt-or-notebooklm-2mnm",
+      "title": "Stop Wasting Time on Boilerplate: Generate Production-Ready Node.js Apps in 1 Minute",
+      "url": "https://dev.to/paudang/stop-wasting-time-on-boilerplate-generate-production-ready-nodejs-apps-in-1-minute-n1p",
       "source": "devto",
-      "description": "Sometimes One LLM Isn't Enough   The first time I encountered the term ADR (Architecture...",
-      "author": "shimo4228",
+      "description": "Stop Wasting Time on Boilerplate: Generate Production-Ready Node.js Apps in 1 Minute   Hi...",
+      "author": "paudang",
       "tags": [
-        "claudecode",
-        "ai",
-        "gemini",
-        "chatgpt"
+        "webdev",
+        "programming",
+        "javascript",
+        "productivity"
       ],
-      "category": "ai",
+      "category": "web",
       "score": 0,
       "comments_count": 0,
       "reading_time_min": 3,
-      "published_at": "2026-02-17T23:48:51Z",
-      "fetched_at": "2026-02-18T08:13:58.600861+00:00",
+      "published_at": "2026-02-18T02:06:03Z",
+      "fetched_at": "2026-02-18T08:44:57.524640+00:00",
       "language": "en"
     },
     {
@@ -2750,7 +2647,47 @@
       "comments_count": 0,
       "reading_time_min": 2,
       "published_at": "2026-02-17T14:19:16Z",
-      "fetched_at": "2026-02-18T08:13:58.600865+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524643+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Using a Japanese Text Analysis MCP Server with Claude Code -- kuromoji.js",
+      "url": "https://dev.to/shimo4228/using-a-japanese-text-analysis-mcp-server-with-claude-code-kuromojijs-g92",
+      "source": "devto",
+      "description": "The Problem   I asked Claude Code \"how many characters is this article?\" and got back \"about...",
+      "author": "shimo4228",
+      "tags": [
+        "claudecode",
+        "mcp",
+        "nlp",
+        "japanese"
+      ],
+      "category": "ai",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 3,
+      "published_at": "2026-02-17T23:47:38Z",
+      "fetched_at": "2026-02-18T08:44:57.524646+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Using Multiple LLMs with Claude Code — When to Reach for Gemini, ChatGPT, or NotebookLM",
+      "url": "https://dev.to/shimo4228/using-multiple-llms-with-claude-code-when-to-reach-for-gemini-chatgpt-or-notebooklm-2mnm",
+      "source": "devto",
+      "description": "Sometimes One LLM Isn't Enough   The first time I encountered the term ADR (Architecture...",
+      "author": "shimo4228",
+      "tags": [
+        "claudecode",
+        "ai",
+        "gemini",
+        "chatgpt"
+      ],
+      "category": "ai",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 3,
+      "published_at": "2026-02-17T23:48:51Z",
+      "fetched_at": "2026-02-18T08:44:57.524649+00:00",
       "language": "en"
     },
     {
@@ -2770,7 +2707,27 @@
       "comments_count": 0,
       "reading_time_min": 3,
       "published_at": "2026-02-17T23:49:27Z",
-      "fetched_at": "2026-02-18T08:13:58.600868+00:00",
+      "fetched_at": "2026-02-18T08:44:57.524652+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Quantum EDA: From Physics-Led Experiments to Engineering-Scale Design",
+      "url": "https://dev.to/alpinumblogs/quantum-eda-from-physics-led-experiments-to-engineering-scale-design-5jo",
+      "source": "devto",
+      "description": "Introduction: Why Quantum Hardware Needs EDA Discipline   Quantum computing hardware has...",
+      "author": "alpinumblogs",
+      "tags": [
+        "semiconductor",
+        "quantumcomputing",
+        "quantumeda",
+        "designverification"
+      ],
+      "category": "general",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 6,
+      "published_at": "2026-02-18T03:09:12Z",
+      "fetched_at": "2026-02-18T08:44:57.524655+00:00",
       "language": "en"
     }
   ]
