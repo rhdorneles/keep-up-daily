@@ -41,7 +41,6 @@ jobs:
             - name: Run scraper
               env:
                   GH_MODELS_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
-                  GITHUB_TOKEN: ${{ github.token }}
               run: python -m scraper
 
             # ── Commit new data ───────────────────────

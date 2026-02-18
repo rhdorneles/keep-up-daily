@@ -44,17 +44,22 @@ CATEGORY_EMOJI = {
     "general": "📌",
 }
 
-# Token env var – prefer GH_MODELS_TOKEN (user PAT), fall back to GITHUB_TOKEN
-_TOKEN_VARS = ("GH_MODELS_TOKEN", "GITHUB_TOKEN")
+# Token env var – ONLY GH_MODELS_TOKEN works with GitHub Models API.
+# The automatic GITHUB_TOKEN (${{ github.token }}) does NOT have access to
+# models.inference.ai.azure.com and would silently cause a 401 error.
+_TOKEN_VAR = "GH_MODELS_TOKEN"
 
 
 def _get_token() -> str:
-    """Return the first non-empty token from known env vars."""
-    for var in _TOKEN_VARS:
-        val = os.environ.get(var, "").strip()
-        if val:
-            logger.info("Using token from $%s", var)
-            return val
+    """Return the GH_MODELS_TOKEN if set, otherwise empty string."""
+    val = os.environ.get(_TOKEN_VAR, "").strip()
+    if val:
+        masked = val[:4] + "****" + val[-4:] if len(val) > 8 else "****"
+        print(f"[AI] ✓ Found ${_TOKEN_VAR} ({masked})")
+        logger.info("Using token from $%s", _TOKEN_VAR)
+        return val
+    print(f"[AI] ✗ ${_TOKEN_VAR} not set or empty — AI digest disabled")
+    logger.warning("$%s not set or empty", _TOKEN_VAR)
     return ""
 
 
@@ -69,20 +74,26 @@ def create_digest(articles: list[Article]) -> list[dict]:
     """
     token = _get_token()
 
-    if not token or not AI_CONFIG["enabled"]:
-        logger.warning(
-            "AI digest disabled or no token found in %s – using fallback digest",
-            "/".join(_TOKEN_VARS),
-        )
+    if not AI_CONFIG["enabled"]:
+        print("[AI] AI curation is disabled in config")
+        logger.warning("AI digest disabled in config – using fallback")
         return _fallback_digest(articles)
 
+    if not token:
+        print(f"[AI] No ${_TOKEN_VAR} found – using fallback digest")
+        logger.warning("No $%s found – using fallback digest", _TOKEN_VAR)
+        return _fallback_digest(articles)
+
+    print(f"[AI] Calling GitHub Models API with {len(articles)} articles …")
     condensed = _condense_articles(articles)
     digest = _call_ai(condensed, articles, token)
 
     if not digest:
+        print("[AI] ✗ AI returned nothing – falling back to score-based digest")
         logger.warning("AI returned nothing – falling back")
         return _fallback_digest(articles)
 
+    print(f"[AI] ✓ AI digest complete: {len(digest)} entries from {len(articles)} articles")
     logger.info(
         "AI digest complete: %d entries from %d articles", len(digest), len(articles)
     )
@@ -150,7 +161,7 @@ Open with impact — a concrete fact, a surprising number, or a real problem bei
 - Key APIs, function signatures, configuration patterns
 - Performance characteristics: latency, throughput, memory, benchmarks
 - Trade-offs and design choices — what did they optimize for and what did they sacrifice?
-- Code snippets or pseudo-code when helpful (use \`inline code\` formatting)
+- Code snippets or pseudo-code when helpful (use `inline code` formatting)
 - For projects: what language, what dependencies, what's the build/run story?
 - For discussions: what's the core argument, what evidence supports it?
 
@@ -179,7 +190,7 @@ via API..."
 - **Specific > vague** — "Uses HNSW indexing with 4-bit quantization" > "fast vector search"
 - Include concrete details: library names, version numbers, API endpoints, benchmarks
 - Use **bold** for key technical terms, project names, and numbers
-- Use \`inline code\` for function names, CLI commands, config keys
+- Use `inline code` for function names, CLI commands, config keys
 - Bullet lists (- item) for features, comparisons, pros/cons
 - Separate paragraphs with blank lines
 - Be opinionated: "the clever part is…", "this matters because…"
@@ -247,10 +258,19 @@ Respond with ONLY a JSON array (no fences, no commentary):
                 body = exc.response.text[:500]
             except Exception:
                 pass
+        print(f"[AI] ✗ HTTP {code} from Models API — {body[:200]}")
         logger.error("AI HTTP %s: %s | body: %s", code, exc, body)
     except json.JSONDecodeError as exc:
+        print(f"[AI] ✗ AI returned invalid JSON: {exc}")
         logger.error("AI returned invalid JSON: %s", exc)
+    except requests.exceptions.Timeout:
+        print(f"[AI] ✗ Request timed out after {TIMEOUT}s")
+        logger.error("AI request timed out after %ds", TIMEOUT)
+    except requests.exceptions.ConnectionError as exc:
+        print(f"[AI] ✗ Connection error: {exc}")
+        logger.error("AI connection error: %s", exc)
     except Exception as exc:
+        print(f"[AI] ✗ Unexpected error: {type(exc).__name__}: {exc}")
         logger.error("AI digest failed: %s", exc)
 
     return []
