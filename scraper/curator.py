@@ -48,8 +48,14 @@ CATEGORY_EMOJI = {
 # We keep a safe margin and progressively reduce if we hit 413.
 _MAX_AI_ARTICLES = 30          # first attempt
 _MAX_AI_ARTICLES_RETRY = 15    # retry with fewer articles
-_DESC_MAX_CHARS = 120          # trim descriptions to save tokens
-_MAX_OUTPUT_TOKENS = 6144      # enough room for 10-12 entries
+_DESC_MAX_CHARS = 80           # trim descriptions to save tokens
+_MAX_OUTPUT_TOKENS = 5120      # enough for 10-12 concise entries
+
+# Abbreviated source names — saves ~100 input tokens across 30 articles
+_SRC_SHORT = {
+    "devto": "dt", "hackernews": "hn", "github_trending": "gh",
+    "reddit": "rd", "lobsters": "lb", "hashnode": "hs",
+}
 
 # Token env var – ONLY GH_MODELS_TOKEN works with GitHub Models API.
 # The automatic GITHUB_TOKEN (${{ github.token }}) does NOT have access to
@@ -150,20 +156,27 @@ def _select_top_articles(
 
 
 def _condense_articles(articles: list[Article]) -> list[dict]:
-    """Compact representation for the AI — kept small for token budget."""
-    return [
-        {
+    """Compact representation for the AI — kept small for token budget.
+
+    Uses short keys (t/s/cat/d/sc/tg) and abbreviated source names to
+    minimize input tokens while preserving all information the AI needs.
+    """
+    result: list[dict] = []
+    for idx, a in enumerate(articles):
+        item: dict = {
             "id": idx,
-            "title": a.title,
-            "source": a.source,
-            "category": a.category,
-            "desc": (a.description or "")[:_DESC_MAX_CHARS],
-            "score": a.score,
-            "tags": a.tags[:4],
-            "comments": a.comments_count,
+            "t": a.title,
+            "s": _SRC_SHORT.get(a.source, a.source),
+            "cat": a.category,
+            "sc": a.score,
         }
-        for idx, a in enumerate(articles)
-    ]
+        desc = (a.description or "")[:_DESC_MAX_CHARS]
+        if desc:
+            item["d"] = desc
+        if a.tags:
+            item["tg"] = a.tags[:3]
+        result.append(item)
+    return result
 
 
 def _call_ai(
@@ -175,33 +188,19 @@ def _call_ai(
         cat_counts[a.category] += 1
     cat_summary = ", ".join(f"{c}: {n}" for c, n in sorted(cat_counts.items()))
 
-    prompt = f"""You have {len(condensed)} tech articles scraped today.
-Categories: {cat_summary}
+    prompt = f"""{len(condensed)} articles today. Categories: {cat_summary}
+Keys: id, t=title, s=source(dt=devto,hn=hackernews,gh=github,rd=reddit,lb=lobsters,hs=hashnode), cat=category, d=desc, sc=score, tg=tags
 
-Create a developer daily digest. Write 10-12 entries (one per interesting topic).
-Merge related articles into a single entry.
+Write exactly 10-12 digest entries. Merge related articles. Each: self-contained mini-article (100-140 words/language).
+Structure: hook → technical depth (specifics, trade-offs) → practical angle → takeaway.
 
-Each entry is a SELF-CONTAINED mini-article (120-180 words per language).
-Structure: lead (why care?), technical depth (how it works, key details, trade-offs),
-practical angle (when to use it), and a punchy takeaway.
+Rules: **bold** key terms, `code` for names, 4+ categories, English AND Brazilian Portuguese (natural, not translated).
 
-Rules:
-- Be specific: library names, benchmarks, architecture details
-- Use **bold** for key terms, `code` for technical names
-- Cover at least 4 different categories
-- Write English AND Brazilian Portuguese (natural, not translated)
-
-For EACH entry return:
-- title_en, title_pt: specific headline
-- body_en, body_pt: the mini-article
-- category: ai|web|devops|languages|frameworks|security|career|general
-- source_ids: array of article IDs used
+Return JSON array ONLY:
+[{{"title_en":"...","title_pt":"...","body_en":"...","body_pt":"...","category":"ai|web|devops|languages|frameworks|security|career|general","source_ids":[0,3]}}]
 
 Articles:
-{json.dumps(condensed, ensure_ascii=False)}
-
-Respond with ONLY a JSON array:
-[{{"title_en":"...","title_pt":"...","body_en":"...","body_pt":"...","category":"...","source_ids":[0,3]}}]"""
+{json.dumps(condensed, ensure_ascii=False)}"""
 
     prompt_chars = len(prompt)
     print(f"[AI] Sending {len(condensed)} articles to Models API (~{prompt_chars // 4} est. tokens)")
