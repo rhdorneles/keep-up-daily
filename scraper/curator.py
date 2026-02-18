@@ -49,7 +49,7 @@ CATEGORY_EMOJI = {
 _MAX_AI_ARTICLES = 30          # first attempt
 _MAX_AI_ARTICLES_RETRY = 15    # retry with fewer articles
 _DESC_MAX_CHARS = 80           # trim descriptions to save tokens
-_MAX_OUTPUT_TOKENS = 5120      # enough for 10-12 concise entries
+_MAX_OUTPUT_TOKENS = 6144      # 12 entries × ~400 tokens each + JSON overhead
 
 # Abbreviated source names — saves ~100 input tokens across 30 articles
 _SRC_SHORT = {
@@ -237,8 +237,17 @@ Articles:
         )
         resp.raise_for_status()
 
-        raw = resp.json()["choices"][0]["message"]["content"]
-        logger.info("AI response length: %d chars", len(raw))
+        data = resp.json()
+        choice = data["choices"][0]
+        raw = choice["message"]["content"]
+        finish = choice.get("finish_reason", "unknown")
+        usage = data.get("usage", {})
+        logger.info(
+            "AI response: %d chars, finish=%s, tokens=%s",
+            len(raw), finish, usage,
+        )
+        if finish == "length":
+            logger.warning("AI output was TRUNCATED (finish_reason=length)")
         entries = _parse_json(raw)
         logger.info("Parsed %d entries from AI", len(entries))
         return _enrich_entries(entries, articles)
