@@ -44,6 +44,13 @@ CATEGORY_EMOJI = {
     "general": "📌",
 }
 
+# GitHub Models free-tier limits: ~8 000 input tokens for gpt-4o-mini.
+# We keep a safe margin and progressively reduce if we hit 413.
+_MAX_AI_ARTICLES = 25          # first attempt
+_MAX_AI_ARTICLES_RETRY = 12    # retry with fewer articles
+_DESC_MAX_CHARS = 120          # trim descriptions to save tokens
+_MAX_OUTPUT_TOKENS = 4096      # cap output for free tier
+
 # Token env var – ONLY GH_MODELS_TOKEN works with GitHub Models API.
 # The automatic GITHUB_TOKEN (${{ github.token }}) does NOT have access to
 # models.inference.ai.azure.com and would silently cause a 401 error.
@@ -83,9 +90,20 @@ def create_digest(articles: list[Article]) -> list[dict]:
         logger.warning("No $%s found – using fallback digest", _TOKEN_VAR)
         return _fallback_digest(articles)
 
-    print(f"[AI] Calling GitHub Models API with {len(articles)} articles …")
-    condensed = _condense_articles(articles)
-    digest = _call_ai(condensed, articles, token)
+    # Select top articles to stay within GitHub Models token limits
+    selected = _select_top_articles(articles, _MAX_AI_ARTICLES)
+    print(f"[AI] Selected {len(selected)} top articles from {len(articles)} total")
+
+    condensed = _condense_articles(selected)
+    digest = _call_ai(condensed, selected, token)
+
+    # Retry with fewer articles if first attempt returned nothing
+    # (likely a 413 / token-limit error)
+    if not digest and len(selected) > _MAX_AI_ARTICLES_RETRY:
+        retry_selected = _select_top_articles(articles, _MAX_AI_ARTICLES_RETRY)
+        print(f"[AI] Retrying with {len(retry_selected)} articles …")
+        condensed = _condense_articles(retry_selected)
+        digest = _call_ai(condensed, retry_selected, token)
 
     if not digest:
         print("[AI] ✗ AI returned nothing – falling back to score-based digest")
@@ -102,19 +120,47 @@ def create_digest(articles: list[Article]) -> list[dict]:
 # ──────────────────────────────────────────────────
 # AI call
 # ──────────────────────────────────────────────────
+def _select_top_articles(
+    articles: list[Article], max_count: int
+) -> list[Article]:
+    """Pick the top articles by score, diversified across categories.
+
+    Round-robin from each category so the digest covers a broad range.
+    """
+    by_cat: dict[str, list[Article]] = defaultdict(list)
+    for a in articles:
+        by_cat[a.category].append(a)
+
+    for cat in by_cat:
+        by_cat[cat].sort(key=lambda x: x.score, reverse=True)
+
+    selected: list[Article] = []
+    cat_keys = sorted(by_cat.keys())
+    idx = 0
+    while len(selected) < max_count:
+        added = False
+        for cat in cat_keys:
+            if idx < len(by_cat[cat]) and len(selected) < max_count:
+                selected.append(by_cat[cat][idx])
+                added = True
+        idx += 1
+        if not added:
+            break
+    return selected
+
+
 def _condense_articles(articles: list[Article]) -> list[dict]:
-    """Compact representation with richer descriptions for the AI."""
+    """Compact representation for the AI — kept small for token budget."""
     return [
         {
             "id": idx,
             "title": a.title,
             "source": a.source,
             "category": a.category,
-            "desc": (a.description or "")[:500],
+            "desc": (a.description or "")[:_DESC_MAX_CHARS],
             "score": a.score,
-            "tags": a.tags[:6],
+            "tags": a.tags[:4],
             "comments": a.comments_count,
-            "author": a.author,
         }
         for idx, a in enumerate(articles)
     ]
@@ -129,86 +175,36 @@ def _call_ai(
         cat_counts[a.category] += 1
     cat_summary = ", ".join(f"{c}: {n}" for c, n in sorted(cat_counts.items()))
 
-    prompt = f"""You have {len(condensed)} tech articles scraped today from Dev.to, \
-Hacker News, GitHub Trending, Reddit, and Lobsters.
+    prompt = f"""You have {len(condensed)} tech articles scraped today.
+Categories: {cat_summary}
 
-Category breakdown: {cat_summary}
+Create a developer daily digest. Write 8-15 entries (one per interesting topic).
+Merge related articles into a single entry.
 
-**Your mission:** Create a rich daily developer digest. You decide how many entries \
-to write — produce one entry for every genuinely interesting or educational topic \
-you find (typically 15–25, up to {MAX_ENTRIES}). Quality is paramount: a reader \
-should be able to read ONLY your entry and feel they understand the topic without \
-needing to click through to the original.
+Each entry is a SELF-CONTAINED mini-article (150-200 words per language).
+Structure: lead (why care?), technical depth (how it works, key details, trade-offs),
+practical angle (when to use it), and a punchy takeaway.
 
-This is a **developer newsletter people look forward to every morning**. Each entry \
-is a COMPLETE mini-article — after reading it, the developer should have learned \
-something concrete they can use or discuss, not just be aware something exists.
+Rules:
+- Be specific: library names, benchmarks, architecture details
+- Use **bold** for key terms, `code` for technical names
+- Cover at least 4 different categories
+- Write English AND Brazilian Portuguese (natural, not translated)
 
-## WHAT MAKES A GREAT ENTRY
-
-Each entry must be SELF-CONTAINED and EDUCATIONAL. The reader should NOT need the \
-original article. Think of it like a knowledgeable colleague summarizing an article \
-for you at the coffee machine — but with real depth.
-
-**Structure for each entry body (300-400 words per language):**
-
-**Lead paragraph:** What is this about and why should a developer care RIGHT NOW? \
-Open with impact — a concrete fact, a surprising number, or a real problem being solved.
-
-**Technical deep-dive (1-2 paragraphs):** This is the core. Explain HOW it works:
-- Architecture decisions, algorithms, data structures used
-- Key APIs, function signatures, configuration patterns
-- Performance characteristics: latency, throughput, memory, benchmarks
-- Trade-offs and design choices — what did they optimize for and what did they sacrifice?
-- Code snippets or pseudo-code when helpful (use `inline code` formatting)
-- For projects: what language, what dependencies, what's the build/run story?
-- For discussions: what's the core argument, what evidence supports it?
-
-**Practical angle:** When would YOU use this? What real problem does it solve? \
-How does it compare to existing tools? Is it production-ready or experimental? \
-What are the gotchas?
-
-**Takeaway:** One punchy line — the key insight the reader should remember.
-
-## EXAMPLES OF GOOD vs BAD
-
-BAD title: "AI Tools Are Trending"
-GOOD title: "Alibaba's QwQ-32B Matches GPT-4o on Math Reasoning — At 1/10th the Cost"
-
-BAD body: "A new AI tool was released that helps developers write code faster."
-GOOD body: "**QwQ-32B** is a 32-billion parameter reasoning model from Alibaba that \
-uses chain-of-thought prompting natively — no special system prompt needed. In the \
-MATH-500 benchmark it scores 90.6%, just 1.2 points behind GPT-4o, while running \
-on a single A100 GPU. The model uses a Mixture-of-Experts architecture with 8 active \
-experts out of 64 total, which keeps inference cost at roughly $0.15/M input tokens \
-via API..."
-
-## WRITING RULES
-
-- **Merge** related articles (e.g., 3 articles about the same GitHub repo → 1 entry)
-- **Specific > vague** — "Uses HNSW indexing with 4-bit quantization" > "fast vector search"
-- Include concrete details: library names, version numbers, API endpoints, benchmarks
-- Use **bold** for key technical terms, project names, and numbers
-- Use `inline code` for function names, CLI commands, config keys
-- Bullet lists (- item) for features, comparisons, pros/cons
-- Separate paragraphs with blank lines
-- Be opinionated: "the clever part is…", "this matters because…"
-- Vary sentence length — short punchy lines mixed with longer explanations
-- Cover DIVERSE categories — at least 5 different categories across all entries
-- Write both English and Brazilian Portuguese versions (not a translation — \
-  adapt naturally to each language's style)
-
-For EACH entry provide:
-1. **title_en / title_pt** – specific headline hinting at the insight
-2. **body_en / body_pt** – self-contained mini-article (300-400 words each)
-3. **category** – one of: ai, web, devops, languages, frameworks, security, career, general
-4. **source_ids** – array of article IDs that informed the entry
+For EACH entry return:
+- title_en, title_pt: specific headline
+- body_en, body_pt: the mini-article
+- category: ai|web|devops|languages|frameworks|security|career|general
+- source_ids: array of article IDs used
 
 Articles:
 {json.dumps(condensed, ensure_ascii=False)}
 
-Respond with ONLY a JSON array (no fences, no commentary):
-[{{"title_en":"...","title_pt":"...","body_en":"...","body_pt":"...","category":"...","source_ids":[0,3,7]}}]"""
+Respond with ONLY a JSON array:
+[{{"title_en":"...","title_pt":"...","body_en":"...","body_pt":"...","category":"...","source_ids":[0,3]}}]"""
+
+    prompt_chars = len(prompt)
+    print(f"[AI] Sending {len(condensed)} articles to Models API (~{prompt_chars // 4} est. tokens)")
 
     try:
         resp = requests.post(
@@ -223,21 +219,16 @@ Respond with ONLY a JSON array (no fences, no commentary):
                     {
                         "role": "system",
                         "content": (
-                            "You are a senior developer and tech journalist writing a "
-                            "daily newsletter. Your readers are professional developers "
-                            "who want to LEARN from each entry — they should finish "
-                            "feeling they understand a topic deeply enough to discuss "
-                            "it at work, without reading the original source. "
-                            "Every entry is a self-contained mini-article with real "
-                            "technical depth: architecture, APIs, benchmarks, trade-offs. "
-                            "Write in both English and Brazilian Portuguese. "
-                            "Respond ONLY with valid JSON."
+                            "You are a senior tech journalist writing a developer "
+                            "newsletter. Each entry is a self-contained mini-article "
+                            "with technical depth. Write English and Brazilian "
+                            "Portuguese. Respond ONLY with valid JSON."
                         ),
                     },
                     {"role": "user", "content": prompt},
                 ],
                 "temperature": TEMPERATURE,
-                "max_tokens": 16000,
+                "max_tokens": _MAX_OUTPUT_TOKENS,
             },
             timeout=TIMEOUT,
         )
