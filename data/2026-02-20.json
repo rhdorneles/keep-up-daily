@@ -1,67 +1,72 @@
 {
   "date": "2026-02-20",
-  "generated_at": "2026-02-20T14:36:42.095961+00:00",
+  "generated_at": "2026-02-20T19:57:07.277357+00:00",
   "digest": [
     {
-      "title_en": "Gemini 3.1 Pro: The Future of AI",
-      "title_pt": "Gemini 3.1 Pro: O Futuro da IA",
-      "body_en": "**Gemini 3.1 Pro** is making waves in the AI community with its advanced capabilities. This latest version enhances user interaction through improved natural language processing and more intuitive responses. Developers can leverage its robust API to integrate AI seamlessly into applications, making it a game-changer for businesses. The takeaway? Embracing tools like Gemini can significantly enhance user experience and operational efficiency in tech.",
-      "body_pt": "**Gemini 3.1 Pro** está causando impacto na comunidade de IA com suas capacidades avançadas. Esta versão mais recente melhora a interação do usuário por meio de um processamento de linguagem natural aprimorado e respostas mais intuitivas. Os desenvolvedores podem aproveitar sua API robusta para integrar IA de forma contínua em aplicativos, tornando-se um divisor de águas para empresas. A lição? Abraçar ferramentas como o Gemini pode melhorar significativamente a experiência do usuário e a eficiência operacional na tecnologia.",
+      "title_en": "vxcontrol/pentagi",
+      "title_pt": "vxcontrol/pentagi",
+      "body_en": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks\n\nTags: `go`\n\nCommunity buzz: **1,310** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks\n\nTags: `go`\n\nRepercussão: **1,310** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
       "category": "ai",
       "emoji": "🤖",
       "sources": [
         {
-          "title": "Gemini 3.1 Pro",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-          "source": "hackernews"
-        }
-      ]
-    },
-    {
-      "title_en": "Building a Startup on European Infrastructure",
-      "title_pt": "Construindo uma Startup em Infraestrutura Europeia",
-      "body_en": "Exploring the challenges of building a startup entirely on **European infrastructure** reveals both advantages and hurdles. The emphasis on data privacy and compliance with regulations like GDPR can enhance user trust but may also slow down development. Entrepreneurs must weigh the benefits of a secure environment against the complexities of navigating these regulations. The key takeaway? Understanding your infrastructure can make or break your startup's success.",
-      "body_pt": "Explorar os desafios de construir uma startup inteiramente em **infraestrutura europeia** revela tanto vantagens quanto obstáculos. A ênfase na privacidade de dados e na conformidade com regulamentos como o GDPR pode aumentar a confiança do usuário, mas também pode atrasar o desenvolvimento. Os empreendedores devem pesar os benefícios de um ambiente seguro contra as complexidades de navegar por esses regulamentos. A lição principal? Compreender sua infraestrutura pode determinar o sucesso ou fracasso da sua startup.",
-      "category": "devops",
-      "emoji": "☁️",
-      "sources": [
-        {
-          "title": "I tried building my startup entirely on European infrastructure",
-          "url": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
-          "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
-          "source": "hackernews"
-        }
-      ]
-    },
-    {
-      "title_en": "Open Source Payments with Hyperswitch",
-      "title_pt": "Pagamentos Open Source com Hyperswitch",
-      "body_en": "The **Hyperswitch** project is revolutionizing payment systems by providing an open-source solution built with **Rust**. This enables developers to create fast and reliable payment services without vendor lock-in. Its modular architecture allows for easy customization, making it a suitable choice for startups looking to innovate in the payment space. The takeaway? Open-source solutions like Hyperswitch can empower developers and foster creativity in financial technology.",
-      "body_pt": "O projeto **Hyperswitch** está revolucionando os sistemas de pagamento ao fornecer uma solução open-source construída com **Rust**. Isso permite que os desenvolvedores criem serviços de pagamento rápidos e confiáveis sem dependência de fornecedores. Sua arquitetura modular permite fácil personalização, tornando-a uma escolha adequada para startups que buscam inovar no espaço de pagamentos. A lição? Soluções open-source como o Hyperswitch podem capacitar desenvolvedores e fomentar a criatividade na tecnologia financeira.",
-      "category": "career",
-      "emoji": "🚀",
-      "sources": [
-        {
-          "title": "juspay/hyperswitch",
-          "url": "https://github.com/juspay/hyperswitch",
-          "source": "github_trending"
-        },
-        {
-          "title": "GraphiteEditor/Graphite",
-          "url": "https://github.com/GraphiteEditor/Graphite",
+          "title": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
           "source": "github_trending"
         }
       ]
     },
     {
-      "title_en": "Creating Fast Desktop Apps with Electrobun",
-      "title_pt": "Criando Aplicativos Desktop Rápidos com Electrobun",
-      "body_en": "**Electrobun** is a powerful framework that allows developers to build ultra-fast, tiny, and cross-platform desktop applications using **TypeScript**. This framework simplifies the development process by providing essential tools and libraries, enabling developers to focus on creating unique features. The takeaway? Leveraging frameworks like Electrobun can significantly reduce development time while enhancing application performance.",
-      "body_pt": "**Electrobun** é um poderoso framework que permite aos desenvolvedores criar aplicativos desktop ultra-rápidos, pequenos e multiplataforma usando **TypeScript**. Este framework simplifica o processo de desenvolvimento ao fornecer ferramentas e bibliotecas essenciais, permitindo que os desenvolvedores se concentrem na criação de recursos exclusivos. A lição? Aproveitar frameworks como o Electrobun pode reduzir significativamente o tempo de desenvolvimento enquanto melhora o desempenho do aplicativo.",
+      "title_en": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+      "title_pt": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+      "body_en": "**Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI** caught attention in the ai & machine learning space today.\n\nAuthor: **lairv**\n\nCommunity buzz: **520** points, **115** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI** chamou atenção no mundo de ia & machine learning hoje.\n\nAutor: **lairv**\n\nRepercussão: **520** pontos, **115** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "ai",
+      "emoji": "🤖",
+      "sources": [
+        {
+          "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+          "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+          "source": "hackernews"
+        }
+      ]
+    },
+    {
+      "title_en": "harvard-edge/cs249r_book",
+      "title_pt": "harvard-edge/cs249r_book",
+      "body_en": "Introduction to Machine Learning Systems\n\nTags: `javascript`\n\nCommunity buzz: **489** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Introduction to Machine Learning Systems\n\nTags: `javascript`\n\nRepercussão: **489** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "ai",
+      "emoji": "🤖",
+      "sources": [
+        {
+          "title": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "RichardAtCT/claude-code-telegram",
+      "title_pt": "RichardAtCT/claude-code-telegram",
+      "body_en": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.\n\nTags: `python`\n\nCommunity buzz: **426** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.\n\nTags: `python`\n\nRepercussão: **426** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "ai",
+      "emoji": "🤖",
+      "sources": [
+        {
+          "title": "RichardAtCT/claude-code-telegram",
+          "url": "https://github.com/RichardAtCT/claude-code-telegram",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "blackboardsh/electrobun",
+      "title_pt": "blackboardsh/electrobun",
+      "body_en": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.\n\nTags: `c++`\n\nCommunity buzz: **435** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.\n\nTags: `c++`\n\nRepercussão: **435** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
       "category": "web",
       "emoji": "🌐",
       "sources": [
@@ -73,10 +78,190 @@
       ]
     },
     {
-      "title_en": "AI-Supportive CRM/ERP Framework",
-      "title_pt": "Framework CRM/ERP com Suporte a IA",
-      "body_en": "The **open-mercato** framework is designed to power CRM and ERP systems with AI capabilities. Built to enhance research and development processes, it offers a solid foundation for businesses looking to innovate. By integrating AI, companies can streamline operations and improve decision-making. The takeaway? Investing in AI-supportive frameworks can transform traditional business processes into more efficient and intelligent systems.",
-      "body_pt": "O framework **open-mercato** foi projetado para potencializar sistemas CRM e ERP com capacidades de IA. Construído para aprimorar processos de pesquisa e desenvolvimento, oferece uma base sólida para empresas que buscam inovar. Ao integrar IA, as empresas podem otimizar operações e melhorar a tomada de decisões. A lição? Investir em frameworks com suporte a IA pode transformar processos empresariais tradicionais em sistemas mais eficientes e inteligentes.",
+      "title_en": "Web Components: The Framework-Free Renaissance",
+      "title_pt": "Web Components: The Framework-Free Renaissance",
+      "body_en": "**Web Components: The Framework-Free Renaissance** caught attention in the web development space today.\n\nAuthor: **mpweiher**\n\nCommunity buzz: **162** points, **106** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**Web Components: The Framework-Free Renaissance** chamou atenção no mundo de desenvolvimento web hoje.\n\nAutor: **mpweiher**\n\nRepercussão: **162** pontos, **106** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "web",
+      "emoji": "🌐",
+      "sources": [
+        {
+          "title": "Web Components: The Framework-Free Renaissance",
+          "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
+          "source": "hackernews"
+        }
+      ]
+    },
+    {
+      "title_en": "github/awesome-copilot",
+      "title_pt": "github/awesome-copilot",
+      "body_en": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.\n\nTags: `javascript`\n\nCommunity buzz: **133** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.\n\nTags: `javascript`\n\nRepercussão: **133** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "web",
+      "emoji": "🌐",
+      "sources": [
+        {
+          "title": "github/awesome-copilot",
+          "url": "https://github.com/github/awesome-copilot",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "p2r3/convert",
+      "title_pt": "p2r3/convert",
+      "body_en": "Truly universal online file converter\n\nTags: `typescript`\n\nCommunity buzz: **132** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Truly universal online file converter\n\nTags: `typescript`\n\nRepercussão: **132** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "web",
+      "emoji": "🌐",
+      "sources": [
+        {
+          "title": "p2r3/convert",
+          "url": "https://github.com/p2r3/convert",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
+      "title_pt": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
+      "body_en": "**Infrastructure decisions I endorse or regret after 4 years at a startup (2024)** caught attention in the devops & cloud space today.\n\nAuthor: **Meetvelde**\n\nCommunity buzz: **442** points, **195** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**Infrastructure decisions I endorse or regret after 4 years at a startup (2024)** chamou atenção no mundo de devops & nuvem hoje.\n\nAutor: **Meetvelde**\n\nRepercussão: **442** pontos, **195** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "devops",
+      "emoji": "☁️",
+      "sources": [
+        {
+          "title": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
+          "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
+          "source": "hackernews"
+        }
+      ]
+    },
+    {
+      "title_en": "hashicorp/terraform",
+      "title_pt": "hashicorp/terraform",
+      "body_en": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.\n\nTags: `go`\n\nCommunity buzz: **48** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.\n\nTags: `go`\n\nRepercussão: **48** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "devops",
+      "emoji": "☁️",
+      "sources": [
+        {
+          "title": "hashicorp/terraform",
+          "url": "https://github.com/hashicorp/terraform",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "aquasecurity/trivy",
+      "title_pt": "aquasecurity/trivy",
+      "body_en": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more\n\nTags: `go`\n\nCommunity buzz: **37** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more\n\nTags: `go`\n\nRepercussão: **37** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "devops",
+      "emoji": "☁️",
+      "sources": [
+        {
+          "title": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "firecracker-microvm/firecracker",
+      "title_pt": "firecracker-microvm/firecracker",
+      "body_en": "Secure and fast microVMs for serverless computing.\n\nTags: `rust`\n\nCommunity buzz: **23** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Secure and fast microVMs for serverless computing.\n\nTags: `rust`\n\nRepercussão: **23** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "devops",
+      "emoji": "☁️",
+      "sources": [
+        {
+          "title": "firecracker-microvm/firecracker",
+          "url": "https://github.com/firecracker-microvm/firecracker",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "freemocap/freemocap",
+      "title_pt": "freemocap/freemocap",
+      "body_en": "Free Motion Capture for Everyone 💀✨\n\nTags: `python`\n\nCommunity buzz: **503** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Free Motion Capture for Everyone 💀✨\n\nTags: `python`\n\nRepercussão: **503** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "languages",
+      "emoji": "💻",
+      "sources": [
+        {
+          "title": "freemocap/freemocap",
+          "url": "https://github.com/freemocap/freemocap",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "google-research/timesfm",
+      "title_pt": "google-research/timesfm",
+      "body_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.\n\nTags: `python`\n\nCommunity buzz: **438** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.\n\nTags: `python`\n\nRepercussão: **438** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "languages",
+      "emoji": "💻",
+      "sources": [
+        {
+          "title": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "666ghj/MiroFish",
+      "title_pt": "666ghj/MiroFish",
+      "body_en": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物\n\nTags: `python`\n\nCommunity buzz: **139** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物\n\nTags: `python`\n\nRepercussão: **139** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "languages",
+      "emoji": "💻",
+      "sources": [
+        {
+          "title": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "roboflow/trackers",
+      "title_pt": "roboflow/trackers",
+      "body_en": "Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.\n\nTags: `python`\n\nCommunity buzz: **127** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.\n\nTags: `python`\n\nRepercussão: **127** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "languages",
+      "emoji": "💻",
+      "sources": [
+        {
+          "title": "roboflow/trackers",
+          "url": "https://github.com/roboflow/trackers",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "obra/superpowers",
+      "title_pt": "obra/superpowers",
+      "body_en": "An agentic skills framework & software development methodology that works.\n\nTags: `shell`\n\nCommunity buzz: **980** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "An agentic skills framework & software development methodology that works.\n\nTags: `shell`\n\nRepercussão: **980** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "frameworks",
+      "emoji": "🧩",
+      "sources": [
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "open-mercato/open-mercato",
+      "title_pt": "open-mercato/open-mercato",
+      "body_en": "AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!\n\nTags: `typescript`\n\nCommunity buzz: **358** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!\n\nTags: `typescript`\n\nRepercussão: **358** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
       "category": "frameworks",
       "emoji": "🧩",
       "sources": [
@@ -88,10 +273,25 @@
       ]
     },
     {
-      "title_en": "FastAPI: High-Performance Web Framework",
-      "title_pt": "FastAPI: Framework Web de Alta Performance",
-      "body_en": "**FastAPI** is gaining traction as a leading web framework due to its high performance and ease of use. Designed for building APIs quickly, it leverages Python's features to ensure rapid development without sacrificing quality. Developers appreciate its automatic generation of documentation and validation. The takeaway? FastAPI can significantly speed up the development process while maintaining robust functionality.",
-      "body_pt": "**FastAPI** está ganhando destaque como um dos principais frameworks web devido à sua alta performance e facilidade de uso. Projetado para construir APIs rapidamente, aproveita os recursos do Python para garantir um desenvolvimento ágil sem sacrificar a qualidade. Os desenvolvedores apreciam sua geração automática de documentação e validação. A lição? O FastAPI pode acelerar significativamente o processo de desenvolvimento enquanto mantém uma funcionalidade robusta.",
+      "title_en": "avelino/awesome-go",
+      "title_pt": "avelino/awesome-go",
+      "body_en": "A curated list of awesome Go frameworks, libraries and software\n\nTags: `go`\n\nCommunity buzz: **155** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "A curated list of awesome Go frameworks, libraries and software\n\nTags: `go`\n\nRepercussão: **155** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "frameworks",
+      "emoji": "🧩",
+      "sources": [
+        {
+          "title": "avelino/awesome-go",
+          "url": "https://github.com/avelino/awesome-go",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "fastapi/fastapi",
+      "title_pt": "fastapi/fastapi",
+      "body_en": "FastAPI framework, high performance, easy to learn, fast to code, ready for production\n\nTags: `python`\n\nCommunity buzz: **80** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "FastAPI framework, high performance, easy to learn, fast to code, ready for production\n\nTags: `python`\n\nRepercussão: **80** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
       "category": "frameworks",
       "emoji": "🧩",
       "sources": [
@@ -103,40 +303,145 @@
       ]
     },
     {
-      "title_en": "Understanding Cyber Threat Intelligence",
-      "title_pt": "Entendendo a Inteligência de Ameaças Cibernéticas",
-      "body_en": "The **OpenCTI** platform provides a comprehensive solution for managing cyber threat intelligence. It enables organizations to collect, analyze, and share threat data effectively. By using this platform, companies can enhance their security posture and respond proactively to threats. The takeaway? Investing in robust threat intelligence platforms is crucial for staying ahead of cyber threats.",
-      "body_pt": "A plataforma **OpenCTI** oferece uma solução abrangente para gerenciar a inteligência de ameaças cibernéticas. Ela permite que as organizações coletem, analisem e compartilhem dados de ameaças de forma eficaz. Ao usar esta plataforma, as empresas podem melhorar sua postura de segurança e responder proativamente a ameaças. A lição? Investir em plataformas robustas de inteligência de ameaças é crucial para se manter à frente das ameaças cibernéticas.",
+      "title_en": "Paged Out! #8",
+      "title_pt": "Paged Out! #8",
+      "body_en": "**Paged Out! #8** caught attention in the security space today.\n\nTags: `ai`, `pdf`, `programming`, `security` · Author: **Toric**\n\nCommunity buzz: **76** points, **13** comments, via **Lobsters**. Check the original source below for the full story.",
+      "body_pt": "**Paged Out! #8** chamou atenção no mundo de segurança hoje.\n\nTags: `ai`, `pdf`, `programming`, `security` · Autor: **Toric**\n\nRepercussão: **76** pontos, **13** comentários, via **Lobsters**. Confira a fonte original abaixo para a matéria completa.",
       "category": "security",
       "emoji": "🔒",
       "sources": [
         {
-          "title": "OpenCTI-Platform/opencti",
-          "url": "https://github.com/OpenCTI-Platform/opencti",
-          "source": "github_trending"
-        }
-      ]
-    },
-    {
-      "title_en": "Linux CVE Assignment Process",
-      "title_pt": "Processo de Atribuição de CVE no Linux",
-      "body_en": "The **Linux CVE assignment process** is essential for identifying and managing vulnerabilities in the Linux ecosystem. This structured approach helps maintain the integrity of systems by ensuring that vulnerabilities are documented and addressed promptly. Understanding this process is vital for developers and security professionals alike. The takeaway? Effective vulnerability management is key to maintaining secure software environments.",
-      "body_pt": "O **processo de atribuição de CVE no Linux** é essencial para identificar e gerenciar vulnerabilidades no ecossistema Linux. Essa abordagem estruturada ajuda a manter a integridade dos sistemas, garantindo que as vulnerabilidades sejam documentadas e tratadas prontamente. Compreender esse processo é vital para desenvolvedores e profissionais de segurança. A lição? A gestão eficaz de vulnerabilidades é fundamental para manter ambientes de software seguros.",
-      "category": "security",
-      "emoji": "🔒",
-      "sources": [
-        {
-          "title": "Linux CVE assignment process",
-          "url": "http://www.kroah.com/log/blog/2026/02/16/linux-cve-assignment-process/",
+          "title": "Paged Out! #8",
+          "url": "https://pagedout.institute/download/PagedOut_008.pdf",
           "source": "lobsters"
         }
       ]
     },
     {
-      "title_en": "The Path to Ubiquitous AI",
-      "title_pt": "O Caminho para a IA Ubíqua",
-      "body_en": "Exploring the **path to ubiquitous AI** reveals exciting advancements in machine learning and automation. With systems capable of processing vast amounts of data at incredible speeds, the potential for AI integration in everyday applications is vast. This evolution promises to enhance productivity and innovation across industries. The takeaway? Embracing ubiquitous AI can lead to transformative changes in how we live and work.",
-      "body_pt": "Explorar o **caminho para a IA ubíqua** revela avanços empolgantes em aprendizado de máquina e automação. Com sistemas capazes de processar grandes quantidades de dados em velocidades incríveis, o potencial para a integração de IA em aplicações do dia a dia é vasto. Essa evolução promete aumentar a produtividade e a inovação em diversos setores. A lição? Abraçar a IA ubíqua pode levar a mudanças transformadoras em como vivemos e trabalhamos.",
+      "title_en": "Making frontier cybersecurity capabilities available to defenders",
+      "title_pt": "Making frontier cybersecurity capabilities available to defenders",
+      "body_en": "**Making frontier cybersecurity capabilities available to defenders** caught attention in the security space today.\n\nAuthor: **surprisetalk**\n\nCommunity buzz: **41** points, **14** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**Making frontier cybersecurity capabilities available to defenders** chamou atenção no mundo de segurança hoje.\n\nAutor: **surprisetalk**\n\nRepercussão: **41** pontos, **14** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "security",
+      "emoji": "🔒",
+      "sources": [
+        {
+          "title": "Making frontier cybersecurity capabilities available to defenders",
+          "url": "https://www.anthropic.com/news/claude-code-security",
+          "source": "hackernews"
+        }
+      ]
+    },
+    {
+      "title_en": "Keep Android Open",
+      "title_pt": "Keep Android Open",
+      "body_en": "**Keep Android Open** caught attention in the security space today.\n\nTags: `mobile`, `privacy`, `security` · Author: **pauloxnet**\n\nCommunity buzz: **23** points, **2** comments, via **Lobsters**. Check the original source below for the full story.",
+      "body_pt": "**Keep Android Open** chamou atenção no mundo de segurança hoje.\n\nTags: `mobile`, `privacy`, `security` · Autor: **pauloxnet**\n\nRepercussão: **23** pontos, **2** comentários, via **Lobsters**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "security",
+      "emoji": "🔒",
+      "sources": [
+        {
+          "title": "Keep Android Open",
+          "url": "https://keepandroidopen.org/",
+          "source": "lobsters"
+        }
+      ]
+    },
+    {
+      "title_en": "I found a Vulnerability. They found a Lawyer",
+      "title_pt": "I found a Vulnerability. They found a Lawyer",
+      "body_en": "**I found a Vulnerability. They found a Lawyer** caught attention in the security space today.\n\nAuthor: **toomuchtodo**\n\nCommunity buzz: **22** points, **2** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**I found a Vulnerability. They found a Lawyer** chamou atenção no mundo de segurança hoje.\n\nAutor: **toomuchtodo**\n\nRepercussão: **22** pontos, **2** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "security",
+      "emoji": "🔒",
+      "sources": [
+        {
+          "title": "I found a Vulnerability. They found a Lawyer",
+          "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+          "source": "hackernews"
+        }
+      ]
+    },
+    {
+      "title_en": "juspay/hyperswitch",
+      "title_pt": "juspay/hyperswitch",
+      "body_en": "An open source payments switch written in Rust to make payments fast, reliable and affordable\n\nTags: `rust`\n\nCommunity buzz: **169** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "An open source payments switch written in Rust to make payments fast, reliable and affordable\n\nTags: `rust`\n\nRepercussão: **169** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "career",
+      "emoji": "🚀",
+      "sources": [
+        {
+          "title": "juspay/hyperswitch",
+          "url": "https://github.com/juspay/hyperswitch",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "I’ve Mentored 37 Junior Developers. Here’s What They All Get Wrong (And Why It’s Not Their Fault)",
+      "title_pt": "I’ve Mentored 37 Junior Developers. Here’s What They All Get Wrong (And Why It’s Not Their Fault)",
+      "body_en": "I’ve been writing code long enough to remember when Stack Overflow didn’t exist.  If you didn’t know...\n\nTags: `career`, `programming`, `discuss`, `beginners` · Author: **art_light**\n\nCommunity buzz: **53** points, **17** comments, via **Devto**. Check the original source below for the full story.",
+      "body_pt": "I’ve been writing code long enough to remember when Stack Overflow didn’t exist.  If you didn’t know...\n\nTags: `career`, `programming`, `discuss`, `beginners` · Autor: **art_light**\n\nRepercussão: **53** pontos, **17** comentários, via **Devto**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "career",
+      "emoji": "🚀",
+      "sources": [
+        {
+          "title": "I’ve Mentored 37 Junior Developers. Here’s What They All Get Wrong (And Why It’s Not Their Fault)",
+          "url": "https://dev.to/art_light/ive-mentored-37-junior-developers-heres-what-they-all-get-wrong-and-why-its-not-their-fault-hdn",
+          "source": "devto"
+        }
+      ]
+    },
+    {
+      "title_en": "GraphiteEditor/Graphite",
+      "title_pt": "GraphiteEditor/Graphite",
+      "body_en": "Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing\n\nTags: `rust`\n\nCommunity buzz: **35** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing\n\nTags: `rust`\n\nRepercussão: **35** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "career",
+      "emoji": "🚀",
+      "sources": [
+        {
+          "title": "GraphiteEditor/Graphite",
+          "url": "https://github.com/GraphiteEditor/Graphite",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "pocketbase/pocketbase",
+      "title_pt": "pocketbase/pocketbase",
+      "body_en": "Open Source realtime backend in 1 file\n\nTags: `go`\n\nCommunity buzz: **32** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Open Source realtime backend in 1 file\n\nTags: `go`\n\nRepercussão: **32** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "career",
+      "emoji": "🚀",
+      "sources": [
+        {
+          "title": "pocketbase/pocketbase",
+          "url": "https://github.com/pocketbase/pocketbase",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "Trump's global tariffs struck down by US Supreme Court",
+      "title_pt": "Trump's global tariffs struck down by US Supreme Court",
+      "body_en": "**Trump's global tariffs struck down by US Supreme Court** caught attention in the general tech space today.\n\nAuthor: **blackguardx**\n\nCommunity buzz: **893** points, **719** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**Trump's global tariffs struck down by US Supreme Court** chamou atenção no mundo de tecnologia em geral hoje.\n\nAutor: **blackguardx**\n\nRepercussão: **893** pontos, **719** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "general",
+      "emoji": "📌",
+      "sources": [
+        {
+          "title": "Trump's global tariffs struck down by US Supreme Court",
+          "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
+          "source": "hackernews"
+        }
+      ]
+    },
+    {
+      "title_en": "The path to ubiquitous AI (17k tokens/sec)",
+      "title_pt": "The path to ubiquitous AI (17k tokens/sec)",
+      "body_en": "**The path to ubiquitous AI (17k tokens/sec)** caught attention in the general tech space today.\n\nAuthor: **sidnarsipur**\n\nCommunity buzz: **578** points, **342** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**The path to ubiquitous AI (17k tokens/sec)** chamou atenção no mundo de tecnologia em geral hoje.\n\nAutor: **sidnarsipur**\n\nRepercussão: **578** pontos, **342** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
       "category": "general",
       "emoji": "📌",
       "sources": [
@@ -146,9 +451,39 @@
           "source": "hackernews"
         }
       ]
+    },
+    {
+      "title_en": "I found a useful Git one liner buried in leaked CIA developer docs",
+      "title_pt": "I found a useful Git one liner buried in leaked CIA developer docs",
+      "body_en": "**I found a useful Git one liner buried in leaked CIA developer docs** caught attention in the general tech space today.\n\nAuthor: **spencerldixon**\n\nCommunity buzz: **475** points, **184** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**I found a useful Git one liner buried in leaked CIA developer docs** chamou atenção no mundo de tecnologia em geral hoje.\n\nAutor: **spencerldixon**\n\nRepercussão: **475** pontos, **184** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "general",
+      "emoji": "📌",
+      "sources": [
+        {
+          "title": "I found a useful Git one liner buried in leaked CIA developer docs",
+          "url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
+          "source": "hackernews"
+        }
+      ]
+    },
+    {
+      "title_en": "AI is not a coworker, it's an exoskeleton",
+      "title_pt": "AI is not a coworker, it's an exoskeleton",
+      "body_en": "**AI is not a coworker, it's an exoskeleton** caught attention in the general tech space today.\n\nAuthor: **benbeingbin**\n\nCommunity buzz: **456** points, **465** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**AI is not a coworker, it's an exoskeleton** chamou atenção no mundo de tecnologia em geral hoje.\n\nAutor: **benbeingbin**\n\nRepercussão: **456** pontos, **465** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "general",
+      "emoji": "📌",
+      "sources": [
+        {
+          "title": "AI is not a coworker, it's an exoskeleton",
+          "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+          "source": "hackernews"
+        }
+      ]
     }
   ],
-  "digest_count": 9,
+  "digest_count": 32,
   "raw_article_count": 170,
   "sources": [
     "devto",
@@ -157,6 +492,23 @@
     "lobsters"
   ],
   "articles": [
+    {
+      "title": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "source": "github_trending",
+      "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "ai",
+      "score": 1310,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:58.545096+00:00",
+      "language": "en"
+    },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
@@ -171,54 +523,52 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:12.058222+00:00",
+      "fetched_at": "2026-02-20T19:56:58.546462+00:00",
       "language": "en"
     },
     {
-      "title": "blackboardsh/electrobun",
-      "url": "https://github.com/blackboardsh/electrobun",
-      "source": "github_trending",
-      "description": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
-      "author": "",
-      "tags": [
-        "c++"
-      ],
-      "category": "web",
-      "score": 951,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:12.057303+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Gemini 3.1 Pro",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "title": "Trump's global tariffs struck down by US Supreme Court",
+      "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
       "source": "hackernews",
       "description": "",
-      "author": "MallocVoidstar",
-      "tags": [],
-      "category": "ai",
-      "score": 845,
-      "comments_count": 852,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:08.119239+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Show HN: Micasa – track your house from the terminal",
-      "url": "https://micasa.dev",
-      "source": "hackernews",
-      "description": "",
-      "author": "cpcloud",
+      "author": "blackguardx",
       "tags": [],
       "category": "general",
-      "score": 588,
-      "comments_count": 189,
+      "score": 893,
+      "comments_count": 719,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:09.851258+00:00",
+      "fetched_at": "2026-02-20T19:56:52.875855+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The path to ubiquitous AI (17k tokens/sec)",
+      "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
+      "source": "hackernews",
+      "description": "",
+      "author": "sidnarsipur",
+      "tags": [],
+      "category": "general",
+      "score": 578,
+      "comments_count": 342,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:54.045624+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+      "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+      "source": "hackernews",
+      "description": "",
+      "author": "lairv",
+      "tags": [],
+      "category": "ai",
+      "score": 520,
+      "comments_count": 115,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:49.836715+00:00",
       "language": "en"
     },
     {
@@ -235,22 +585,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:12.062391+00:00",
-      "language": "en"
-    },
-    {
-      "title": "I tried building my startup entirely on European infrastructure",
-      "url": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
-      "source": "hackernews",
-      "description": "",
-      "author": "willy__",
-      "tags": [],
-      "category": "devops",
-      "score": 493,
-      "comments_count": 259,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:09.222860+00:00",
+      "fetched_at": "2026-02-20T19:56:58.550640+00:00",
       "language": "en"
     },
     {
@@ -267,24 +602,52 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:14.882981+00:00",
+      "fetched_at": "2026-02-20T19:57:01.158843+00:00",
       "language": "en"
     },
     {
-      "title": "p2r3/convert",
-      "url": "https://github.com/p2r3/convert",
-      "source": "github_trending",
-      "description": "Truly universal online file converter",
-      "author": "",
-      "tags": [
-        "typescript"
-      ],
-      "category": "web",
-      "score": 456,
-      "comments_count": 0,
+      "title": "I found a useful Git one liner buried in leaked CIA developer docs",
+      "url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
+      "source": "hackernews",
+      "description": "",
+      "author": "spencerldixon",
+      "tags": [],
+      "category": "general",
+      "score": 475,
+      "comments_count": 184,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:16.119363+00:00",
+      "fetched_at": "2026-02-20T19:56:49.995533+00:00",
+      "language": "en"
+    },
+    {
+      "title": "AI is not a coworker, it's an exoskeleton",
+      "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+      "source": "hackernews",
+      "description": "",
+      "author": "benbeingbin",
+      "tags": [],
+      "category": "general",
+      "score": 456,
+      "comments_count": 465,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:55.729438+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
+      "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
+      "source": "hackernews",
+      "description": "",
+      "author": "Meetvelde",
+      "tags": [],
+      "category": "devops",
+      "score": 442,
+      "comments_count": 195,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:56.042848+00:00",
       "language": "en"
     },
     {
@@ -301,7 +664,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:12.057704+00:00",
+      "fetched_at": "2026-02-20T19:56:58.545967+00:00",
       "language": "en"
     },
     {
@@ -318,7 +681,56 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:12.060710+00:00",
+      "fetched_at": "2026-02-20T19:56:58.548963+00:00",
+      "language": "en"
+    },
+    {
+      "title": "blackboardsh/electrobun",
+      "url": "https://github.com/blackboardsh/electrobun",
+      "source": "github_trending",
+      "description": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
+      "author": "",
+      "tags": [
+        "c++"
+      ],
+      "category": "web",
+      "score": 435,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:58.545544+00:00",
+      "language": "en"
+    },
+    {
+      "title": "RichardAtCT/claude-code-telegram",
+      "url": "https://github.com/RichardAtCT/claude-code-telegram",
+      "source": "github_trending",
+      "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "ai",
+      "score": 426,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:59.709598+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Keep Android Open",
+      "url": "https://f-droid.org/2026/02/20/twif.html",
+      "source": "hackernews",
+      "description": "",
+      "author": "LorenDB",
+      "tags": [],
+      "category": "general",
+      "score": 404,
+      "comments_count": 135,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:49.677334+00:00",
       "language": "en"
     },
     {
@@ -335,54 +747,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:14.883808+00:00",
-      "language": "en"
-    },
-    {
-      "title": "US plans online portal to bypass content bans in Europe and elsewhere",
-      "url": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
-      "source": "hackernews",
-      "description": "",
-      "author": "c420",
-      "tags": [],
-      "category": "general",
-      "score": 388,
-      "comments_count": 716,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:10.025577+00:00",
-      "language": "en"
-    },
-    {
-      "title": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "source": "github_trending",
-      "description": "An open-source AI agent that lives in your terminal.",
-      "author": "",
-      "tags": [
-        "typescript"
-      ],
-      "category": "ai",
-      "score": 370,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:16.116081+00:00",
-      "language": "en"
-    },
-    {
-      "title": "The path to ubiquitous AI (17k tokens/sec)",
-      "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-      "source": "hackernews",
-      "description": "",
-      "author": "sidnarsipur",
-      "tags": [],
-      "category": "general",
-      "score": 360,
-      "comments_count": 242,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:07.157313+00:00",
+      "fetched_at": "2026-02-20T19:57:01.159632+00:00",
       "language": "en"
     },
     {
@@ -399,163 +764,67 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:16.118544+00:00",
+      "fetched_at": "2026-02-20T19:57:02.328448+00:00",
       "language": "en"
     },
     {
-      "title": "AI is not a coworker, it's an exoskeleton",
-      "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+      "title": "Child's Play: Tech's new generation and the end of thinking",
+      "url": "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/",
       "source": "hackernews",
       "description": "",
-      "author": "benbeingbin",
+      "author": "ramimac",
       "tags": [],
       "category": "general",
-      "score": 354,
-      "comments_count": 383,
+      "score": 240,
+      "comments_count": 151,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:08.896947+00:00",
+      "fetched_at": "2026-02-20T19:56:54.200930+00:00",
       "language": "en"
     },
     {
-      "title": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
-      "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
+      "title": "Facebook is absolutely cooked",
+      "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
       "source": "hackernews",
       "description": "",
-      "author": "Meetvelde",
-      "tags": [],
-      "category": "devops",
-      "score": 337,
-      "comments_count": 146,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:09.422847+00:00",
-      "language": "en"
-    },
-    {
-      "title": "America vs. Singapore: You can't save your way out of economic shocks",
-      "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
-      "source": "hackernews",
-      "description": "",
-      "author": "guardianbob",
+      "author": "npilk",
       "tags": [],
       "category": "general",
-      "score": 294,
-      "comments_count": 434,
+      "score": 197,
+      "comments_count": 150,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:10.743315+00:00",
+      "fetched_at": "2026-02-20T19:56:53.868480+00:00",
       "language": "en"
     },
     {
-      "title": "FreeCAD",
-      "url": "https://www.freecad.org/index.php",
+      "title": "PayPal discloses data breach that exposed user info for 6 months",
+      "url": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
       "source": "hackernews",
       "description": "",
-      "author": "doener",
+      "author": "el_duderino",
       "tags": [],
       "category": "general",
-      "score": 274,
-      "comments_count": 99,
+      "score": 196,
+      "comments_count": 57,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:09.703342+00:00",
+      "fetched_at": "2026-02-20T19:56:54.620691+00:00",
       "language": "en"
     },
     {
-      "title": "OpenCTI-Platform/opencti",
-      "url": "https://github.com/OpenCTI-Platform/opencti",
-      "source": "github_trending",
-      "description": "Open Cyber Threat Intelligence Platform",
-      "author": "",
-      "tags": [
-        "typescript"
-      ],
-      "category": "web",
-      "score": 234,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:16.115643+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Defer available in gcc and clang",
-      "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
+      "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+      "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
       "source": "hackernews",
       "description": "",
-      "author": "r4um",
+      "author": "zagwdt",
       "tags": [],
       "category": "general",
-      "score": 221,
-      "comments_count": 173,
+      "score": 188,
+      "comments_count": 81,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:08.753775+00:00",
-      "language": "en"
-    },
-    {
-      "title": "ComposioHQ/composio",
-      "url": "https://github.com/ComposioHQ/composio",
-      "source": "github_trending",
-      "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
-      "author": "",
-      "tags": [
-        "typescript"
-      ],
-      "category": "ai",
-      "score": 218,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:12.062776+00:00",
-      "language": "en"
-    },
-    {
-      "title": "A beginner's guide to split keyboards",
-      "url": "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/",
-      "source": "hackernews",
-      "description": "",
-      "author": "thehaikuza",
-      "tags": [],
-      "category": "general",
-      "score": 184,
-      "comments_count": 192,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:10.321169+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
-      "url": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
-      "source": "hackernews",
-      "description": "",
-      "author": "zerosizedweasle",
-      "tags": [],
-      "category": "ai",
-      "score": 174,
-      "comments_count": 123,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:07.438343+00:00",
-      "language": "en"
-    },
-    {
-      "title": "RichardAtCT/claude-code-telegram",
-      "url": "https://github.com/RichardAtCT/claude-code-telegram",
-      "source": "github_trending",
-      "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
-      "author": "",
-      "tags": [
-        "python"
-      ],
-      "category": "ai",
-      "score": 174,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:13.317514+00:00",
+      "fetched_at": "2026-02-20T19:56:55.572546+00:00",
       "language": "en"
     },
     {
@@ -572,7 +841,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:16.117375+00:00",
+      "fetched_at": "2026-02-20T19:57:02.327264+00:00",
       "language": "en"
     },
     {
@@ -589,22 +858,37 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:17.253075+00:00",
+      "fetched_at": "2026-02-20T19:57:03.628903+00:00",
       "language": "en"
     },
     {
-      "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
-      "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
+      "title": "Web Components: The Framework-Free Renaissance",
+      "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
       "source": "hackernews",
       "description": "",
-      "author": "zagwdt",
+      "author": "mpweiher",
       "tags": [],
-      "category": "general",
+      "category": "web",
       "score": 162,
-      "comments_count": 53,
+      "comments_count": 106,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:08.418543+00:00",
+      "fetched_at": "2026-02-20T19:56:55.408371+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
+      "url": "https://jimmyhmiller.com/learn-codebase-visualizer",
+      "source": "hackernews",
+      "description": "",
+      "author": "andreabergia",
+      "tags": [],
+      "category": "general",
+      "score": 160,
+      "comments_count": 27,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:54.464513+00:00",
       "language": "en"
     },
     {
@@ -621,24 +905,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.354627+00:00",
-      "language": "en"
-    },
-    {
-      "title": "how openai, the US government, and persona built an identity surveillance machine that files reports on you to the feds",
-      "url": "https://vmfunc.re/blog/persona/",
-      "source": "lobsters",
-      "description": "",
-      "author": "kriive",
-      "tags": [
-        "security"
-      ],
-      "category": "ai",
-      "score": 140,
-      "comments_count": 26,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238939+00:00",
+      "fetched_at": "2026-02-20T19:57:05.588805+00:00",
       "language": "en"
     },
     {
@@ -655,7 +922,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:13.318678+00:00",
+      "fetched_at": "2026-02-20T19:56:59.710816+00:00",
       "language": "en"
     },
     {
@@ -672,7 +939,24 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:14.882568+00:00",
+      "fetched_at": "2026-02-20T19:57:01.158406+00:00",
+      "language": "en"
+    },
+    {
+      "title": "p2r3/convert",
+      "url": "https://github.com/p2r3/convert",
+      "source": "github_trending",
+      "description": "Truly universal online file converter",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "web",
+      "score": 132,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:02.329254+00:00",
       "language": "en"
     },
     {
@@ -689,24 +973,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:13.318304+00:00",
-      "language": "en"
-    },
-    {
-      "title": "upstash/context7",
-      "url": "https://github.com/upstash/context7",
-      "source": "github_trending",
-      "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
-      "author": "",
-      "tags": [
-        "typescript"
-      ],
-      "category": "ai",
-      "score": 128,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:16.121237+00:00",
+      "fetched_at": "2026-02-20T19:56:59.710420+00:00",
       "language": "en"
     },
     {
@@ -723,7 +990,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:12.061176+00:00",
+      "fetched_at": "2026-02-20T19:56:58.549415+00:00",
       "language": "en"
     },
     {
@@ -740,39 +1007,69 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:13.317898+00:00",
+      "fetched_at": "2026-02-20T19:56:59.710017+00:00",
       "language": "en"
     },
     {
-      "title": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
+      "title": "No Skill. No Taste",
+      "url": "https://blog.kinglycrow.com/no-skill-no-taste/",
+      "source": "hackernews",
+      "description": "",
+      "author": "ianbutler",
+      "tags": [],
+      "category": "general",
+      "score": 123,
+      "comments_count": 128,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:55.250782+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Raspberry Pi Pico 2 at 873.5MHz with 3.05V Core Abuse",
+      "url": "https://learn.pimoroni.com/article/overclocking-the-pico-2",
+      "source": "hackernews",
+      "description": "",
+      "author": "Lwrless",
+      "tags": [],
+      "category": "general",
+      "score": 113,
+      "comments_count": 35,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:55.094700+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Minions – Stripe's Coding Agents Part 2",
+      "url": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2",
+      "source": "hackernews",
+      "description": "",
+      "author": "ludovicianul",
+      "tags": [],
+      "category": "general",
+      "score": 113,
+      "comments_count": 57,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:56.848328+00:00",
+      "language": "en"
+    },
+    {
+      "title": "upstash/context7",
+      "url": "https://github.com/upstash/context7",
       "source": "github_trending",
-      "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
       "author": "",
       "tags": [
-        "go"
+        "typescript"
       ],
       "category": "ai",
-      "score": 110,
+      "score": 105,
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:12.056824+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-      "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-      "source": "hackernews",
-      "description": "",
-      "author": "lairv",
-      "tags": [],
-      "category": "ai",
-      "score": 99,
-      "comments_count": 15,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:06.599835+00:00",
+      "fetched_at": "2026-02-20T19:57:02.331166+00:00",
       "language": "en"
     },
     {
@@ -789,52 +1086,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:16.116968+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
-      "url": "https://github.com/olvvier/apple-silicon-accelerometer",
-      "source": "hackernews",
-      "description": "",
-      "author": "todsacerdoti",
-      "tags": [],
-      "category": "general",
-      "score": 94,
-      "comments_count": 50,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:09.057798+00:00",
-      "language": "en"
-    },
-    {
-      "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
-      "url": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
-      "source": "hackernews",
-      "description": "",
-      "author": "neelc",
-      "tags": [],
-      "category": "general",
-      "score": 93,
-      "comments_count": 77,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:10.599631+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Pi for Excel: AI sidebar add-in for Excel",
-      "url": "https://github.com/tmustier/pi-for-excel",
-      "source": "hackernews",
-      "description": "",
-      "author": "rahimnathwani",
-      "tags": [],
-      "category": "general",
-      "score": 90,
-      "comments_count": 25,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:10.932756+00:00",
+      "fetched_at": "2026-02-20T19:57:02.326871+00:00",
       "language": "en"
     },
     {
@@ -850,60 +1102,11 @@
         "unix"
       ],
       "category": "general",
-      "score": 89,
+      "score": 96,
       "comments_count": 14,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238860+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Web Components: The Framework-Free Renaissance",
-      "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
-      "source": "hackernews",
-      "description": "",
-      "author": "mpweiher",
-      "tags": [],
-      "category": "web",
-      "score": 88,
-      "comments_count": 51,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:07.957978+00:00",
-      "language": "en"
-    },
-    {
-      "title": "typst/typst",
-      "url": "https://github.com/typst/typst",
-      "source": "github_trending",
-      "description": "A markup-based typesetting system that is powerful and easy to learn.",
-      "author": "",
-      "tags": [
-        "rust"
-      ],
-      "category": "general",
-      "score": 88,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:17.256859+00:00",
-      "language": "en"
-    },
-    {
-      "title": "mui/material-ui",
-      "url": "https://github.com/mui/material-ui",
-      "source": "github_trending",
-      "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
-      "author": "",
-      "tags": [
-        "javascript"
-      ],
-      "category": "web",
-      "score": 83,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:14.888641+00:00",
+      "fetched_at": "2026-02-20T19:57:06.842388+00:00",
       "language": "en"
     },
     {
@@ -920,22 +1123,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:13.317122+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
-      "url": "https://jimmyhmiller.com/learn-codebase-visualizer",
-      "source": "hackernews",
-      "description": "",
-      "author": "andreabergia",
-      "tags": [],
-      "category": "general",
-      "score": 79,
-      "comments_count": 17,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:07.292146+00:00",
+      "fetched_at": "2026-02-20T19:56:59.709180+00:00",
       "language": "en"
     },
     {
@@ -952,7 +1140,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.350715+00:00",
+      "fetched_at": "2026-02-20T19:57:05.584912+00:00",
       "language": "en"
     },
     {
@@ -968,28 +1156,65 @@
         "security"
       ],
       "category": "security",
-      "score": 74,
-      "comments_count": 8,
+      "score": 76,
+      "comments_count": 13,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238929+00:00",
+      "fetched_at": "2026-02-20T19:57:06.842454+00:00",
       "language": "en"
     },
     {
-      "title": "argoproj/argo-cd",
-      "url": "https://github.com/argoproj/argo-cd",
+      "title": "ComposioHQ/composio",
+      "url": "https://github.com/ComposioHQ/composio",
       "source": "github_trending",
-      "description": "Declarative Continuous Deployment for Kubernetes",
+      "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
       "author": "",
       "tags": [
-        "go"
+        "typescript"
       ],
-      "category": "devops",
-      "score": 70,
+      "category": "ai",
+      "score": 74,
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.350325+00:00",
+      "fetched_at": "2026-02-20T19:56:58.551051+00:00",
+      "language": "en"
+    },
+    {
+      "title": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "source": "github_trending",
+      "description": "An open-source AI agent that lives in your terminal.",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "ai",
+      "score": 71,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:02.325893+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Congrats to the \"New Year, New You\" Portfolio Challenge Winners and Runner-Ups!",
+      "url": "https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h",
+      "source": "devto",
+      "description": "The results are in! We are thrilled to announce the winners of the New Year, New You Portfolio...",
+      "author": "jess",
+      "tags": [
+        "devchallenge",
+        "googleaichallenge",
+        "gemini",
+        "career"
+      ],
+      "category": "ai",
+      "score": 68,
+      "comments_count": 26,
+      "reading_time_min": 4,
+      "published_at": "2026-02-19T20:34:23Z",
+      "fetched_at": "2026-02-20T19:56:49.411591+00:00",
       "language": "en"
     },
     {
@@ -1006,39 +1231,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:16.118151+00:00",
-      "language": "en"
-    },
-    {
-      "title": "spf13/cobra",
-      "url": "https://github.com/spf13/cobra",
-      "source": "github_trending",
-      "description": "A Commander for modern Go CLI interactions",
-      "author": "",
-      "tags": [
-        "go"
-      ],
-      "category": "general",
-      "score": 67,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.351654+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Raspberry Pi Pico 2 at 873.5MHz with 3.05V Core Abuse",
-      "url": "https://learn.pimoroni.com/article/overclocking-the-pico-2",
-      "source": "hackernews",
-      "description": "",
-      "author": "Lwrless",
-      "tags": [],
-      "category": "general",
-      "score": 65,
-      "comments_count": 11,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:08.563708+00:00",
+      "fetched_at": "2026-02-20T19:57:02.328055+00:00",
       "language": "en"
     },
     {
@@ -1055,7 +1248,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:12.059913+00:00",
+      "fetched_at": "2026-02-20T19:56:58.548168+00:00",
       "language": "en"
     },
     {
@@ -1072,7 +1265,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:12.059013+00:00",
+      "fetched_at": "2026-02-20T19:56:58.547262+00:00",
       "language": "en"
     },
     {
@@ -1089,27 +1282,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:13.319175+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Congrats to the \"New Year, New You\" Portfolio Challenge Winners and Runner-Ups!",
-      "url": "https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h",
-      "source": "devto",
-      "description": "The results are in! We are thrilled to announce the winners of the New Year, New You Portfolio...",
-      "author": "jess",
-      "tags": [
-        "devchallenge",
-        "googleaichallenge",
-        "gemini",
-        "career"
-      ],
-      "category": "ai",
-      "score": 58,
-      "comments_count": 23,
-      "reading_time_min": 4,
-      "published_at": "2026-02-19T20:34:23Z",
-      "fetched_at": "2026-02-20T14:36:06.423956+00:00",
+      "fetched_at": "2026-02-20T19:56:59.711321+00:00",
       "language": "en"
     },
     {
@@ -1126,73 +1299,74 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:17.251624+00:00",
+      "fetched_at": "2026-02-20T19:57:03.627463+00:00",
       "language": "en"
     },
     {
-      "title": "GraphiteEditor/Graphite",
-      "url": "https://github.com/GraphiteEditor/Graphite",
-      "source": "github_trending",
-      "description": "Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing",
-      "author": "",
-      "tags": [
-        "rust"
-      ],
-      "category": "career",
-      "score": 57,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:17.253962+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Crosstalk-Solutions/unifi-toolkit",
-      "url": "https://github.com/Crosstalk-Solutions/unifi-toolkit",
-      "source": "github_trending",
-      "description": "A suite of tools for UniFi network management",
-      "author": "",
-      "tags": [
-        "python"
-      ],
-      "category": "languages",
-      "score": 56,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:13.316681+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Minions – Stripe's Coding Agents Part 2",
-      "url": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2",
+      "title": "Lil' Fun Langs",
+      "url": "https://taylor.town/scrapscript-000",
       "source": "hackernews",
       "description": "",
-      "author": "ludovicianul",
+      "author": "surprisetalk",
       "tags": [],
       "category": "general",
-      "score": 52,
-      "comments_count": 28,
+      "score": 54,
+      "comments_count": 3,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:07.793794+00:00",
+      "fetched_at": "2026-02-20T19:56:50.310883+00:00",
       "language": "en"
     },
     {
-      "title": "surrealdb/surrealdb",
-      "url": "https://github.com/surrealdb/surrealdb",
-      "source": "github_trending",
-      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
-      "author": "",
-      "tags": [
-        "rust"
-      ],
-      "category": "languages",
-      "score": 52,
-      "comments_count": 0,
+      "title": "Notes on Clarifying Man Pages",
+      "url": "https://jvns.ca/blog/2026/02/18/man-pages/",
+      "source": "hackernews",
+      "description": "",
+      "author": "surprisetalk",
+      "tags": [],
+      "category": "general",
+      "score": 54,
+      "comments_count": 38,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:17.256369+00:00",
+      "fetched_at": "2026-02-20T19:56:56.690692+00:00",
+      "language": "en"
+    },
+    {
+      "title": "I’ve Mentored 37 Junior Developers. Here’s What They All Get Wrong (And Why It’s Not Their Fault)",
+      "url": "https://dev.to/art_light/ive-mentored-37-junior-developers-heres-what-they-all-get-wrong-and-why-its-not-their-fault-hdn",
+      "source": "devto",
+      "description": "I’ve been writing code long enough to remember when Stack Overflow didn’t exist.  If you didn’t know...",
+      "author": "art_light",
+      "tags": [
+        "career",
+        "programming",
+        "discuss",
+        "beginners"
+      ],
+      "category": "career",
+      "score": 53,
+      "comments_count": 17,
+      "reading_time_min": 3,
+      "published_at": "2026-02-20T08:03:43Z",
+      "fetched_at": "2026-02-20T19:56:49.411618+00:00",
+      "language": "en"
+    },
+    {
+      "title": "AI makes you boring",
+      "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
+      "source": "lobsters",
+      "description": "",
+      "author": "informal",
+      "tags": [
+        "vibecoding"
+      ],
+      "category": "general",
+      "score": 52,
+      "comments_count": 21,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:06.842426+00:00",
       "language": "en"
     },
     {
@@ -1209,37 +1383,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:14.885166+00:00",
+      "fetched_at": "2026-02-20T19:57:01.161005+00:00",
       "language": "en"
     },
     {
-      "title": "Silicon Valley engineers were indicted for allegedly sending secrets to Iran",
-      "url": "https://www.cnbc.com/2026/02/20/three-engineers-charged-stealing-google-trade-secrets-data-iran-soc-snapdragon.html",
+      "title": "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
+      "url": "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/",
       "source": "hackernews",
       "description": "",
-      "author": "giuliomagnifico",
+      "author": "debo_",
       "tags": [],
-      "category": "general",
+      "category": "frameworks",
       "score": 49,
-      "comments_count": 8,
+      "comments_count": 4,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:10.170269+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Fast KV Compaction via Attention Matching",
-      "url": "https://arxiv.org/abs/2602.16284",
-      "source": "hackernews",
-      "description": "",
-      "author": "cbracketdash",
-      "tags": [],
-      "category": "general",
-      "score": 49,
-      "comments_count": 3,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:10.459369+00:00",
+      "fetched_at": "2026-02-20T19:56:55.885809+00:00",
       "language": "en"
     },
     {
@@ -1256,7 +1415,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:17.257746+00:00",
+      "fetched_at": "2026-02-20T19:57:03.633473+00:00",
       "language": "en"
     },
     {
@@ -1273,7 +1432,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.352454+00:00",
+      "fetched_at": "2026-02-20T19:57:05.586622+00:00",
       "language": "en"
     },
     {
@@ -1290,7 +1449,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:14.887759+00:00",
+      "fetched_at": "2026-02-20T19:57:01.163611+00:00",
       "language": "en"
     },
     {
@@ -1307,7 +1466,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:16.119849+00:00",
+      "fetched_at": "2026-02-20T19:57:02.329744+00:00",
       "language": "en"
     },
     {
@@ -1324,64 +1483,39 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:17.252162+00:00",
+      "fetched_at": "2026-02-20T19:57:03.628005+00:00",
       "language": "en"
     },
     {
-      "title": "I’ve Mentored 37 Junior Developers. Here’s What They All Get Wrong (And Why It’s Not Their Fault)",
-      "url": "https://dev.to/art_light/ive-mentored-37-junior-developers-heres-what-they-all-get-wrong-and-why-its-not-their-fault-hdn",
-      "source": "devto",
-      "description": "I’ve been writing code long enough to remember when Stack Overflow didn’t exist.  If you didn’t know...",
-      "author": "art_light",
+      "title": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "source": "github_trending",
+      "description": "A markup-based typesetting system that is powerful and easy to learn.",
+      "author": "",
       "tags": [
-        "career",
-        "programming",
-        "discuss",
-        "beginners"
-      ],
-      "category": "career",
-      "score": 44,
-      "comments_count": 10,
-      "reading_time_min": 3,
-      "published_at": "2026-02-20T08:03:43Z",
-      "fetched_at": "2026-02-20T14:36:06.423963+00:00",
-      "language": "en"
-    },
-    {
-      "title": "AI makes you boring",
-      "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
-      "source": "lobsters",
-      "description": "",
-      "author": "informal",
-      "tags": [
-        "vibecoding"
+        "rust"
       ],
       "category": "general",
-      "score": 43,
+      "score": 42,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:03.632603+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Making frontier cybersecurity capabilities available to defenders",
+      "url": "https://www.anthropic.com/news/claude-code-security",
+      "source": "hackernews",
+      "description": "",
+      "author": "surprisetalk",
+      "tags": [],
+      "category": "security",
+      "score": 41,
       "comments_count": 14,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238885+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Why did you become a Developer?",
-      "url": "https://dev.to/francistrdev/why-did-you-become-a-developer-57ea",
-      "source": "devto",
-      "description": "We all have our origin stories. Maybe you were born to become a programmer or you started off when...",
-      "author": "francistrdev",
-      "tags": [
-        "discuss",
-        "community",
-        "programming",
-        "mentalhealth"
-      ],
-      "category": "career",
-      "score": 42,
-      "comments_count": 37,
-      "reading_time_min": 2,
-      "published_at": "2026-02-19T19:43:51Z",
-      "fetched_at": "2026-02-20T14:36:06.423933+00:00",
+      "fetched_at": "2026-02-20T19:56:50.468004+00:00",
       "language": "en"
     },
     {
@@ -1398,22 +1532,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.349522+00:00",
+      "fetched_at": "2026-02-20T19:57:05.583708+00:00",
       "language": "en"
     },
     {
-      "title": "I found a useful Git one liner buried in leaked CIA developer docs",
-      "url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
+      "title": "The Popper Principle",
+      "url": "https://theamericanscholar.org/the-popper-principle/",
       "source": "hackernews",
       "description": "",
-      "author": "spencerldixon",
+      "author": "lermontov",
       "tags": [],
       "category": "general",
-      "score": 38,
-      "comments_count": 8,
+      "score": 40,
+      "comments_count": 23,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:06.744615+00:00",
+      "fetched_at": "2026-02-20T19:56:54.779698+00:00",
       "language": "en"
     },
     {
@@ -1430,7 +1564,46 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:12.058621+00:00",
+      "fetched_at": "2026-02-20T19:56:58.546866+00:00",
+      "language": "en"
+    },
+    {
+      "title": "How to Build a Research Assistant using Deep Agents",
+      "url": "https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg",
+      "source": "devto",
+      "description": "LangChain's Deep Agents provide a new way to build structured, multi-agent systems that can plan,...",
+      "author": "anmolbaranwal",
+      "tags": [
+        "react",
+        "programming",
+        "javascript",
+        "tutorial"
+      ],
+      "category": "web",
+      "score": 36,
+      "comments_count": 1,
+      "reading_time_min": 21,
+      "published_at": "2026-02-20T14:22:05Z",
+      "fetched_at": "2026-02-20T19:56:49.411638+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Choosing a Language Based on its Syntax?",
+      "url": "https://www.gingerbill.org/article/2026/02/19/choosing-a-language-based-on-syntax/",
+      "source": "lobsters",
+      "description": "",
+      "author": "gingerBill",
+      "tags": [
+        "design",
+        "plt",
+        "programming"
+      ],
+      "category": "general",
+      "score": 36,
+      "comments_count": 40,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:06.842423+00:00",
       "language": "en"
     },
     {
@@ -1447,26 +1620,59 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:12.061986+00:00",
+      "fetched_at": "2026-02-20T19:56:58.550253+00:00",
       "language": "en"
     },
     {
-      "title": "Choosing a Language Based on its Syntax?",
-      "url": "https://www.gingerbill.org/article/2026/02/19/choosing-a-language-based-on-syntax/",
-      "source": "lobsters",
-      "description": "",
-      "author": "gingerBill",
+      "title": "GraphiteEditor/Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite",
+      "source": "github_trending",
+      "description": "Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing",
+      "author": "",
       "tags": [
-        "design",
-        "plt",
-        "programming"
+        "rust"
       ],
-      "category": "general",
-      "score": 33,
-      "comments_count": 37,
+      "category": "career",
+      "score": 35,
+      "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238874+00:00",
+      "fetched_at": "2026-02-20T19:57:03.629785+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The Dillo Appreciation Post",
+      "url": "https://bobbyhiltz.com/posts/2026/02/dillo-appreciation/",
+      "source": "lobsters",
+      "description": "",
+      "author": "wezm",
+      "tags": [
+        "browsers"
+      ],
+      "category": "web",
+      "score": 35,
+      "comments_count": 3,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:06.842430+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Lindenmayer Systems",
+      "url": "https://justinpombrio.net/2026/02/16/l-systems.html",
+      "source": "lobsters",
+      "description": "",
+      "author": "justinpombrio",
+      "tags": [
+        "art",
+        "math"
+      ],
+      "category": "general",
+      "score": 34,
+      "comments_count": 11,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:06.842395+00:00",
       "language": "en"
     },
     {
@@ -1483,22 +1689,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.355834+00:00",
-      "language": "en"
-    },
-    {
-      "title": "PayPal discloses data breach that exposed user info for 6 months",
-      "url": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
-      "source": "hackernews",
-      "description": "",
-      "author": "el_duderino",
-      "tags": [],
-      "category": "general",
-      "score": 31,
-      "comments_count": 2,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:07.661320+00:00",
+      "fetched_at": "2026-02-20T19:57:05.590017+00:00",
       "language": "en"
     },
     {
@@ -1515,7 +1706,39 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:16.116480+00:00",
+      "fetched_at": "2026-02-20T19:57:02.326311+00:00",
+      "language": "en"
+    },
+    {
+      "title": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "source": "github_trending",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "frameworks",
+      "score": 31,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:03.628505+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Visible Spectra of the Elements",
+      "url": "https://atomic-spectra.net/",
+      "source": "hackernews",
+      "description": "",
+      "author": "djoldman",
+      "tags": [],
+      "category": "general",
+      "score": 30,
+      "comments_count": 2,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:56.222264+00:00",
       "language": "en"
     },
     {
@@ -1532,7 +1755,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:12.059520+00:00",
+      "fetched_at": "2026-02-20T19:56:58.547762+00:00",
       "language": "en"
     },
     {
@@ -1549,22 +1772,25 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:17.253471+00:00",
+      "fetched_at": "2026-02-20T19:57:03.629289+00:00",
       "language": "en"
     },
     {
-      "title": "Notes on Clarifying Man Pages",
-      "url": "https://jvns.ca/blog/2026/02/18/man-pages/",
-      "source": "hackernews",
+      "title": "Your Personal Blog Should Have Comments",
+      "url": "https://medv.io/blog/your-personal-blog-should-have-comments",
+      "source": "lobsters",
       "description": "",
-      "author": "surprisetalk",
-      "tags": [],
+      "author": "antonmedv",
+      "tags": [
+        "philosophy",
+        "rant"
+      ],
       "category": "general",
-      "score": 27,
-      "comments_count": 11,
+      "score": 28,
+      "comments_count": 106,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:09.569026+00:00",
+      "fetched_at": "2026-02-20T19:57:06.842374+00:00",
       "language": "en"
     },
     {
@@ -1581,7 +1807,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:14.883416+00:00",
+      "fetched_at": "2026-02-20T19:57:01.159245+00:00",
       "language": "en"
     },
     {
@@ -1594,29 +1820,28 @@
         "rust"
       ],
       "category": "ai",
-      "score": 27,
+      "score": 26,
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:17.254770+00:00",
+      "fetched_at": "2026-02-20T19:57:03.630575+00:00",
       "language": "en"
     },
     {
-      "title": "Linux CVE assignment process",
-      "url": "http://www.kroah.com/log/blog/2026/02/16/linux-cve-assignment-process/",
-      "source": "lobsters",
-      "description": "",
-      "author": "gregkh",
+      "title": "surrealdb/surrealdb",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "source": "github_trending",
+      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+      "author": "",
       "tags": [
-        "linux",
-        "security"
+        "rust"
       ],
-      "category": "security",
+      "category": "languages",
       "score": 26,
-      "comments_count": 7,
+      "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238934+00:00",
+      "fetched_at": "2026-02-20T19:57:03.632126+00:00",
       "language": "en"
     },
     {
@@ -1633,7 +1858,24 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:16.120347+00:00",
+      "fetched_at": "2026-02-20T19:57:02.330265+00:00",
+      "language": "en"
+    },
+    {
+      "title": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "source": "github_trending",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "languages",
+      "score": 25,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:03.630975+00:00",
       "language": "en"
     },
     {
@@ -1650,24 +1892,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.353737+00:00",
-      "language": "en"
-    },
-    {
-      "title": "The Dillo Appreciation Post",
-      "url": "https://bobbyhiltz.com/posts/2026/02/dillo-appreciation/",
-      "source": "lobsters",
-      "description": "",
-      "author": "wezm",
-      "tags": [
-        "browsers"
-      ],
-      "category": "web",
-      "score": 25,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238899+00:00",
+      "fetched_at": "2026-02-20T19:57:05.587914+00:00",
       "language": "en"
     },
     {
@@ -1684,7 +1909,56 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:17.255958+00:00",
+      "fetched_at": "2026-02-20T19:57:03.631730+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Keep Android Open",
+      "url": "https://keepandroidopen.org/",
+      "source": "lobsters",
+      "description": "",
+      "author": "pauloxnet",
+      "tags": [
+        "mobile",
+        "privacy",
+        "security"
+      ],
+      "category": "security",
+      "score": 23,
+      "comments_count": 2,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:06.842416+00:00",
+      "language": "en"
+    },
+    {
+      "title": "I found a Vulnerability. They found a Lawyer",
+      "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+      "source": "hackernews",
+      "description": "",
+      "author": "toomuchtodo",
+      "tags": [],
+      "category": "security",
+      "score": 22,
+      "comments_count": 2,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:50.153297+00:00",
+      "language": "en"
+    },
+    {
+      "title": "KFC, Nando's, and others ditch chicken welfare pledge",
+      "url": "https://www.bbc.co.uk/news/articles/cm2r6jqm042o",
+      "source": "hackernews",
+      "description": "",
+      "author": "penguin_booze",
+      "tags": [],
+      "category": "general",
+      "score": 22,
+      "comments_count": 5,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:57.165788+00:00",
       "language": "en"
     },
     {
@@ -1701,7 +1975,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:12.061602+00:00",
+      "fetched_at": "2026-02-20T19:56:58.549854+00:00",
       "language": "en"
     },
     {
@@ -1718,24 +1992,41 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:13.319561+00:00",
+      "fetched_at": "2026-02-20T19:56:59.711709+00:00",
       "language": "en"
     },
     {
-      "title": "DioxusLabs/dioxus",
-      "url": "https://github.com/DioxusLabs/dioxus",
+      "title": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
       "source": "github_trending",
-      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "description": "A Commander for modern Go CLI interactions",
       "author": "",
       "tags": [
-        "rust"
+        "go"
       ],
-      "category": "frameworks",
+      "category": "general",
+      "score": 22,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:05.585790+00:00",
+      "language": "en"
+    },
+    {
+      "title": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "source": "github_trending",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "devops",
       "score": 21,
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:17.252669+00:00",
+      "fetched_at": "2026-02-20T19:57:05.584509+00:00",
       "language": "en"
     },
     {
@@ -1753,7 +2044,22 @@
       "comments_count": 11,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238914+00:00",
+      "fetched_at": "2026-02-20T19:57:06.842457+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Wikipedia bans Archive.today after site executed DDoS and altered web captures",
+      "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+      "source": "hackernews",
+      "description": "",
+      "author": "nobody9999",
+      "tags": [],
+      "category": "general",
+      "score": 20,
+      "comments_count": 12,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:56.533906+00:00",
       "language": "en"
     },
     {
@@ -1770,22 +2076,24 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:14.884655+00:00",
+      "fetched_at": "2026-02-20T19:57:01.160437+00:00",
       "language": "en"
     },
     {
-      "title": "How to Stop Being Boring",
-      "url": "https://www.joanwestenberg.com/how-to-stop-being-boring/",
-      "source": "hackernews",
+      "title": "\"Made in EU\" - it was harder than I thought",
+      "url": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
+      "source": "lobsters",
       "description": "",
-      "author": "surprisetalk",
-      "tags": [],
+      "author": "fcbsd",
+      "tags": [
+        "practices"
+      ],
       "category": "general",
-      "score": 19,
-      "comments_count": 7,
+      "score": 20,
+      "comments_count": 4,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:07.016489+00:00",
+      "fetched_at": "2026-02-20T19:57:06.842384+00:00",
       "language": "en"
     },
     {
@@ -1802,40 +2110,42 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:17.255572+00:00",
+      "fetched_at": "2026-02-20T19:57:03.631353+00:00",
       "language": "en"
     },
     {
-      "title": "Lindenmayer Systems",
-      "url": "https://justinpombrio.net/2026/02/16/l-systems.html",
+      "title": "eBPF the Hard Way",
+      "url": "https://feyor.sh/blog/ebpf-the-hard-way",
       "source": "lobsters",
       "description": "",
-      "author": "justinpombrio",
+      "author": "Shorden",
       "tags": [
-        "art",
-        "math"
+        "assembly",
+        "zig"
       ],
-      "category": "general",
-      "score": 18,
-      "comments_count": 6,
+      "category": "languages",
+      "score": 19,
+      "comments_count": 1,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238879+00:00",
+      "fetched_at": "2026-02-20T19:57:06.842380+00:00",
       "language": "en"
     },
     {
-      "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
-      "url": "https://github.com/IronsideXXVI/Hacker-News",
-      "source": "hackernews",
+      "title": "The Claude C Compiler: What It Reveals About the Future of Software",
+      "url": "https://www.modular.com/blog/the-claude-c-compiler-what-it-reveals-about-the-future-of-software",
+      "source": "lobsters",
       "description": "",
-      "author": "IronsideXXVI",
-      "tags": [],
-      "category": "languages",
-      "score": 17,
-      "comments_count": 9,
+      "author": "rrampage",
+      "tags": [
+        "vibecoding"
+      ],
+      "category": "ai",
+      "score": 18,
+      "comments_count": 10,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:06.879544+00:00",
+      "fetched_at": "2026-02-20T19:57:06.842433+00:00",
       "language": "en"
     },
     {
@@ -1852,41 +2162,27 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.356248+00:00",
+      "fetched_at": "2026-02-20T19:57:05.590412+00:00",
       "language": "en"
     },
     {
-      "title": "Using the Browser’s <canvas> for Data Compression",
-      "url": "https://jstrieb.github.io/posts/canvas-compress/",
-      "source": "lobsters",
-      "description": "",
-      "author": "jstrieb",
+      "title": "The Meter Was Always Running",
+      "url": "https://dev.to/dannwaneri/the-meter-was-always-running-44c4",
+      "source": "devto",
+      "description": "On the All-In podcast (episode #261), Jason Calacanis revealed his AI agents cost $300 a day. Each....",
+      "author": "dannwaneri",
       "tags": [
-        "browsers",
-        "javascript",
-        "web"
+        "ai",
+        "webdev",
+        "career",
+        "discuss"
       ],
-      "category": "web",
-      "score": 17,
+      "category": "ai",
+      "score": 15,
       "comments_count": 3,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238967+00:00",
-      "language": "en"
-    },
-    {
-      "title": "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
-      "url": "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/",
-      "source": "hackernews",
-      "description": "",
-      "author": "debo_",
-      "tags": [],
-      "category": "frameworks",
-      "score": 16,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:08.260044+00:00",
+      "reading_time_min": 5,
+      "published_at": "2026-02-20T17:57:37Z",
+      "fetched_at": "2026-02-20T19:56:49.411627+00:00",
       "language": "en"
     },
     {
@@ -1903,7 +2199,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:14.885659+00:00",
+      "fetched_at": "2026-02-20T19:57:01.161515+00:00",
       "language": "en"
     },
     {
@@ -1920,24 +2216,42 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:14.886087+00:00",
+      "fetched_at": "2026-02-20T19:57:01.161924+00:00",
       "language": "en"
     },
     {
-      "title": "Your Personal Blog Should Have Comments",
-      "url": "https://medv.io/blog/your-personal-blog-should-have-comments",
+      "title": "OpenCTI-Platform/opencti",
+      "url": "https://github.com/OpenCTI-Platform/opencti",
+      "source": "github_trending",
+      "description": "Open Cyber Threat Intelligence Platform",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "web",
+      "score": 15,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:02.325450+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Internationalise The Fediverse (2024)",
+      "url": "https://shkspr.mobi/blog/2024/02/internationalise-the-fediverse/",
       "source": "lobsters",
       "description": "",
-      "author": "antonmedv",
+      "author": "hongminhee",
       "tags": [
-        "philosophy"
+        "distributed",
+        "web"
       ],
       "category": "general",
       "score": 15,
-      "comments_count": 45,
+      "comments_count": 9,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238840+00:00",
+      "fetched_at": "2026-02-20T19:57:06.842406+00:00",
       "language": "en"
     },
     {
@@ -1954,7 +2268,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.352066+00:00",
+      "fetched_at": "2026-02-20T19:57:05.586230+00:00",
       "language": "en"
     },
     {
@@ -1971,14 +2285,67 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.356635+00:00",
+      "fetched_at": "2026-02-20T19:57:05.590817+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Brat, a parallel TAP testing harness for the POSIX shell",
+      "url": "https://codeberg.org/sstephenson/brat",
+      "source": "lobsters",
+      "description": "",
+      "author": "sstephenson",
+      "tags": [
+        "unix"
+      ],
+      "category": "general",
+      "score": 14,
+      "comments_count": 3,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:06.842355+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Django ORM Standalone⁽¹⁾: Querying an existing database",
+      "url": "https://www.paulox.net/2026/02/20/django-orm-standalone-database-inspectdb-query/",
+      "source": "lobsters",
+      "description": "",
+      "author": "pauloxnet",
+      "tags": [
+        "databases",
+        "python",
+        "web"
+      ],
+      "category": "frameworks",
+      "score": 14,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:06.842392+00:00",
+      "language": "en"
+    },
+    {
+      "title": "mui/material-ui",
+      "url": "https://github.com/mui/material-ui",
+      "source": "github_trending",
+      "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "web",
+      "score": 13,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:01.164427+00:00",
       "language": "en"
     },
     {
       "title": "gotenberg/gotenberg",
       "url": "https://github.com/gotenberg/gotenberg",
       "source": "github_trending",
-      "description": "A developer-friendly API for converting numerous document formats into PDF files, and more!",
+      "description": "A developer-friendly API for converting many document formats into PDF files, and more!",
       "author": "",
       "tags": [
         "go"
@@ -1988,7 +2355,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.349913+00:00",
+      "fetched_at": "2026-02-20T19:57:05.584120+00:00",
       "language": "en"
     },
     {
@@ -2005,27 +2372,40 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:14.886480+00:00",
+      "fetched_at": "2026-02-20T19:57:01.162310+00:00",
       "language": "en"
     },
     {
-      "title": "Inside OpenClaw: How a Persistent AI Agent Actually Works",
-      "url": "https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk",
-      "source": "devto",
-      "description": "Introduction   OpenClaw, originally called ClawdBot, is trending everywhere. People are...",
-      "author": "astrodevil",
+      "title": "A Web Revival: the Internet didn't die, you're just not on it",
+      "url": "https://youtu.be/tkUgOT22F5s",
+      "source": "lobsters",
+      "description": "",
+      "author": "kantord",
       "tags": [
-        "ai",
-        "productivity",
-        "opensource",
-        "programming"
+        "video",
+        "web"
       ],
-      "category": "ai",
+      "category": "general",
+      "score": 12,
+      "comments_count": 6,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:06.842399+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Testing Super Mario Using a Behavior Model Autonomously",
+      "url": "https://testflows.com/blog/testing-super-mario-using-a-behavior-model-autonomously-part1/",
+      "source": "hackernews",
+      "description": "",
+      "author": "Naulius",
+      "tags": [],
+      "category": "general",
       "score": 11,
-      "comments_count": 0,
-      "reading_time_min": 10,
-      "published_at": "2026-02-19T18:28:58Z",
-      "fetched_at": "2026-02-20T14:36:06.424023+00:00",
+      "comments_count": 3,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:53.710557+00:00",
       "language": "en"
     },
     {
@@ -2042,7 +2422,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:12.060321+00:00",
+      "fetched_at": "2026-02-20T19:56:58.548559+00:00",
       "language": "en"
     },
     {
@@ -2059,60 +2439,136 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:17.257260+00:00",
+      "fetched_at": "2026-02-20T19:57:03.632991+00:00",
       "language": "en"
     },
     {
-      "title": "Internationalise The Fediverse (2024)",
-      "url": "https://shkspr.mobi/blog/2024/02/internationalise-the-fediverse/",
+      "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
+      "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
       "source": "lobsters",
       "description": "",
-      "author": "hongminhee",
-      "tags": [
-        "distributed",
-        "web"
-      ],
-      "category": "general",
-      "score": 11,
-      "comments_count": 8,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238868+00:00",
-      "language": "en"
-    },
-    {
-      "title": "The Claude C Compiler: What It Reveals About the Future of Software",
-      "url": "https://www.modular.com/blog/the-claude-c-compiler-what-it-reveals-about-the-future-of-software",
-      "source": "lobsters",
-      "description": "",
-      "author": "rrampage",
+      "author": "agent281",
       "tags": [
         "vibecoding"
       ],
       "category": "ai",
       "score": 11,
-      "comments_count": 5,
+      "comments_count": 7,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238924+00:00",
+      "fetched_at": "2026-02-20T19:57:06.842444+00:00",
       "language": "en"
     },
     {
-      "title": "How I made a shooter game in 64 KB",
-      "url": "https://youtu.be/qht68vFaa1M",
-      "source": "lobsters",
-      "description": "",
-      "author": "aminom",
+      "title": "What was your win this week?",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-5a3g",
+      "source": "devto",
+      "description": "👋👋👋👋  Looking back on your week -- what was something you're proud of?  All wins count -- big or...",
+      "author": "jess",
       "tags": [
-        "games",
-        "video"
+        "weeklyretro",
+        "discuss"
       ],
       "category": "general",
       "score": 10,
-      "comments_count": 2,
+      "comments_count": 5,
+      "reading_time_min": 1,
+      "published_at": "2026-02-20T13:00:00Z",
+      "fetched_at": "2026-02-20T19:56:49.411611+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The Secret Life of JavaScript: The Rejection",
+      "url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-rejection-124d",
+      "source": "devto",
+      "description": "Why async errors bypass try/catch, and how to fix them.     Timothy felt invincible. He had learned...",
+      "author": "aaron_rose_0787cc8b4775a0",
+      "tags": [
+        "javascript",
+        "asyncawait",
+        "errors",
+        "webdev"
+      ],
+      "category": "web",
+      "score": 10,
+      "comments_count": 0,
+      "reading_time_min": 4,
+      "published_at": "2026-02-20T08:42:13Z",
+      "fetched_at": "2026-02-20T19:56:49.411690+00:00",
+      "language": "en"
+    },
+    {
+      "title": "IPv6 Adoption in 2026",
+      "url": "https://www.netmeister.org/blog/ipv6-adoption.html",
+      "source": "lobsters",
+      "description": "",
+      "author": "binjip978",
+      "tags": [
+        "networking"
+      ],
+      "category": "general",
+      "score": 10,
+      "comments_count": 3,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238953+00:00",
+      "fetched_at": "2026-02-20T19:57:06.842413+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Death to Scroll Fade",
+      "url": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
+      "source": "lobsters",
+      "description": "",
+      "author": "toastal",
+      "tags": [
+        "a11y",
+        "css",
+        "web"
+      ],
+      "category": "web",
+      "score": 10,
+      "comments_count": 1,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:06.842420+00:00",
+      "language": "en"
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "url": "https://lobste.rs/s/f7zq93/what_are_you_doing_this_weekend",
+      "source": "lobsters",
+      "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
+      "author": "caius",
+      "tags": [
+        "ask",
+        "programming"
+      ],
+      "category": "general",
+      "score": 10,
+      "comments_count": 16,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:06.842437+00:00",
+      "language": "en"
+    },
+    {
+      "title": "What does MLH stand for?",
+      "url": "https://dev.to/mellen/what-does-mlh-stand-for-2cbg",
+      "source": "devto",
+      "description": "Come up with incorrect expansions of the MLH initialism",
+      "author": "mellen",
+      "tags": [
+        "jokes",
+        "watercooler",
+        "discuss",
+        "mlh"
+      ],
+      "category": "general",
+      "score": 9,
+      "comments_count": 12,
+      "reading_time_min": 1,
+      "published_at": "2026-02-20T11:09:44Z",
+      "fetched_at": "2026-02-20T19:56:49.411635+00:00",
       "language": "en"
     },
     {
@@ -2129,7 +2585,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:16.118933+00:00",
+      "fetched_at": "2026-02-20T19:57:02.328858+00:00",
       "language": "en"
     },
     {
@@ -2146,7 +2602,24 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.348481+00:00",
+      "fetched_at": "2026-02-20T19:57:05.582628+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Everything you never wanted to know about visually-hidden",
+      "url": "https://dbushell.com/2026/02/20/visually-hidden/",
+      "source": "lobsters",
+      "description": "",
+      "author": "pushcx",
+      "tags": [
+        "css"
+      ],
+      "category": "web",
+      "score": 9,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:06.842441+00:00",
       "language": "en"
     },
     {
@@ -2163,30 +2636,25 @@
       ],
       "category": "devops",
       "score": 8,
-      "comments_count": 1,
+      "comments_count": 2,
       "reading_time_min": 8,
       "published_at": "2026-02-19T21:17:00Z",
-      "fetched_at": "2026-02-20T14:36:06.423986+00:00",
+      "fetched_at": "2026-02-20T19:56:49.411648+00:00",
       "language": "en"
     },
     {
-      "title": "The Secret Life of JavaScript: The Rejection",
-      "url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-rejection-124d",
-      "source": "devto",
-      "description": "Why async errors bypass try/catch, and how to fix them.     Timothy felt invincible. He had learned...",
-      "author": "aaron_rose_0787cc8b4775a0",
-      "tags": [
-        "javascript",
-        "asyncawait",
-        "errors",
-        "webdev"
-      ],
-      "category": "web",
+      "title": "Lessons learned from `oapi-codegen`'s time in the GitHub Secure Open Source Fund",
+      "url": "https://www.jvt.me/posts/2026/02/17/oapi-codegen-github-secure/",
+      "source": "hackernews",
+      "description": "",
+      "author": "zdw",
+      "tags": [],
+      "category": "career",
       "score": 8,
       "comments_count": 0,
-      "reading_time_min": 4,
-      "published_at": "2026-02-20T08:42:13Z",
-      "fetched_at": "2026-02-20T14:36:06.424063+00:00",
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:57.006010+00:00",
       "language": "en"
     },
     {
@@ -2203,7 +2671,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:14.887366+00:00",
+      "fetched_at": "2026-02-20T19:57:01.163215+00:00",
       "language": "en"
     },
     {
@@ -2220,43 +2688,22 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:17.254378+00:00",
+      "fetched_at": "2026-02-20T19:57:03.630189+00:00",
       "language": "en"
     },
     {
-      "title": "BoundaryML/baml",
-      "url": "https://github.com/BoundaryML/baml",
-      "source": "github_trending",
-      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
-      "author": "",
-      "tags": [
-        "rust"
-      ],
-      "category": "languages",
-      "score": 8,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:17.255180+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Keep Android Open",
-      "url": "https://keepandroidopen.org/",
-      "source": "lobsters",
+      "title": "Do you want to build a community where users search or hang? (2021)",
+      "url": "https://www.mooreds.com/wordpress/archives/3486",
+      "source": "hackernews",
       "description": "",
-      "author": "pauloxnet",
-      "tags": [
-        "mobile",
-        "privacy",
-        "security"
-      ],
-      "category": "security",
+      "author": "mooreds",
+      "tags": [],
+      "category": "career",
       "score": 7,
-      "comments_count": 0,
+      "comments_count": 3,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238944+00:00",
+      "fetched_at": "2026-02-20T19:56:54.937818+00:00",
       "language": "en"
     },
     {
@@ -2275,7 +2722,41 @@
       "comments_count": 2,
       "reading_time_min": 24,
       "published_at": "2026-02-20T00:15:40Z",
-      "fetched_at": "2026-02-20T14:36:06.423968+00:00",
+      "fetched_at": "2026-02-20T19:56:49.411623+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Store Proxy Fetch",
+      "url": "https://dev.to/lizmat/store-proxy-fetch-a07",
+      "source": "devto",
+      "description": "This is part twelve in the \"Cases of UPPER\" series of blog posts, describing the Raku syntax...",
+      "author": "lizmat",
+      "tags": [
+        "rakulang",
+        "programming",
+        "tutorial"
+      ],
+      "category": "career",
+      "score": 6,
+      "comments_count": 0,
+      "reading_time_min": 7,
+      "published_at": "2026-02-20T11:39:50Z",
+      "fetched_at": "2026-02-20T19:56:49.411686+00:00",
+      "language": "en"
+    },
+    {
+      "title": "How to Review an AUR Package",
+      "url": "https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html",
+      "source": "hackernews",
+      "description": "",
+      "author": "exploraz",
+      "tags": [],
+      "category": "general",
+      "score": 6,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:56:56.377026+00:00",
       "language": "en"
     },
     {
@@ -2292,7 +2773,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.351150+00:00",
+      "fetched_at": "2026-02-20T19:57:05.585301+00:00",
       "language": "en"
     },
     {
@@ -2309,42 +2790,27 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.353246+00:00",
+      "fetched_at": "2026-02-20T19:57:05.587409+00:00",
       "language": "en"
     },
     {
-      "title": "Every app you've built is an ETL pipeline (you just didn't call it that)",
-      "url": "https://www.inngest.com/blog/etl-via-inngest",
-      "source": "lobsters",
-      "description": "",
-      "author": "Linell",
+      "title": "AI Coding Tools and the Runtime Context Gap",
+      "url": "https://dev.to/bluehotdog/ai-coding-tools-and-the-runtime-context-gap-33ai",
+      "source": "devto",
+      "description": "Current AI coding tools operate on source files. They read your code, predict what the application...",
+      "author": "bluehotdog",
       "tags": [
-        "practices",
-        "vibecoding"
+        "ai",
+        "programming",
+        "tooling",
+        "agents"
       ],
-      "category": "devops",
-      "score": 6,
-      "comments_count": 9,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238958+00:00",
-      "language": "en"
-    },
-    {
-      "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
-      "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
-      "source": "lobsters",
-      "description": "",
-      "author": "agent281",
-      "tags": [
-        "vibecoding"
-      ],
-      "category": "ai",
-      "score": 6,
-      "comments_count": 3,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238972+00:00",
+      "category": "general",
+      "score": 5,
+      "comments_count": 0,
+      "reading_time_min": 8,
+      "published_at": "2026-02-20T13:37:43Z",
+      "fetched_at": "2026-02-20T19:56:49.411652+00:00",
       "language": "en"
     },
     {
@@ -2361,7 +2827,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.349006+00:00",
+      "fetched_at": "2026-02-20T19:57:05.583187+00:00",
       "language": "en"
     },
     {
@@ -2378,7 +2844,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.352840+00:00",
+      "fetched_at": "2026-02-20T19:57:05.587026+00:00",
       "language": "en"
     },
     {
@@ -2395,80 +2861,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.354135+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Django ORM Standalone⁽¹⁾: Querying an existing database",
-      "url": "https://www.paulox.net/2026/02/20/django-orm-standalone-database-inspectdb-query/",
-      "source": "lobsters",
-      "description": "",
-      "author": "pauloxnet",
-      "tags": [
-        "databases",
-        "python",
-        "web"
-      ],
-      "category": "frameworks",
-      "score": 5,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238894+00:00",
-      "language": "en"
-    },
-    {
-      "title": "A Web Revival: the Internet didn't die, you're just not on it",
-      "url": "https://youtu.be/tkUgOT22F5s",
-      "source": "lobsters",
-      "description": "",
-      "author": "kantord",
-      "tags": [
-        "video",
-        "web"
-      ],
-      "category": "general",
-      "score": 5,
-      "comments_count": 5,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238904+00:00",
-      "language": "en"
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "url": "https://lobste.rs/s/f7zq93/what_are_you_doing_this_weekend",
-      "source": "lobsters",
-      "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
-      "author": "caius",
-      "tags": [
-        "ask",
-        "programming"
-      ],
-      "category": "general",
-      "score": 5,
-      "comments_count": 7,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238920+00:00",
-      "language": "en"
-    },
-    {
-      "title": "I used Claude Code and GSD to build the accessibility tool I’ve always wanted",
-      "url": "https://www.blakewatson.com/journal/i-used-claude-code-and-gsd-to-build-the-accessibility-tool-ive-always-wanted/",
-      "source": "lobsters",
-      "description": "",
-      "author": "dbushell",
-      "tags": [
-        "a11y",
-        "vibecoding"
-      ],
-      "category": "web",
-      "score": 5,
-      "comments_count": 1,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238948+00:00",
+      "fetched_at": "2026-02-20T19:57:05.588301+00:00",
       "language": "en"
     },
     {
@@ -2488,7 +2881,7 @@
       "comments_count": 5,
       "reading_time_min": 4,
       "published_at": "2026-02-19T22:17:46Z",
-      "fetched_at": "2026-02-20T14:36:06.423973+00:00",
+      "fetched_at": "2026-02-20T19:56:49.411631+00:00",
       "language": "en"
     },
     {
@@ -2508,24 +2901,7 @@
       "comments_count": 2,
       "reading_time_min": 5,
       "published_at": "2026-02-19T20:38:23Z",
-      "fetched_at": "2026-02-20T14:36:06.424032+00:00",
-      "language": "en"
-    },
-    {
-      "title": "projectdiscovery/nuclei-templates",
-      "url": "https://github.com/projectdiscovery/nuclei-templates",
-      "source": "github_trending",
-      "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
-      "author": "",
-      "tags": [
-        "javascript"
-      ],
-      "category": "web",
-      "score": 4,
-      "comments_count": 0,
-      "reading_time_min": 0,
-      "published_at": "",
-      "fetched_at": "2026-02-20T14:36:14.884270+00:00",
+      "fetched_at": "2026-02-20T19:56:49.411642+00:00",
       "language": "en"
     },
     {
@@ -2542,7 +2918,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:14.888162+00:00",
+      "fetched_at": "2026-02-20T19:57:01.164017+00:00",
       "language": "en"
     },
     {
@@ -2559,7 +2935,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:16.117766+00:00",
+      "fetched_at": "2026-02-20T19:57:02.327658+00:00",
       "language": "en"
     },
     {
@@ -2576,7 +2952,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:16.120731+00:00",
+      "fetched_at": "2026-02-20T19:57:02.330653+00:00",
       "language": "en"
     },
     {
@@ -2593,7 +2969,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:17.258140+00:00",
+      "fetched_at": "2026-02-20T19:57:03.633866+00:00",
       "language": "en"
     },
     {
@@ -2610,42 +2986,77 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.355448+00:00",
+      "fetched_at": "2026-02-20T19:57:05.589582+00:00",
       "language": "en"
     },
     {
-      "title": "eBPF the Hard Way",
-      "url": "https://feyor.sh/blog/ebpf-the-hard-way",
+      "title": "Lobsters Interview with steveklabnik",
+      "url": "https://alexalejandre.com/programming/steve-klabnik-interview/",
       "source": "lobsters",
-      "description": "",
-      "author": "Shorden",
+      "description": "<p>The following interview covers Rust and compilers, source control and monorepos, community engagement and vibe coding.</p>\n<p><a href=\"https://lobste.rs/~steveklabnik\" rel=\"ugc\">@steveklabnik</a> and I had the pleasure of speaking a few times over a few months. He wrote the Rust Book, <a href=\"https://jj-for-everyone.github.io/\" rel=\"ugc\">Jujutsu for Everyone</a>, worked at Oxide and gave many <a href=\"https://www.youtube.com/watch?v=79PSagCD_AY\" rel=\"ugc\">interesting talks</a>.  I thank <a href=\"https://lobste.rs/~smlckz\" rel=\"ugc\">@smlckz</a> and <a href=\"https://lobste.rs/~hoistbypetard\" rel=\"ugc\">@hoistbypetard</a> for their assistance proofreading.</p>\n<hr>\n<p><strong>How did you discover programming?</strong></p>\n<p>I grew up on a beef farm. My dad, his dad and his dad were all butchers. My uncle was a programmer in the 70s and 80s and brought a computer over to show what he did. I was 7 when I saw it and knew I wouldn't go outside anymore. Sorry dad. My little sister became the farm boy, she's a veterinarian now.</p>\n<p>I learned BASIC, then C, C++, Java. I don't remember not being able to program. I grew up reading slash dot (had a 5 digit id) and absorbed the culture around open source and free software. So I just ended up contributing to open source and joining a startup after college. People know me for Rust now, but I was involved in Ruby for years before that. Back then, in Rubyland, there was a guy named <a href=\"https://en.wikipedia.org/wiki/Why_the_lucky_stiff\" rel=\"ugc\">Why the Lucky Stiff</a>, a deliberately constructed identity doing important work. When he disappeared, I wanted to keep it going. He disappeared because people revealed his private persona to the world, which he wanted to keep separate. I made the choice there.</p>\n<p><strong>Many quite dislike their work and only want to talk about personal projects, but as a public personality does your professional and personal lives and interests totally merge together?</strong></p>\n<p>It's definitely a bit weird. I've been dating someone for about a year now and had to explain this <em>my being an online person</em> thing which clarified a lot of stuff.</p>\n<p>What matters most to me is impact, I'm trying to improve the world, make things better. For me, the best way is being a relatively public person; a public persona helps push things forward. I have a joke about a secret gamer identity; my Discord is my gamer name first which I change to Steve Klabnik in technical/programming Discords. That's most to keep from leaking my literal name into video game spaces, but if I had to maintain a public Steve and a private Steve, that'd be a little harder. So I got used to being a public person. It's easier to get things done when your goal's also your job, so I don't try to maximize personal income but find things I want to do. These days I don't have time to do a second job after my first job, whereas I used to have the time to work 80 hours around the clock. Hitting 40, I've been thinking about getting older...</p>\n<p>On the other hand, if I'm checking Lobsters, HN, Bluesky at night... Since I've often been in developer relations, like PR, if there were a crisis in the Rust community at Friday night... I'm always a bit on.</p>\n<p><strong>How did you avoid a you-shaped hole when you left Ruby or Oxide? How do you help keep something going without you?</strong></p>\n<p>I had the habit of picking up and maintaining other existing projects no one was working on. If someone else wanted to take over, great! But there wasn't so much of a crisis to leave things as I left them before. Some of those projects already had replacements like <a href=\"https://github.com/resque/resque\" rel=\"ugc\">Resque</a> and <a href=\"https://github.com/sidekiq/sidekiq\" rel=\"ugc\">Sidekiq</a> too. I also felt increasingly weird maintaining Why's stuff after he deliberately destroyed it. Worse, his projects were deeply tied into Ruby internals and deprecating APIs, making it difficult and time-consuming to maintain. This maintenance burden also informed his departure, which I came to learn first hand.</p>\n<p>I started going to Ruby conferences where people asked me to talk about things I cared about. But well, I cared about Rust and talked about it, connecting those communities together. So there was no clean break. Unless you commit info suicide on your persona like Why, which I couldn't do. I still like the Ruby community but did deliberately decide to focus my attention away; I haven't written Ruby in a long time.</p>\n<p>For Oxide, I said I was quitting and asked to discuss a transition plan. I started pair programming every day to onboard someone to the project I was working on by myself. It took about 6 weeks to hand everything over.</p>\n<p><strong>Matklad has an <a href=\"https://matklad.github.io/2024/03/22/basic-things.html\" rel=\"ugc\">article</a> about what open source projects need. You also have a few <a href=\"https://steveklabnik.com/writing/how-to-be-an-open-source-gardener/\" rel=\"ugc\">along these lines</a>. What advice do you have for a newer community which wants to build these things up and stay maintained long term?</strong></p>\n<p>A big thing I did in Rust and want <a href=\"https://github.com/jj-vcs/jj\" rel=\"ugc\">JJ</a> to follow is open source is an act of creation. You want something to exist, so you build it. That need for creation's often born out of unhappiness with how things exist today. I used to teach programming as a job and tell people if the program existed bug-free, you wouldn't be programming. It's the act of moving things from a state you don't like to one you do. When writing code, you're creating features which don't exist or fixing problems which do. It's easy and tempting for projects to fixate on the criticism they create by existing, but this is unhealthy. As an example, Rails was focused on Java sucking, but when you fixate on someone else sucking, you're not focused on improving your own stuff and rot. And what happens if you win? You lack a positive narrative to keep growing and eat yourself alive if you can't find another enemy. Well, it turns out JavaScript's not actually that bad and Rails missed the boat on JavaScript-heavy applications. Rails didn't fail into irrelevance, but did lose cultural dominance.</p>\n<p>So the Rust world focused on not saying Rust is great because C++ is terrible. There is criticism, but the project can't be about that. It's bad on a personal and a strategic level. Hating on others makes you a bad person. Instead, you have to focus on excited people building and creating. In the jj community, we should be \"git is fine, we just like jj better\" not \"git sucks, jj is good\". This is important and healthier for a community long term.</p>\n<p>I haven't been involved in Rust for about 3 years, but before there was a clear perspective that we were building a community, which meant we needed to bring people into the community. There's a funnel from all the people who hear the name \"Rust\", then who click on Rustlings, then who make a contribution...</p>\n<p><strong>How do you manage projects and communities in open source?</strong></p>\n<p>With open source, you can't compel people to do certain things. Well, programmers are prima donnas in a few ways, so even as employees you can't force them to do anything or they'll push back. So you need the soft skills to sell the vision and convince people to help. Building consensus is always a nice thing. People will follow good examples, but also bad ones. If leadership encourages a brash, off-the-cuff communication style, they will attract and retain similar people. If leadership is more measured, they'll accumulate a community of measured people.</p>\n<p>If I find words or styles of communication which resonates, I'll see community members replicate those same arguments. There's a classic book \"High Output Management\" by the Intel guy from the 90s, whose whole thing was that a CEO's job is purely cultural transmission to others because that's the only way you can affect change at scale. A CEO can't just stand on the assembly line and do everyone else's job better at the same time, after all. When managing, you reproduce the culture you want to see and it either works or it doesn't! It's a second order way of working, not doing it yourself but creating the environment where the work is done.</p>\n<p>Especially the higher you go, e.g. what distro is integrating what systems is all intraproject management and intracommunity coordination, 100% soft skills, because you're not even in the project you're managing. As an example, Ubuntu is currently integrating the Rust based <a href=\"https://github.com/uutils/coreutils\" rel=\"ugc\">uutil</a>, but can't force them to do anything. Ubuntu's communication must be like \"hey, we want this in order to make that happen, are you interested in it?\" Then the uutil people hopefully say \"yes, we will take your advice and do this, because this is a shared goal.\"</p>\n<p><strong>How do you approach course design, textbook writing?</strong></p>\n<p>The <a href=\"https://doc.rust-lang.org/book/foreword.html\" rel=\"ugc\">Rust Book</a> was me making a 50 pg. tutorial called Rust for Rubyists in 2013, which I then rewrote into 175ish pages. Later I got Carol in as my coauthor and we wrote what's now on the site. The <a href=\"https://steveklabnik.github.io/jujutsu-tutorial/introduction/introduction.html\" rel=\"ugc\">jj tutorial</a> is 100% me besides the Gerrit chapter.</p>\n<p>For all of these, I write down what I'm learning in the order I learn because writing helps me understand. There's no better way to know what a new person needs than by being new yourself. The problem's that not everyone is you, so you have to go beyond. The trick with the Rust Book's that it has extra constraints from being official e.g. not using many external packages lest it bias the ecosystem. Normally writing Rust involves many third party libraries, which you don't do in the course at all. I also felt the need to include all language features because it was going to be the primary way for people to learn.</p>\n<p>For the final version, I wrote down a ton of concepts I knew and went through the reference writing down more features to cover. I wrote them on note cards and started arranging them into a concept map. You need to know x before you learn y. The difficulty's all the dependencies especially early on. Guy Steele showed how to <a href=\"https://www.youtube.com/watch?v=lw6TaiXzHAE\" rel=\"ugc\">grow a language</a>. To learn Rust, you have to build the smallest possible \"kernel\" to bootstrap your understanding on, growing the language one piece at a time. This meant putting ownership and borrowing as soon as reasonable, because it was the newest thing really impacting people. After functions, variables, loops and borrowing, readers have a base to understand the rest.</p>\n<p>In the 2nd version of the jj tutorial, I'm focusing more heavily on workflows. People want to know what they can actually do with something more than what it is. Especially experienced programmers are willing to hand-wave things although they claim to want the details. They just want to get things done, at first.</p>\n<p>Those are the two major design philosophies for a book-length tutorial, start building from small parts or just run with it, explaining as you go. With jj, most people just want to get things done; there aren't many version control fanatics.</p>\n<p><strong>How do you yourself learn?</strong></p>\n<p>I read existing documentation then try to do stuff, mess around. When learning a programming language, I try to implement a text adventure game going back to the first thing I ever did on a computer at my grandma's house playing the <a href=\"https://rickadams.org/adventure/advent/\" rel=\"ugc\">Collosal Cave Adventure</a>. I've always loved text adventures. You get a little bit of I/O, data management, loops and stuff, enough to get a feel for writing something real. The one I wrote in Rust just had nine rooms, but that's enough to really get going. But you can't write a game in jj. I just had to use it, run into problems and ask for help.</p>\n<p><strong>How do you think about languages, APIs and design?</strong></p>\n<p>Simon Peyton Jones' \"avoid success at any cost\" motto for Haskell is really interesting, with multiple interpretations. The most important thing is build the thing you want to build. You have deliberately decide your priorities and what you care about. Oxide's really big on values. Figure out what's most important then put them in an order. Rust cares about safety, performance, correctness in that order. On a different axis, Rust always wanted to be used by many people, so choices leading to broad industry adoption were important to us.</p>\n<p>I have an article about the <a href=\"https://steveklabnik.com/writing/the-language-strangeness-budget/\" rel=\"ugc\">language strangeness budget</a> where you can only be weird about so many things before no one uses your thing anymore. You have to be deliberate and careful about where you innovate. Now, this advice only matters if aiming for broad adoption, but the key is making that deliberate choice. If you just want something fun for yourself, great! But you're making the compromise of it only being for yourself. Designing is inherently about making tough choices. Be aware and deliberate. Design requires taste and taste requires broad exposure and experience. If you don't realize there's a choice because you don't have enough context to know what your options are, you will do things accidentally, not deliberately.</p>\n<p><strong>If you could reinvent/change any aspect of Rust, what would you do alternatively?</strong></p>\n<p>A lot happened because we wanted to ship a useful thing with only so much time in the day, so some things were less deliberate than others. There's an alternate version of Rust with significantly faster compiler times, because while we cared about compile times when designing we always prioritized other values more. We never asked ourselves how this feature or implementation impacted compiler analysis time and there are several spots where something slightly different would have much faster compiler times, which people do care about. But had we spent time on that, we would have neglected other things and not been any more successful. I think whatever language eventually succeeds Rust will be much faster to compile and borrow checking will never be the big time sink when compiling.</p>\n<p><strong><a href=\"https://github.com/steveklabnik/rue\" rel=\"ugc\">Rue</a>'s readme says it's mostly a way of working on different compiler optimizations. Which of those have been most interesting?</strong></p>\n<p>Honestly, Rue's only public because GitHub charges for actions when your repo is private and I'm addicted to CI. Now, I love compilers and organized my college classes to get to compilers first but never worked on the Rust compiler, that just wasn't the best way to utilize my skills. So I wanted to mess around with compilers.</p>\n<p>Conceptually, I understood single static assignment with block params vs. fine nodes from reading papers, but never actually seriously looked at implementation code. Partly, I just want some code I can look at and mess around with without responsibilities. There's a big difference between intellectually understanding something and actually writing code for it. I knew about React's architecture for like years before I wrote a line of React - my understanding only grew when I actually coded and experimented with it.</p>\n<p>I've only been working on it for a few months, but I have a small effectively useless language (without strings). My goal is building out a full production compiler pipeline for this tiny, useless language because most people make languages useful then try to refactor the compiler; I'm doing the opposite. What if I grew the compiler wide and the language very short? While I don't have strings, I have 7 different layers of IR and will probably reach full incremental compilation before adding strings. That's just what I care about building.</p>\n<p>It took Rust like 2 years to implement <a href=\"https://rustc-dev-guide.rust-lang.org/mir/index.html\" rel=\"ugc\">MIR</a> because there was a whole production programming language, but it took me a few hours because no one uses it and there are no features. Implementing compiler internals is easier without surface features! I do have some language design features, but I'll only work on that when the compiler's ready. I only want to add features required to improve the compiler.</p>\n<hr>\n<p><strong>Hey, a few months have passed since we last spoke!</strong></p>\n<p>It's interesting how some of my thoughts have changed! I recently spent more time with Rue and came to appreciate Zig more, for example.</p>\n<p>A lot of Rust's complexity comes from wanting to be as low level and fast as C. In Rue, what if we don't make decisions based on those values? I assume Rue will have a runtime etc. Higher than Rust but lower than Go. It builds on some of Swift and Hylo's mutable value semantics. If you don't have references as a language construct, you can get rid of lifetimes! If you don't put references in structs nor return references, you don't need lifetimes and the borrow checker goes away! You lose a little efficiency, but oh well.</p>\n<p>Rust has affine types, but I think linear types are also neat. Linear types and borrowing's also weird...</p>\n<p>There's an issue of expressed and acted values too. The Rust team cares about compiler performance, has people working on it etc. We did care about this, but no enough to require RFCs to analyze compiler impacts and reject things for compiler overhead. I don't mean to criticize - I was there and involved too. (I still think the compiler will get faster, and maybe it'd be better from scratch but some features put a ceiling on it.)</p>\n<p>With Rue, how close can I get to Rust while caring about compiler performance? Recently, I've come to appreciate Zig a lot more for its decisions. Concretely, macros can introduce new items, so you have to expand all macros before type checking a Rust program. At least one of the Rust analyzer devs said they'd remove the ability of macros introducing items. Heavily relying on <a href=\"https://en.wikipedia.org/wiki/Monomorphization\" rel=\"ugc\">monomorphization</a> impacts compile time significantly, because you generate a lot of similar code then expect LLVM to filter it out. In Rust, conditional compilation is based on attribution. Zig made me uncomfortable in the past; dead code elimination finds things that aren't used and eliminates them, making the binary smaller. But you can also view that as a failure; any code generated but thrown away means you did work producing it before dumping it. Rust programs often generate a lot of code which it eventually dumps later. Zig just doesn't compile or process things if you know it won't occur! This had made me uncomfortable if e.g. had errors in some other branch e.g. compiling for Linux while the Windows config is fundamentally broken.</p>\n<p><strong>How did you approach building a system of values and getting buy-in for people?</strong></p>\n<p>I am kind of old school. A lot of it flows top-down; you can't have an outsider show up and impose values on a community. They have to come from some legitimate source in the community itself. Expressing values requires action too. People will notice if you say one thing and do another. On some level, <em>what leadership does</em> creates the actual values. It's tricky in general, because even rational adults find it hard to always act in accordance with their values.</p>\n<p><strong>How'd you decide which your values would be then?</strong></p>\n<p>I joked that my parents' biggest mistake was telling me to do what I thought was right, which caused a lot of friction when we disagreed! I have changed a lot as a person over the course of my life. I'd like to think that things happened which I took under consideration and made changes after. It often happens in software development communities that you find yourself among people you don't want to be like. You have to ask whether you're the kind of person you want to be, and make changes to align yourself. Earlier in my career, I loved talking shit on languages, tools and communities I thought were bad - but then I realized who I was becoming and made serious changes.</p>\n<p><strong>How do you approach programming? What's unusual about your methods?</strong></p>\n<p>My weirdest thing is not customizing my software. I don't set color schemes. I don't have a dot-files repo. A long time ago, teaching programming as a job, I helped people with their setups and wanted to understand the default user experience; I didn't want to recommend a program I only liked because I had 45 extensions... I didn't want to get out of touch. I don't use an ad-blocker.</p>\n<p>A hater once wrote that my Rust code seemed simpler and more straight forward, which I thought was a very nice thing for a hater to say! I tend not to write macros at all. I also avoid fancy advanced type system tricks. Although Rust has the reputation of a complicated, big language, you don't have to use it that way. I'm actually pretty tolerant of boilerplate these days.</p>\n<p>Handing off a project at Oxide, I mentioned some packages would reduce duplicates and boilerplate, but seeing the struct fields copied from one struct to another is more straightforward than some macro automatically doing it besides this one exception where....</p>\n<p><strong>I can't get over no ad-block.</strong></p>\n<p>A lot of pages have terrible intrusive ads, which guide my behavior to stay away from them.</p>\n<p>My relationship with privacy has also changed. I used to think tracking me was offensive and upsetting, but now I live such a public life with hundreds of hours of talks on youtube, where ads are the least of my worries.</p>\n<p><strong>Oxide rewrites basically everything. How'd you make sure you were actually writing better fitting replacements?</strong></p>\n<p>In other organizations, there's constantly a low-key conflict between programmers and management about what we spend time on. People often slip refactoring in before shipping the ticket, because they'll never get permission to refactor after closing the ticket.</p>\n<p>Oxide looks at what exits, what it needs and figures out whether they should build it or use something. Culturally, a lot of programmers read <a href=\"https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/\" rel=\"ugc\">Joel Spolsky</a> 25 years ago. Oxide is like if that article had never been written and people would rewrite when useful.</p>\n<p>It comes down to what's fit for purpose. Software's often an 80% fit. Do you just live with that other 20%? Perhaps some people can live with a bigger misfit than others. This does slow down when we ship, but quality emerges from really working on this ourselves. That's an intangible but important benefit. We had more willingness to experiment and try than other places, which paid off.</p>\n<p>Oxide's leadership really cares about knowing your tools well. So if a tool doesn't yet exist, it's fine to make that tool for future productivity benefits. We wrote our own debugger for our own embedded real time operating system, which paid off when we had to debug firmware issues. Brian et al. had seen this approach work out in the past, so the whole organization buys in too. Oxide's the only company to rewrite AMD's CPU firmware. They didn't believe us until it happened.</p>\n<p><strong>How deeply did you dive into less popular programming paradigms?</strong></p>\n<p>I used to joke that I didn't do LSD in college but did Haskell instead; not sure which is more harmful! I used to experiment a lot. Earlier in my career, I cared a lot about programming for its own sake and now I care more about what I can do with programs. High level languages seem to have an inherent low end of where they can go. (I know this isn't directly true, you can write an OS in Lisp.) I care less about \"everything is a...\" type languages. \"Everything is an object\" is like a Beatles cover band, it's not a novel thing because we already explored that space but the interesting developments aren't there. The vitalization of lower level languages is some cyclical effect after spending a lot of energy on higher level languages.</p>\n<p>I do find <a href=\"https://www.unison-lang.org/\" rel=\"ugc\">Unison</a> cool. There's definitely room for alternative paradigms, but I want to see them prove themselves before investing a lot of time in it. Time's precious. I think I experienced enough with most of that stuff. There are some unexplored avenues like effect systems though.</p>\n<p><strong>How do you manage and prioritize your time?</strong></p>\n<p>It's hard and changed a lot for me this past year. I'm now in a serious relationship with someone who has kids, adding constraints I didn't previously have. A year ago, I could do whatever whenever, but now I care about people and have obligations to them.</p>\n<p>But when I feel I want to do the thing, I just do the thing as hard as possible. For example, I started working on Rue in August, got busy in September and set it down until the end of December when I spent a few frantic weeks on it. Claude and I shipped 100 commits on Christmas day! I wait for inspiration to spark then push on it as hard as I can.</p>\n<p>I have time blocks, spend time with work, spend time with my girlfriend, spend time on me, and within those I just do whatever I feel.</p>\n<p><strong>How do you structure commits?</strong></p>\n<p>I'm a big believer in CI and use it on PRs, even on personal projects. I don't push to main myself, either. Well, I use trunk. I care more about whether CI passes than perfectly crafting the exact commit I want. Committing to use PRs for everything, looking over the diff for 10k lines sucks on GitHub. So I tend towards very small changes. Ideally under 1000-line diffs. I once had a client where the CEO would disappear for a few months, then appear and commit something to master, so the rest of the company would frantically try to rebase all their work on top of everything. The original principles of CI matter a lot. I prefer high velocity of a small number of commits, rather than big perfect ones. Sometimes this means shipping duplication to master, then cleaning it up in a later PR, because keeping things factored while adding a new feature might suck. I trust my tests, keep my cycles quick and keep things small. Sometimes that even means feature flags; I'll ship broken features behind flags which won't get shown in production, and remove the flag when the feature's done, rather than work on a branch for a long time and eventually ship it in the end. At least, these processes work better for me.</p>\n<p>I'd rather have more small things than fewer larger things.</p>\n<p><strong>What about version control inspired you enough to leave Oxide?</strong></p>\n<p>I always loved git. I was early on it. I really hated how <a href=\"https://en.wikipedia.org/wiki/Concurrent_Versions_System\" rel=\"ugc\">CVS</a> worked (i.e. the above story.) Distributed version control just seemed straight up better to me. Code matters, but this is the software we entrust all our work output to. If git deleted all our repos tomorrow, it'd be a problem but not so bad because distributed, because backups, while your CVS repo going down would ruin you.</p>\n<p>You're the sum of all the people you spend time with. That's true of tools, too. We spend hours and hours with version control, if that tool can get better, it'll help a lot of people. I got involved with Rails, because I realized I could help every single webapp at once. I got involved with Ruby to help an even bigger set of people. I got involved with Rust, because making the OS better helps everyone! Moving down the stack gives you higher leverage to help more people and DVCS is quite low; there are few things you can do to make JavaScript, C and Rust developer's lives better at the same time.</p>\n<p>I like doing high leverage things. Working on version control is interesting to me because it can help a lot of people. I also really just like jj.</p>\n<p>But another thing: I never worked at a FAANG, but they've all converged on some things different from the rest of our industry, like monorepos. At some scale, they just move to monorepos for rational reasons (which aren't important right now.) This implies a lot of other things: path dependence and unexpected technology choices and unique systems. They have their own version control systems, often based on Mercurial for interesting historical reasons.</p>\n<p>In the past, rich people had access to things other people didn't. But today, there's no better Coca-Cola than Coca-Cola. Elon and me drink the same cola! Software's largely like this too. But FAANG companies have these entire stacks not available to the rest of us. If I wanted to use a monorepo and use Piper, that's just not an option; it's internal to Google, tied to their individual infrastructure... So I think there's some sort of Prometheus play around stealing the fire from the gods.</p>\n<p>I've been toying with my own personal monorepo for all projects. You know what sucks? Setting up integrations, IDEs etc. every time I start a new project! I'm very monorepo brained. I'm interested in tools like jj which show that world to the rest of us.</p>\n<p><strong>What are the benefits of a monorepo?</strong></p>\n<p>If I want CI to pass, my commits are limited. If it takes an hour for my CI to run, I get 24 commits a day and that's it. To scale up, you need to start to think about whether literally every test should run on every commit: No. How do you determine which tests to run? How do I share dependencies across projects? How do I integrate build systems with all the projects? There are a lot of big topics. But then it's quick to start a new project. It removes coordination costs. At Oxide, every team can use any tools they want. So some teams run on Gerrit, others on GitHub etc. which is cool but moving teams means relearning a new stack. On the flip side, a monorepo's homogeneity means you don't have to learn something new to work on another part of the code base. But now the monorepo's huge. Making everyone download the whole repo kind of sucks. Trade offs. At scale, different trade offs make more sense. These tools also assume scale. Cargo doesn't scale up to a Google sized monorepo. Buck, Blaze or Bazel are built for monorepos, annoying to use on small scales. I feel like there's a smoother transition somewhere with more powerful tools.</p>\n<p><strong>How did you become \"AI-pilled?\"</strong></p>\n<p>A year ago, I would have said these tools were BS and didn't matter. I try to be an informed hater though and realized I hadn't tried them in a while. I never liked autocomplete, so the first generation of \"spicy autocomplete\" did nothing for me. But agents are a fundamentally different way of working. Claude and ChatGPT also started writing ok Rust code.</p>\n<p>I had a rough 2024. In 2025, I did a lot of soul searching and considered the implications of these new tools, what my actual opinions about software development were etc. And I don't know man, I barely wrote any code last year. I don't know if I'm going to write any code this year personally, by hand, like at all. I started programming at 7. This might be the first year I don't code since then. It's <a href=\"https://ratfactor.com/tech-nope2\" rel=\"ugc\">uncomfortable and strange</a>.</p>\n<p>I hate the whole \"if you don't learn this stuff, you'll fall behind\" rhetoric from AI people. When Rails came out, everyone loved and flocked to it. But you know what? Not everyone actually did, only a small vocal minority. The people who didn't learn Rails weren't left behind. They didn't lose their career for not jumping on the hottest trend. It's reasonable and rational to not care. But I enjoy them. They are tools which require skill. People are willing to acknowledge that vim is useful, even if they use Emacs. I see AI tooling like vim. You have to approach it like a scientist or an engineer. You can't just say \"build me a Google clone\". Using them in an engineering-science-y way to produce good results takes different kinds of skills than directly writing code yourself. I used to care a lot about being one with the code; some of my best memories are spending a weekend solving a bug in college. But these days that just means I spent my whole weekend being frustrated and didn't get anything done!</p>\n<p>I've been meaning to write about <a href=\"https://steveklabnik.com/writing/getting-started-with-claude-for-software-development/\" rel=\"ugc\">how to approach this</a>, but it takes so much heat from people online... Some of my friends are vehement anti-AI people which has made our friendship awkward, which sucks, because I like my friends. I also talk about this less on e.g. Lobsters than I normally would. I just do it in private channels to avoid the shit. But I should be more open about it, it can help people.</p>\n<p><strong>People have been complaining about AI-driven PR spam.</strong></p>\n<p>My work in open source predisposed me to be ok with AI here. There have always been crap PRs by people who don't know what they're doing. That's the normal state of things for open source! You just get a bunch of junk from people you don't know. Some might be great, don't get me wrong. You need to have processes in place to make sure a PR is good before merging and that's true no matter who authors the code.</p>\n<p><strong>How do you use it?</strong></p>\n<p>I'll briefly go into how these tools work. I'll assume you're using Claude here. You send a request to the model. What's in the request? The tool author's system prompt, the prompt you typed in, then a bag of context (e.g. the conversation history). You can tweak all these parameters. Sometimes the correct approach is throwing the system prompt away and writing your own (using an API). People were obsessed with prompt engineering for a while - thinking prompts were the primary lever. But the context window is the biggest percentage of input. So recently people have been talking about context engineering. When the context window fills up, LLM performance goes down. You can make worse prompts if you do a better job context engineering.</p>\n<p>We used to argue about horizontal vs. vertical slicing for apps, DB, framework, application, view layers vs. feature folders. From a context perspective, a folder per feature is easier for an agent or a person to figure out what's needed (assuming you separated your feature out). How do you ensure the context window only has what's relevant to the goal?</p>\n<p>In Rue, I have these architecture decision records (ADR) describing a design and its rationale. I'll tell Claude to read ADR 1 and 5 and then mention I want to modify the type system. It's like tickets, you want a ticket with a minimum reproduction. I don't think these are new things, rather we've been collectively paying these practices lip service, and those who actually follow them will do better with these tools. A well-structured codebase means both a human and an agent will have a better time; it's just easier to notice an agent flailing around than realize a developer taking 3 weeks to ship a fix is the same symptom.</p>\n<p>LLMs are like an average user, which is a nice feedback mechanism too. In the first iteration of Rue, Claude was trying to dump the assembly for a program it was debugging. It kept passing <code>-S</code> which wasn't implemented instead of <code>--emit-asm-</code> which I thought was nicer. But it turns out <code>-S</code> is a standard flag across compilers, assuming it exists is a good assumption. So I implemented that as an LLM to stop it from flailing around. There's value in watching what an LLM assumes. It will give reasonable attempts or answers, because it's seen everything. If you can make something easy enough for Claude to understand, it might be a good model.</p>\n",
+      "author": "veqq",
       "tags": [
-        "assembly",
-        "zig"
+        "person"
       ],
-      "category": "languages",
+      "category": "career",
       "score": 4,
-      "comments_count": 0,
+      "comments_count": 1,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238889+00:00",
+      "fetched_at": "2026-02-20T19:57:06.842402+00:00",
       "language": "en"
     },
     {
-      "title": "Everything you never wanted to know about visually-hidden",
-      "url": "https://dbushell.com/2026/02/20/visually-hidden/",
+      "title": "finding credentials in .msi files with msiexec",
+      "url": "https://ljb.fyi/your-msi-isnt-an-executable/",
       "source": "lobsters",
       "description": "",
-      "author": "pushcx",
+      "author": "regulator",
       "tags": [
-        "css"
+        "reversing",
+        "security",
+        "windows"
+      ],
+      "category": "security",
+      "score": 4,
+      "comments_count": 1,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:06.842409+00:00",
+      "language": "en"
+    },
+    {
+      "title": "projectdiscovery/nuclei-templates",
+      "url": "https://github.com/projectdiscovery/nuclei-templates",
+      "source": "github_trending",
+      "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+      "author": "",
+      "tags": [
+        "javascript"
       ],
       "category": "web",
       "score": 3,
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:20.238963+00:00",
+      "fetched_at": "2026-02-20T19:57:01.160036+00:00",
+      "language": "en"
+    },
+    {
+      "title": "A Beginner’s Guide to Split Keyboards",
+      "url": "https://justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/",
+      "source": "lobsters",
+      "description": "",
+      "author": "wa008",
+      "tags": [
+        "hardware"
+      ],
+      "category": "general",
+      "score": 3,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-20T19:57:06.842447+00:00",
       "language": "en"
     },
     {
@@ -2665,47 +3076,7 @@
       "comments_count": 0,
       "reading_time_min": 4,
       "published_at": "2026-02-19T23:17:17Z",
-      "fetched_at": "2026-02-20T14:36:06.423977+00:00",
-      "language": "en"
-    },
-    {
-      "title": "The 200 Lines of Code That Run Claude Code. The 9,800 Lines That Keep It Safe.",
-      "url": "https://dev.to/yurukusa/the-200-lines-of-code-that-run-claude-code-the-9800-lines-that-keep-it-safe-40i1",
-      "source": "devto",
-      "description": "A HN post claimed you can rebuild Claude Code in 200 lines. They weren't wrong about the core. But here's what 3,529 activity log entries and one context-exhaustion incident taught us about what comes after.",
-      "author": "yurukusa",
-      "tags": [
-        "claudecode",
-        "ai",
-        "automation",
-        "devops"
-      ],
-      "category": "ai",
-      "score": 2,
-      "comments_count": 1,
-      "reading_time_min": 6,
-      "published_at": "2026-02-19T19:05:05Z",
-      "fetched_at": "2026-02-20T14:36:06.423982+00:00",
-      "language": "en"
-    },
-    {
-      "title": "AI Coding Tools and the Runtime Context Gap",
-      "url": "https://dev.to/bluehotdog/ai-coding-tools-and-the-runtime-context-gap-33ai",
-      "source": "devto",
-      "description": "Current AI coding tools operate on source files. They read your code, predict what the application...",
-      "author": "bluehotdog",
-      "tags": [
-        "ai",
-        "programming",
-        "tooling",
-        "agents"
-      ],
-      "category": "general",
-      "score": 2,
-      "comments_count": 0,
-      "reading_time_min": 8,
-      "published_at": "2026-02-20T13:37:43Z",
-      "fetched_at": "2026-02-20T14:36:06.424059+00:00",
+      "fetched_at": "2026-02-20T19:56:49.411645+00:00",
       "language": "en"
     },
     {
@@ -2722,7 +3093,7 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:14.886855+00:00",
+      "fetched_at": "2026-02-20T19:57:01.162687+00:00",
       "language": "en"
     },
     {
@@ -2739,7 +3110,27 @@
       "comments_count": 0,
       "reading_time_min": 0,
       "published_at": "",
-      "fetched_at": "2026-02-20T14:36:19.355009+00:00",
+      "fetched_at": "2026-02-20T19:57:05.589200+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Your AI Agents Need an Org Chart — But Not the Kind You Think",
+      "url": "https://dev.to/philippenderle/your-ai-agents-need-an-org-chart-but-not-the-kind-you-think-2fg7",
+      "source": "devto",
+      "description": "I run a small healthcare SaaS. Solo founder, Python/FastAPI backend, React frontend, German-hosted...",
+      "author": "philippenderle",
+      "tags": [
+        "ai",
+        "agents",
+        "architecture",
+        "opensource"
+      ],
+      "category": "web",
+      "score": 1,
+      "comments_count": 1,
+      "reading_time_min": 7,
+      "published_at": "2026-02-20T13:39:44Z",
+      "fetched_at": "2026-02-20T19:56:49.411662+00:00",
       "language": "en"
     },
     {
@@ -2758,26 +3149,7 @@
       "comments_count": 0,
       "reading_time_min": 6,
       "published_at": "2026-02-20T03:50:59Z",
-      "fetched_at": "2026-02-20T14:36:06.424006+00:00",
-      "language": "en"
-    },
-    {
-      "title": "I Got Tired of Guessing My Claude Quota, So I Made a Robot Read It For Me",
-      "url": "https://dev.to/tommy_leonhardsen_81d1f4e/i-got-tired-of-guessing-my-claude-quota-so-i-made-a-robot-read-it-for-me-3513",
-      "source": "devto",
-      "description": "The Problem Nobody Asked Me to Solve   If you use Claude Pro (or Max, or Team), you've...",
-      "author": "tommy_leonhardsen_81d1f4e",
-      "tags": [
-        "claudecode",
-        "python",
-        "powershell"
-      ],
-      "category": "ai",
-      "score": 0,
-      "comments_count": 1,
-      "reading_time_min": 6,
-      "published_at": "2026-02-19T19:10:02Z",
-      "fetched_at": "2026-02-20T14:36:06.423990+00:00",
+      "fetched_at": "2026-02-20T19:56:49.411666+00:00",
       "language": "en"
     },
     {
@@ -2793,71 +3165,11 @@
         "productivity"
       ],
       "category": "career",
-      "score": 0,
+      "score": 1,
       "comments_count": 1,
       "reading_time_min": 24,
       "published_at": "2026-02-19T23:12:48Z",
-      "fetched_at": "2026-02-20T14:36:06.423994+00:00",
-      "language": "en"
-    },
-    {
-      "title": "We Moved to Microservices and Our Delivery Speed Dropped by 40%. Here's What We Should Have Done.",
-      "url": "https://dev.to/matthewhou/we-moved-to-microservices-and-our-delivery-speed-dropped-by-40-heres-what-we-should-have-done-6b6",
-      "source": "devto",
-      "description": "The CTO said: \"We need to move to microservices. Our monolith is too complex.\"  Eighteen months...",
-      "author": "matthewhou",
-      "tags": [
-        "microservices",
-        "architecture",
-        "devops",
-        "programming"
-      ],
-      "category": "devops",
-      "score": 0,
-      "comments_count": 0,
-      "reading_time_min": 5,
-      "published_at": "2026-02-19T23:09:57Z",
-      "fetched_at": "2026-02-20T14:36:06.423998+00:00",
-      "language": "en"
-    },
-    {
-      "title": "I Tried Running File Conversion Fully in the Browser (WASM, LibreOffice, FFmpeg)",
-      "url": "https://dev.to/digitalofen/i-tried-running-file-conversion-fully-in-the-browser-wasm-libreoffice-ffmpeg-57mh",
-      "source": "devto",
-      "description": "Intro – The Problem   Most online file converters work the same way: you upload your file,...",
-      "author": "digitalofen",
-      "tags": [
-        "webassembly",
-        "javascript",
-        "webdev",
-        "performance"
-      ],
-      "category": "web",
-      "score": 0,
-      "comments_count": 1,
-      "reading_time_min": 4,
-      "published_at": "2026-02-19T23:35:16Z",
-      "fetched_at": "2026-02-20T14:36:06.424002+00:00",
-      "language": "en"
-    },
-    {
-      "title": "The \"Soft Skills\" That Actually Determine Your Engineering Career (With Specific Examples)",
-      "url": "https://dev.to/matthewhou/the-soft-skills-that-actually-determine-your-engineering-career-with-specific-examples-2g27",
-      "source": "devto",
-      "description": "I hate the term \"soft skills.\" It implies they're fluffy, optional, nice-to-have. They're not....",
-      "author": "matthewhou",
-      "tags": [
-        "career",
-        "softskills",
-        "programming",
-        "advice"
-      ],
-      "category": "career",
-      "score": 0,
-      "comments_count": 1,
-      "reading_time_min": 5,
-      "published_at": "2026-02-19T23:09:33Z",
-      "fetched_at": "2026-02-20T14:36:06.424011+00:00",
+      "fetched_at": "2026-02-20T19:56:49.411676+00:00",
       "language": "en"
     },
     {
@@ -2877,123 +3189,67 @@
       "comments_count": 0,
       "reading_time_min": 4,
       "published_at": "2026-02-19T23:09:01Z",
-      "fetched_at": "2026-02-20T14:36:06.424015+00:00",
+      "fetched_at": "2026-02-20T19:56:49.411655+00:00",
       "language": "en"
     },
     {
-      "title": "I built a free AI resume tool with no database (because I hate signups)",
-      "url": "https://dev.to/davis856/i-built-a-free-ai-resume-tool-with-no-database-because-i-hate-signups-5faa",
+      "title": "The \"Soft Skills\" That Actually Determine Your Engineering Career (With Specific Examples)",
+      "url": "https://dev.to/matthewhou/the-soft-skills-that-actually-determine-your-engineering-career-with-specific-examples-2g27",
       "source": "devto",
-      "description": "I hate resume builders.  You know the drill. You spend 20 minutes typing in your work history,...",
-      "author": "davis856",
+      "description": "I hate the term \"soft skills.\" It implies they're fluffy, optional, nice-to-have. They're not....",
+      "author": "matthewhou",
       "tags": [
-        "nextjs",
+        "career",
+        "softskills",
+        "programming",
+        "advice"
+      ],
+      "category": "career",
+      "score": 0,
+      "comments_count": 1,
+      "reading_time_min": 5,
+      "published_at": "2026-02-19T23:09:33Z",
+      "fetched_at": "2026-02-20T19:56:49.411669+00:00",
+      "language": "en"
+    },
+    {
+      "title": "I Tried Running File Conversion Fully in the Browser (WASM, LibreOffice, FFmpeg)",
+      "url": "https://dev.to/digitalofen/i-tried-running-file-conversion-fully-in-the-browser-wasm-libreoffice-ffmpeg-57mh",
+      "source": "devto",
+      "description": "Intro – The Problem   Most online file converters work the same way: you upload your file,...",
+      "author": "digitalofen",
+      "tags": [
+        "webassembly",
         "javascript",
-        "privacy",
-        "showdev"
-      ],
-      "category": "web",
-      "score": 0,
-      "comments_count": 0,
-      "reading_time_min": 2,
-      "published_at": "2026-02-19T18:19:56Z",
-      "fetched_at": "2026-02-20T14:36:06.424019+00:00",
-      "language": "en"
-    },
-    {
-      "title": "What was your win this week?",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-5a3g",
-      "source": "devto",
-      "description": "👋👋👋👋  Looking back on your week -- what was something you're proud of?  All wins count -- big or...",
-      "author": "jess",
-      "tags": [
-        "weeklyretro",
-        "discuss"
-      ],
-      "category": "general",
-      "score": 0,
-      "comments_count": 0,
-      "reading_time_min": 1,
-      "published_at": "2026-02-20T13:00:00Z",
-      "fetched_at": "2026-02-20T14:36:06.424027+00:00",
-      "language": "en"
-    },
-    {
-      "title": "RASP vs WAF: The Key Differences and Why You Need a Third Approach",
-      "url": "https://dev.to/bytehide/rasp-vs-waf-the-key-differences-and-why-you-need-a-third-approach-36hg",
-      "source": "devto",
-      "description": "Most security teams face the same dilemma: deploy a WAF to protect the perimeter, add RASP for deeper...",
-      "author": "bytehide",
-      "tags": [
-        "waf",
-        "security"
-      ],
-      "category": "security",
-      "score": 0,
-      "comments_count": 0,
-      "reading_time_min": 9,
-      "published_at": "2026-02-20T13:51:57Z",
-      "fetched_at": "2026-02-20T14:36:06.424068+00:00",
-      "language": "en"
-    },
-    {
-      "title": "Working With AI Tools on a New Library",
-      "url": "https://dev.to/sakobume/working-with-ai-tools-on-a-new-library-mc0",
-      "source": "devto",
-      "description": "This is the setup guide for Railway-Oriented TypeScript. If you haven't read the overview yet, start...",
-      "author": "sakobume",
-      "tags": [
-        "ai",
-        "opensource",
         "webdev",
-        "typescript"
+        "performance"
       ],
       "category": "web",
       "score": 0,
       "comments_count": 1,
       "reading_time_min": 4,
-      "published_at": "2026-02-20T01:50:00Z",
-      "fetched_at": "2026-02-20T14:36:06.424072+00:00",
+      "published_at": "2026-02-19T23:35:16Z",
+      "fetched_at": "2026-02-20T19:56:49.411673+00:00",
       "language": "en"
     },
     {
-      "title": "Schema-First React Forms: One Schema, Three Error Layers, Zero Glue",
-      "url": "https://dev.to/sakobume/schema-first-react-forms-one-schema-three-error-layers-zero-glue-4lpd",
+      "title": "We Moved to Microservices and Our Delivery Speed Dropped by 40%. Here's What We Should Have Done.",
+      "url": "https://dev.to/matthewhou/we-moved-to-microservices-and-our-delivery-speed-dropped-by-40-heres-what-we-should-have-done-6b6",
       "source": "devto",
-      "description": "This is Part 3 of Railway-Oriented TypeScript. Part 1 showed fieldValidators and setServerErrors...",
-      "author": "sakobume",
+      "description": "The CTO said: \"We need to move to microservices. Our monolith is too complex.\"  Eighteen months...",
+      "author": "matthewhou",
       "tags": [
-        "react",
-        "zod",
-        "valibot",
-        "webdev"
+        "microservices",
+        "architecture",
+        "devops",
+        "programming"
       ],
-      "category": "web",
+      "category": "devops",
       "score": 0,
-      "comments_count": 1,
-      "reading_time_min": 7,
-      "published_at": "2026-02-20T01:45:00Z",
-      "fetched_at": "2026-02-20T14:36:06.424076+00:00",
-      "language": "en"
-    },
-    {
-      "title": "I Stopped Context-Switching Between Validation, Forms, and Pipelines",
-      "url": "https://dev.to/sakobume/i-stopped-context-switching-between-validation-forms-and-pipelines-4h6o",
-      "source": "devto",
-      "description": "There's a moment every TypeScript developer knows. You're staring at a form bug — a server error that...",
-      "author": "sakobume",
-      "tags": [
-        "typescript",
-        "react",
-        "webdev",
-        "opensource"
-      ],
-      "category": "web",
-      "score": 0,
-      "comments_count": 1,
-      "reading_time_min": 8,
-      "published_at": "2026-02-20T01:30:00Z",
-      "fetched_at": "2026-02-20T14:36:06.424080+00:00",
+      "comments_count": 0,
+      "reading_time_min": 5,
+      "published_at": "2026-02-19T23:09:57Z",
+      "fetched_at": "2026-02-20T19:56:49.411680+00:00",
       "language": "en"
     },
     {
@@ -3013,27 +3269,44 @@
       "comments_count": 1,
       "reading_time_min": 2,
       "published_at": "2026-02-20T03:10:54Z",
-      "fetched_at": "2026-02-20T14:36:06.424084+00:00",
+      "fetched_at": "2026-02-20T19:56:49.411683+00:00",
       "language": "en"
     },
     {
-      "title": "SeeTheSharpFlag — Hack The Box Mobile Challenge Write-up",
-      "url": "https://dev.to/r00tj0k3r/seethesharpflag-hack-the-box-mobile-challenge-write-up-3lfh",
+      "title": "Building PortPilot: A Modern TUI for Port Management",
+      "url": "https://dev.to/abdullahtarakji/building-portpilot-a-modern-tui-for-port-management-2p18",
       "source": "devto",
-      "description": "🧭 Overview  The goal of this challenge was to analyze an Android application and retrieve the secret...",
-      "author": "r00tj0k3r",
+      "description": "Building PortPilot: A Modern TUI for Port Management   Ever typed lsof -i :3000 | grep...",
+      "author": "abdullahtarakji",
       "tags": [
-        "android",
-        "cybersecurity",
-        "mobile",
-        "security"
+        "devtools"
       ],
-      "category": "security",
+      "category": "career",
       "score": 0,
       "comments_count": 0,
       "reading_time_min": 2,
-      "published_at": "2026-02-19T15:40:20Z",
-      "fetched_at": "2026-02-20T14:36:06.424089+00:00",
+      "published_at": "2026-02-20T15:49:32Z",
+      "fetched_at": "2026-02-20T19:56:49.411693+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Working With AI Tools on a New Library",
+      "url": "https://dev.to/sakobume/working-with-ai-tools-on-a-new-library-mc0",
+      "source": "devto",
+      "description": "This is the setup guide for Railway-Oriented TypeScript. If you haven't read the overview yet, start...",
+      "author": "sakobume",
+      "tags": [
+        "ai",
+        "opensource",
+        "webdev",
+        "typescript"
+      ],
+      "category": "web",
+      "score": 0,
+      "comments_count": 2,
+      "reading_time_min": 4,
+      "published_at": "2026-02-20T01:50:00Z",
+      "fetched_at": "2026-02-20T19:56:49.411696+00:00",
       "language": "en"
     },
     {
@@ -3052,47 +3325,102 @@
       "comments_count": 0,
       "reading_time_min": 6,
       "published_at": "2026-02-20T01:40:00Z",
-      "fetched_at": "2026-02-20T14:36:06.424093+00:00",
+      "fetched_at": "2026-02-20T19:56:49.411700+00:00",
       "language": "en"
     },
     {
-      "title": "I built a modular Fraud Detection System to solve 0.17% class imbalance (RF + XGBoost)",
-      "url": "https://dev.to/rosspeili/i-built-a-modular-fraud-detection-system-to-solve-017-class-imbalance-rf-xgboost-1oa5",
+      "title": "I Stopped Context-Switching Between Validation, Forms, and Pipelines",
+      "url": "https://dev.to/sakobume/i-stopped-context-switching-between-validation-forms-and-pipelines-4h6o",
       "source": "devto",
-      "description": "Hi everyone! I wanted to share a project I've been polishing to demonstrate how to structure a...",
-      "author": "rosspeili",
+      "description": "There's a moment every TypeScript developer knows. You're staring at a form bug — a server error that...",
+      "author": "sakobume",
       "tags": [
-        "datascience",
-        "machinelearning",
-        "python",
-        "showdev"
+        "typescript",
+        "react",
+        "webdev",
+        "opensource"
       ],
-      "category": "languages",
+      "category": "web",
       "score": 0,
-      "comments_count": 1,
-      "reading_time_min": 1,
-      "published_at": "2026-02-19T16:05:43Z",
-      "fetched_at": "2026-02-20T14:36:06.424097+00:00",
+      "comments_count": 2,
+      "reading_time_min": 8,
+      "published_at": "2026-02-20T01:30:00Z",
+      "fetched_at": "2026-02-20T19:56:49.411703+00:00",
       "language": "en"
     },
     {
-      "title": "You Don’t Need Motivation — You Need a System",
-      "url": "https://dev.to/renato_silva_71eef0fc385f/you-dont-need-motivation-you-need-a-system-3378",
+      "title": "Schema-First React Forms: One Schema, Three Error Layers, Zero Glue",
+      "url": "https://dev.to/sakobume/schema-first-react-forms-one-schema-three-error-layers-zero-glue-4lpd",
       "source": "devto",
-      "description": "One of the biggest lies beginners believe is this:   “When I feel more motivated, I’ll study...",
-      "author": "renato_silva_71eef0fc385f",
+      "description": "This is Part 3 of Railway-Oriented TypeScript. Part 1 showed fieldValidators and setServerErrors...",
+      "author": "sakobume",
       "tags": [
-        "programming",
-        "beginners",
-        "learning",
-        "productivity"
+        "react",
+        "zod",
+        "valibot",
+        "webdev"
       ],
-      "category": "career",
+      "category": "web",
       "score": 0,
-      "comments_count": 1,
+      "comments_count": 2,
+      "reading_time_min": 7,
+      "published_at": "2026-02-20T01:45:00Z",
+      "fetched_at": "2026-02-20T19:56:49.411707+00:00",
+      "language": "en"
+    },
+    {
+      "title": "10.Set Up Time Check Pod in Kubernetes",
+      "url": "https://dev.to/thukhakyawe_cloud/10set-up-time-check-pod-in-kubernetes-2g4p",
+      "source": "devto",
+      "description": "Lab Information   The Nautilus DevOps team needs a time check pod created in a specific...",
+      "author": "thukhakyawe_cloud",
+      "tags": [
+        "aws",
+        "kuberneteslevel1"
+      ],
+      "category": "devops",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 3,
+      "published_at": "2026-02-20T02:30:00Z",
+      "fetched_at": "2026-02-20T19:56:49.411710+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Developers: Are You Struggling to Surface Competitors When Pitching Your SaaS?",
+      "url": "https://dev.to/paultowers/developers-are-you-struggling-to-surface-competitors-when-pitching-your-saas-1500",
+      "source": "devto",
+      "description": "You built the product.  You handled the architecture. You jumped on the demo. You answered the API...",
+      "author": "paultowers",
+      "tags": [
+        "saas"
+      ],
+      "category": "general",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 5,
+      "published_at": "2026-02-20T00:08:17Z",
+      "fetched_at": "2026-02-20T19:56:49.411714+00:00",
+      "language": "en"
+    },
+    {
+      "title": "I Built a Drum Tuner That Vibrates When You’re Out of Tune",
+      "url": "https://dev.to/niki_indjov_791e4c9df1/i-built-a-drum-tuner-that-vibrates-when-youre-out-of-tune-2hic",
+      "source": "devto",
+      "description": "🥁 Live demo: https://indjoov.github.io/drumcraft/ ⭐ GitHub:...",
+      "author": "niki_indjov_791e4c9df1",
+      "tags": [
+        "opensource",
+        "javascript",
+        "a11y",
+        "webaudio"
+      ],
+      "category": "web",
+      "score": -1,
+      "comments_count": 0,
       "reading_time_min": 2,
-      "published_at": "2026-02-20T09:23:55Z",
-      "fetched_at": "2026-02-20T14:36:06.424102+00:00",
+      "published_at": "2026-02-20T08:11:28Z",
+      "fetched_at": "2026-02-20T19:56:49.411659+00:00",
       "language": "en"
     }
   ]
