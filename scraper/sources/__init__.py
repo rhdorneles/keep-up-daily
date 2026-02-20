@@ -15,6 +15,7 @@ ALL_SCRAPERS = [
     RedditScraper,
     LobstersScraper,
     HashnodeScraper,
+    SaoPauloRSS,
 ]
 
 __all__ = [
