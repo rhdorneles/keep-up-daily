@@ -1,6 +1,9 @@
 # scraper/sources/sao_paulo_rss.py
 from .base import BaseScraper
+from collections import namedtuple
 import feedparser
+
+Article = namedtuple("Article", ["title", "url"])
 
 class SaoPauloRSS(BaseScraper):
     def fetch(self):
@@ -8,10 +11,8 @@ class SaoPauloRSS(BaseScraper):
         feed = feedparser.parse(feed_url)
 
         articles = []
-        for entry in feed.entries[:10]:  # get the 10 latest news
-            articles.append({
-                "title": entry.title,
-                "url": entry.link
-            })
-
+        for entry in feed.entries[:10]:
+            articles.append(
+                Article(title=entry.title, url=entry.link)  # <-- use object
+            )
         return articles
