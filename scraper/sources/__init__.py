@@ -6,6 +6,7 @@ from .github_trending import GitHubTrendingScraper
 from .reddit import RedditScraper
 from .lobsters import LobstersScraper
 from .hashnode import HashnodeScraper
+from .sao_paulo_rss import SaoPauloRSS
 
 ALL_SCRAPERS = [
     DevtoScraper,
