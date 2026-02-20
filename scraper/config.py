@@ -25,43 +25,9 @@ RETENTION_DAYS = 30
 # Source configuration
 # ---------------------------------------------------------------------------
 SOURCES = {
-    "devto": {
-        "enabled": True,
-        "max_articles": 30,
-    },
-    "hackernews": {
-        "enabled": True,
-        "max_articles": 30,
-    },
-    "github_trending": {
-        "enabled": True,
-        "languages": ["", "python", "javascript", "typescript", "rust", "go"],
-    },
-    "reddit": {
-        "enabled": True,
-        "subreddits": [
-            "programming",
-            "webdev",
-            "machinelearning",
-            "devops",
-            "python",
-            "rust",
-            "golang",
-            "javascript",
-            "reactjs",
-            "node",
-            "cpp",
-        ],
-        "max_per_subreddit": 10,
-    },
-    "lobsters": {
-        "enabled": True,
-        "max_articles": 25,
-    },
-    "hashnode": {
-        "enabled": True,
-        "max_articles": 20,
-    },
+    "sao_paulo_rss": {
+    "enabled": True
+},
 }
 
 # ---------------------------------------------------------------------------
